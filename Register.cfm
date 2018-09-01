@@ -1,24 +1,76 @@
 <cfinclude template="header.cfm">
     
-     <!-- forms -->
-    <link rel="stylesheet" href="js/form/sky-forms2.css" type="text/css" media="all">
+<!-- forms -->
+<link rel="stylesheet" href="js/form/sky-forms2.css" type="text/css" media="all">
 
-<div class="clearfix">
-</div>
-<br/>
+<!-- forms -->
+<link rel="stylesheet" href="js/form/sky-forms2.css" type="text/css" media="all">
 
-	<div class="clearfix marb10">
-	</div>
+
+<!-- MasterSlider -->
+<link rel="stylesheet" href="js/masterslider/style/masterslider.css" />
+<link rel="stylesheet" href="js/masterslider/skins/default/style.css" />
+
+<style type="text/css">
+.page_title {
+    position: relative;
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 220px 0px 120px 0px;
+    background: #fff url(images/register.jpg) no-repeat center top;
+    background-size:cover;
+    height:60vh;
 	
-	<div class="container">
+}
 
 
-		<cfif mode is "finish">
-			<cflocation url="registerSuccess.cfm" >
-			
-		</cfif>
+.page_title .title h1.titleCustom{
+	margin:0px;
+	background:none;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+.nojustify p{
+	text-align:left;
+}
+.features_sec3{
+	padding-bottom:25px;
+}		
+</style>
+<cfif mode is "sendmail" >
+
+
+<cfmail 
+		from="#email#" 
+		subject="#phone#" 
+		to="jacobdeanpostanes@gmail.com"
 		
-						<!--- form handler --->
+		username=""
+		password=""
+		port="587"
+		server="smtp.sendgrid.net"
+		usetls="true" 
+		type="html">
+	
+	 <cfmailpart type="text/html" charset="utf-8">#name#</cfmailpart>
+	 <cfmailpart type="text/html" charset="utf-8">#email#</cfmailpart>
+	 <cfmailpart type="text/html" charset="utf-8">#subject#</cfmailpart>
+    <cfmailpart type="text/html" charset="utf-8">#bName#</cfmailpart>
+    
+</cfmail>
+
+</cfif>
+
+<cfif mode is "finish">
+	<cflocation url="registerSuccess.cfm">
+</cfif>
+
+<!--- form handler --->
 		<cfif isdefined("submitted")>
 		
 			
@@ -35,14 +87,14 @@
 							<!--- insert name if not existing --->
 							<cfquery>
 								INSERT INTO contactUs 
-								( type, name, email, phone, bName) 
+								( name, email, phone, bName) 
 								VALUES
 								(
-									<cfqueryparam value="#form.type#" cfsqltype="cf_sql_varchar" />,
 									<cfqueryparam value="#form.name#" cfsqltype="cf_sql_varchar" />,
 									<cfqueryparam value="#form.email#" cfsqltype="cf_sql_varchar" />,
 									<cfqueryparam value="#form.phone#" cfsqltype="cf_sql_varchar" />,
 									<cfqueryparam value="#form.bName#" cfsqltype="cf_sql_varchar" />
+									
 								)
 							</cfquery>			
 						</cfif>
@@ -50,44 +102,82 @@
 				<cflocation url="#cgi.script_NAME#?mode=finish" addtoken="false" >
 		</cfif>
 	
+<div class="clearfix"></div>
 
-			<cfif mode is "default" >
-			<br>
-			<br>
-				<h4>
-					Feel free to talk to our online representative at any time you please using our Live Chat system 
-					on our <a href="https://www.onevoix.com" style="color:blue">website </a>or one of the below instant messaging programs.
-				</h4>
-				<br/>
-				<p>
-					Please be patient while waiting for response. (24/7 Support!) 
-					<strong>
-						Phone General Inquiries: +1 844-214-8777 or +63917 795-0990
-					</strong>
-				</p>
-				<br/>
-				<br/>
-				<br/>	
-				
-				<cfset ID = "">
-				<cfset type = "">
-				<cfset name = "">
-				<cfset phone = "">		
-				<cfset email ="">	
-				<cfset bName = "">
-				
-			<div class="cforms">
+<div class="page_title">
+<div class="container">
+
+		<div class="ms-layer centext text1 white animate fadeInLeft" data-ease="easeOutExpo">
+            <strong>Virtual Assistant Go </strong>
+        </div>
+        
+        <div class="ms-layer centext text2 white animate fadeInRight" data-effect="bottom(50)" data-duration="2000" data-delay="500" data-ease="easeOutExpo">
+            <h5>Focus On What You Do Best! Our Virtual Assistant Will take Care Of The Rest</h5>
+       	</div>
+
+
+</div>
+</div><!-- end page title -->
+
+
+<cfif mode is "default" >
+    
+
+
+<div class="clearfix"></div>
+<div class="content_fullwidth less">
+
+
+<div class="container">
+
+		
+<cfset ID = "">
+<cfset name = "">
+<cfset email = "">
+<cfset phone = "">
+<cfset bName = "">   
+
+	<div class="features_sec45">
+		<div class="container">
+		
+			<h6 class="animate" data-anim-type="fadeInUp" data-anim-delay="100">
+				- Welcome to virtualassistantgo.com -
+			</h6>
+			
+			<h1 class="animate resize0" data-anim-type="fadeInUp" data-anim-delay="150">
+				We've Been 
+				<em>
+					Expecting
+				</em>
+				You
+				<b>
+					This Could be the Beginning of a Beautiful Relationship
+				</b>
+			</h1>
+			
+        	<p2 class="less2 animate" data-anim-type="fadeInUp" data-anim-delay="200" 
+        	    style="text-align:left">
+        		Most business owners, professionals, coaches, consultants, entrepreneurs
+        		have more to-dos than they can manage. At Virtualassistantgo, we take these to-dos 
+        		off of your hands and give you the time to focus on growing your business and 
+        		doing what you do best!
+        	</p2>
+		</div>
+	</div>
+	<!-- end features section -->
+	
+	<!---##########FORM START###########--->
+		 <div class="one_half animate fadeInLeft">
+		 	
+		 
+		    <div class="reg_form">
 			
 			<cfoutput>
-				
-				<div class="reg_form">
-					
-				
-            		<form action="#cgi.SCRIPT_NAME#" method="post" id="sky-form" class="sky-form">
+            		<form action="#cgi.SCRIPT_NAME#" method="post" id="sky-form" class="sky-form" style="margin-top:50px;">
 						<header>
-							Please Enter Required 
+							Please Fill out your Details Below and One of our Staff will Contact you
 							<strong>
-								Details
+								Shortly
 							</strong>
 						</header>
 						<fieldset>
@@ -112,20 +202,17 @@
 										<input type="email" name="email" id="email" value="#email#" required="true">
 									</label>
 								</section>
-						
-								<section class="col col-6">
-									<label class="label">
-										Phone
-									</label>
-									<label class="input">
-										<i class="icon-append fa-phone">
-										</i>
-										<input type="phone" name="phone" id="phone" value="#phone#" required="true">
-									</label>
-								</section>
-								
-								
-								<section class="col col-6">
+                        	<section class="col col-6">
+                        		<label class="label">
+                        			Phone
+                        		</label>
+                        		<label class="input">
+                        			<i class="icon-append fa-phone">
+                        			</i>
+                        			<input type="phone" name="phone" id="phone" value="#phone#"  required="true">                       			      
+                        		</label>
+                        	</section>
+							<section class="col col-6">
 									<label class="label">
 										Business Name
 									</label>
@@ -135,28 +222,46 @@
 										<input type="bName" name="bName" id="bName" value="#bName#">
 									</label>
 								</section>
-								
-								
-							</div>
 						</fieldset>
 						<footer>
-							<input type="submit" class="button" name="Submit" value="Submit">			
+							<input type="submit" class="button" name="sendmail" value="Submit">	
+							<!---<input type="hidden" name="mode" value="sendmail" >	--->	
 							<input type="hidden" name="id" value="#ID#" >	
-							<input type="hidden" name="mode" value="#mode#">
+							<input type="hidden" name="mode" value="sendmail">
 							<input type="hidden" name="submitted" value="1">
 						</footer>
 						
 					</form>
-				</div>
             </cfoutput>
 			</div>
-			
+		</div>
+				<div class="one_half last animate fadeInRight" style="margin-top:50px;">
+					<h4 class="color">
+						Ask a Question?
+					</h4>
+					
+                	<h5>
+                		Feel free to talk to our online representative at any time using our 
+                		Live Chat system
+                		on our 
+                		<a href="https://www.onevoix.com" style="color:blue">
+                			website 
+                		</a>
+                		or one of the below instant messaging programs.
+                	</h5>
+                	<h5>
+                		Please be patient while waiting for response. (24/7 Support!) Phone General 
+                		Inquiries: +1 844-214-8777 or +63917 795-0990 
+                	</h5>
+					<!-- end section -->
+				</div>
+		</div>
+	</div>
 			</cfif>	
 	
 		<!-- end section -->
 		
-	</div>
-</div>
+	
 <!-- end content area -->
 <div class="clearfix margin_top10">
 </div>
