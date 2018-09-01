@@ -131,10 +131,10 @@
 	max-width="1920px" object-fit="contain" >--->
    	<div style="padding-top:200px;"></div>
     <div class="title">
-    	<h1 class="titleCustom">EMPOWER YOUR BUSINESS TODAY</h1>
+    	<h1 class="titleCustom animate fadeInLeft">EMPOWER YOUR BUSINESS TODAY</h1>
     </div>
 
-	 <div class="title vcenter">
+	 <div class="title vcenter animate fadeInRight">
 	 	<h3 >Our skilled virtual assistants are ready to bring your business to a new level!</h3>
 	 </div>	
 	<!---<button type="button" class="btn btn-primary btn-lg">learn more</button>--->
