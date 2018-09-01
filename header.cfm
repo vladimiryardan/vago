@@ -143,7 +143,10 @@
 	        <li class="dropdown">
 	        	<a href="Contact.cfm">CONTACT</a>
 	        </li>
-                
+              
+             <li class="button" style=" border:solid; border-radius:25px; color:#278ECB;">
+	        	<a href="Register.cfm">GET STARTED</a>
+	        </li> 
         </ul>
         
       </div>
