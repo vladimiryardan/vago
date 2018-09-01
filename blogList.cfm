@@ -102,12 +102,12 @@
 <div class="content_fullwidth2" style="margin-bottom:50px;">
 <div class="container">
 
-	<div class="content_halfsite">
+	<div class="content_fullwidth">
     
     
     	<div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/blog1.png" alt="" /></a></div>
+        <div class="image_frame"><a href="#"><img src="images/blog.jpg" alt="" /></a></div>
         <h3><a href="liveChat.cfm">Live Chat</a></h3>
             <ul class="post_meta_links">
             	<li><a href="#" class="date">27 December 2014</a></li>
@@ -216,11 +216,11 @@
     
     </div><!-- end section -->
     
-    <div class="content_halfsite last">
+    <div class="content_fullwidth last">
     
     	    <div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/phoneMan.jpg" alt="" /></a></div>
+        <div class="image_frame"><a href="#"><img src="images/5ways.jpg" alt="" /></a></div>
         <h3><a href="fiveWays.cfm">5 Ways You Know It’s Time to Invest in VoIP</a></h3>
             <ul class="post_meta_links">
             	<li><a href="#" class="date">15 June 2015</a></li>
@@ -285,7 +285,7 @@
     
     <div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/vaDo.png" alt="" /></a></div>
+        <div class="image_frame"><a href="#"><img src="images/vado.jpg" alt="" /></a></div>
         <h3><a href="blog-post.html">What Can a Virtual Assistant Do?</a></h3>
             <ul class="post_meta_links">
             	<li><a href="#" class="date">October 25, 2017 </a></li>
