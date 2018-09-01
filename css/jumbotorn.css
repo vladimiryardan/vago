@@ -1,0 +1,106 @@
+.jumbotron-billboard .img {
+    margin-bottom: 0px;
+    /*opacity: 0.2;*/
+    color: #fff;
+    /*background: #000 url("https://bootstrapcreative.com/wp-bc/wp-content/uploads/2017/03/learning-story.png") top center no-repeat;*/
+    width: 100%;
+    height: 700px;   
+    background-size: cover;
+    overflow: hidden;
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:1;
+
+}
+
+
+
+@media screen and (max-width: 600px) {
+  
+ .dke{
+    font-size: .875rem;
+    height: 20px;
+    color: #E54C45;
+    margin-bottom: 30px;
+  }
+  .de{
+    font-size: .875rem;
+    height: 2px;
+    color: #E54C45;
+    margin-bottom: 30px;
+  }
+  .dee{
+    font-size: .650rem;
+    height: 10px;
+    color: #E54C45;
+    margin-bottom: 30px;
+  }
+  .btn-lg {
+    padding: .28rem .5rem;
+    font-size: .875rem;
+    /*font-size: 5px;*/
+    line-height: 1.5;
+    
+    border-radius: .2rem;
+    background-color: #3183D7;
+    border:none;
+    font-weight: bold;
+    text-transform: uppercase;
+     font-family: Open Sans;
+}
+
+
+
+}
+@media screen and (min-width: 600px) {
+  
+
+  
+  .btn-lg {
+   background-color: #3183D7;
+  border:none;
+  font-weight: bold;
+      font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: Open Sans;
+    padding: 15px;
+}
+
+
+
+}
+
+
+.jumbotron h2 {margin-top:0;}
+.jumbotron {
+  position:relative;
+  padding-top:150px;
+  padding-bottom:50px;
+  /*background-repeat:no-repeat;
+background-position:center;
+background-size: cover;
+padding:200px 0 140px 0;
+margin-bottom:70px;*/
+}
+.jumbotron .container {
+  position:relative;
+  z-index:2;
+}
+
+@media screen and (max-width: 768px) {
+  .jumbotron {
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-top: 100px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+ .contatadj
+ {
+  padding-top: -350px;
+ }
+}
+
