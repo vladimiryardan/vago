@@ -154,7 +154,7 @@
 					This Could be the Beginning of a Beautiful Relationship
 				</b>
 			</h1>
-			
+			<div class="harrow_line"></div>
         	<p2 class="less2 animate" data-anim-type="fadeInUp" data-anim-delay="200" 
         	    style="text-align:left">
         		Most business owners, professionals, coaches, consultants, entrepreneurs
@@ -171,7 +171,7 @@
 		 <div class="one_half animate fadeInLeft">
 		 	
 		 
-		    <div class="reg_form">
+		    <div class="reg_form" style="padding-top:0px;">
 			
 			<cfoutput>
             		<form action="#cgi.SCRIPT_NAME#" method="post" id="sky-form" class="sky-form" style="margin-top:50px;">
@@ -237,6 +237,7 @@
 			</div>
 		</div>
 				<div class="one_half last animate fadeInRight" style="margin-top:50px;">
+					<br>
 					<h4 class="color">
 						Want to Grow Your Business?
 					</h4>
