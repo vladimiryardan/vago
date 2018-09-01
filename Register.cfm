@@ -158,7 +158,8 @@
         	<p2 class="less2 animate" data-anim-type="fadeInUp" data-anim-delay="200" 
         	    style="text-align:left">
         		Most business owners, professionals, coaches, consultants, entrepreneurs
-        		have more to-dos than they can manage. At Virtualassistantgo, we take these to-dos 
+        		have more to-dos than they can manage. The good news? Virtualassistantgo makes it easier
+        		with a team of highly skilled, experienced & reliable assistants, we take these to-dos 
         		off of your hands and give you the time to focus on growing your business and 
         		doing what you do best!
         	</p2>
@@ -237,7 +238,7 @@
 		</div>
 				<div class="one_half last animate fadeInRight" style="margin-top:50px;">
 					<h4 class="color">
-						Ask a Question?
+						Want to Grow Your Business?
 					</h4>
 					
                 	<h5>
@@ -252,6 +253,9 @@
                 	<h5>
                 		Please be patient while waiting for response. (24/7 Support!) Phone General 
                 		Inquiries: +1 844-214-8777 or +63917 795-0990 
+                	</h5>
+                	<h5>
+                		Email: info@onevoix.com
                 	</h5>
 					<!-- end section -->
 				</div>
