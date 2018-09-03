@@ -1,40 +1,77 @@
 <cfinclude template="header.cfm">
 
+<!---##########Header Start###########--->
 <head>
+<!-- forms -->
+<link rel="stylesheet" href="js/form/sky-forms2.css" type="text/css" media="all">
+
+<!-- forms -->
+<link rel="stylesheet" href="js/form/sky-forms2.css" type="text/css" media="all">
+	
+	
+
     <!-- MasterSlider -->
 	<link rel="stylesheet" href="js/masterslider/style/masterslider.css" />
     <link rel="stylesheet" href="js/masterslider/skins/default/style.css" />
 	
 </head>
-<br>
-<div class="mstslider" style="margin-top:50px;">
+<!---##########Header Ends########## --->
 
-<!-- masterslider -->
-<div class="master-slider ms-skin-default" id="masterslider">
-
-	<!-- slide -->
-	<div class="ms-slide slide-1" data-delay="7" style=" height:450px;">
+<!---#########CSS Start######### --->
+<style type="text/css">
+.page_title {
+    position: relative;
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 220px 0px 120px 0px;
+    background: #fff url(images/5ways.jpg) no-repeat center top;
+    background-size:cover;
+    height:60vh;
 	
-		<!-- slide background -->
-		<img src="images/phoneMan.jpg" alt="" width="100%"
-		     object-fit="contain" max-width="1400px";/>
-		     
-		     <div class="ms-layer centext text1 white"
-        	style="top:200px"
-            data-ease="easeOutExpo"
-        ><strong>Blog</strong></div>
+}
+
+
+.page_title .title h1.titleCustom{
+	margin:0px;
+	background:none;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+.nojustify p{
+	text-align:left;
+}
+.features_sec3{
+	padding-bottom:25px;
+}		
+</style>
+
+<!---##########CSS ENDS########## --->
+
+<!---##########Page Title##########--->
+<div class="page_title">
+<div class="container">
+
+		<div class="ms-layer centext text1 white animate fadeInLeft" data-ease="easeOutExpo">
+            <strong>Five signs can tell that you need a VA </strong>
+        </div>
         
-        
-      	<div class="ms-layer centext sdbut"
-        	style="top:300px"
-            data-effect="bottom(100)"
-           
-            data-ease="easeOutExpo"
-        ><a href="Register.cfm">Request a Consultation</a></div>
-        
+        <div class="ms-layer centext text2 white animate fadeInRight" data-effect="bottom(50)" data-duration="2000" data-delay="500" data-ease="easeOutExpo">
+            <h5>Keeping up with the Competition is the Best Way for your Business</h5>
+       	</div>
+
 </div>
-</div>
-</div>
+</div><!-- end page title -->
+
+<!---############Page Title Ends ############--->
+<div class="clearfix margin_top5"></div>
+
+
+<!---############Content Start ############--->
 
 <div class="content_fullwidth" style="padding-top:50px;">
 	<div class="container">
@@ -211,6 +248,8 @@
 </div>
 <div class="clearfix">
 </div>
+
+<!---############Content Ends############ --->
 
 
 <!-- ######### JS FILES ######### -->

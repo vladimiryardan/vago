@@ -1,50 +1,71 @@
 <cfinclude template="header.cfm">
 
 
-<div class="clearfix">
-</div>
-
+<!---##########Header Start###########--->
 <head>
+<!-- forms -->
+<link rel="stylesheet" href="js/form/sky-forms2.css" type="text/css" media="all">
+
+<!-- forms -->
+<link rel="stylesheet" href="js/form/sky-forms2.css" type="text/css" media="all">
+	
+	
+
     <!-- MasterSlider -->
 	<link rel="stylesheet" href="js/masterslider/style/masterslider.css" />
     <link rel="stylesheet" href="js/masterslider/skins/default/style.css" />
 	
 </head>
+<!---##########Header Ends########## --->
 
-<div class="mstslider" style="margin-top:50px;">
-
-<!-- masterslider -->
-<div class="master-slider ms-skin-default" id="masterslider">
-
-	<!-- slide -->
-	<div class="ms-slide slide-1" data-delay="7" style=" height:450px;">
+<!---#########CSS Start######### --->
+<style type="text/css">
+.page_title {
+    position: relative;
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 220px 0px 120px 0px;
+    background: #fff url(images/question.jpg) no-repeat center top;
+    background-size:cover;
+    height:60vh;
 	
-		<!-- slide background -->
-		<img src="images/question.jpg" alt="" width="100%"
-		     object-fit="contain" max-width="1400px";/>
-		     
-		     <div class="ms-layer centext text1 white"
-        	style="top:240px"
-            data-ease="easeOutExpo"
-        ><strong>Why You Should Hire a VA Today? </strong></div>
+}
+
+
+.page_title .title h1.titleCustom{
+	margin:0px;
+	background:none;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+.nojustify p{
+	text-align:left;
+}
+.features_sec3{
+	padding-bottom:25px;
+}		
+</style>
+
+<!---##########CSS ENDS########## --->
+
+<div class="page_title">
+<div class="container">
+
+		<div class="ms-layer centext text1 white animate fadeInLeft" data-ease="easeOutExpo">
+            <strong>Why You Should Hire a Virtual Assistant? </strong>
+        </div>
         
-        <div class="ms-layer centext text2 white"
-        	style="top:315px"
-            data-effect="bottom(50)"
-            data-duration="2000"
-            data-delay="500"
-            data-ease="easeOutExpo"
-        >Our skilled virtual assistants are ready to bring your business to a new level!</div>
-        
-      	<div class="ms-layer centext sdbut"
-        	style="top:390px"
-            data-effect="bottom(100)"
-           
-            data-ease="easeOutExpo"
-        ><a href="register.cfm">Request a Consultation</a></div>
-        
+        <div class="ms-layer centext text2 white animate fadeInRight" data-effect="bottom(50)" data-duration="2000" data-delay="500" data-ease="easeOutExpo">
+            <h5>With their Top-Notch Assistance, You'll Get Things Done Easily</h5>
+       	</div>
+
 </div>
-</div>
+</div><!-- end page title -->
 <div class="clearfix margin_top5"></div>
 
 <div class="content_fullwidth" style="padding:10px 0px 50px 0px;">
@@ -270,6 +291,7 @@
             			Reason #5: Focus on The Core Operations
             		</b>
             	</p>
+            	<br>
             	<p>
             		As an entrepreneur, you need more time to focus on your core business functions.
             	</p>
@@ -315,6 +337,7 @@
             	<p>
             		Besides, you don&#39;t have to worry about any temporary shortage of manpower with virtual assistance services.
             	</p>
+            	<br>
             	<p>
             		<b>
             			Wondering why so?
@@ -407,7 +430,7 @@
             	</p>
             
             	<br>
-            	<p>Source:<a href="https://mytasker.com/blog/reasons-to-hire-a-virtual-assistant/">&nbsp; mytasker.com</i></a></li></p>
+            	<p>Source:<a href="https://mytasker.com/blog/reasons-to-hire-a-virtual-assistant/">&nbsp; www.mytasker.com</i></a></li></p>
 			</div>
 		</div>
 	</div>
