@@ -135,6 +135,7 @@
         		that
         		gives excellent customer
         		service even if the price of the commodity is high.
+        		<br>
         		<a href="liveChat.cfm">
         			read more...
         		</a>
@@ -169,6 +170,7 @@
         		leading suppliers and guiding readers through a number of areas that should be covered 
         		when
         		investing in VoIP headset technology.
+        		<br>
         		<a href="voipHeadset.cfm">
         			read more...
         		</a>
@@ -206,6 +208,7 @@
             		generating more and more profits. Entrepreneurs, who succeed with their business 
             		ventures, perform two things very well:
             	</p>
+            	
 				<a href="top16.cfm">
 					read more...
 				</a>
@@ -242,6 +245,7 @@
         		but isn’t keeping up with the competition the best way for your business to be more 
         		productive,
         		attract customers, and increase profits? 
+        		<br>
         		<a href="fiveWays.cfm">
         			read more...
         		</a>
@@ -274,6 +278,7 @@
         		need help but don't want to bring on staff in their location. However, many small and
         		mid-size businesses use virtual support, especially for specific tasks such as social
         		media management.
+        		<br>
         		<a href="virtualAsst.cfm">
         			read more...
         		</a>
@@ -297,7 +302,9 @@
          <div class="margin_top1"></div>
         <p>Having a hard time envisioning the work of a virtual assistant? When you picture someone’s personal 
         or executive assistant, they’re usually standing right beside them, ready to, well, assist. How does 
-        that work virtually?<a href="whatvado.cfm"> read more...</a></p>
+        that work virtually?
+        <br>
+        <a href="whatvado.cfm"> read more...</a></p>
         </div> 
     </div><!-- /# end post -->
    
