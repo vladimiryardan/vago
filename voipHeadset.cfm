@@ -1,46 +1,73 @@
 <cfinclude template="header.cfm">
 
+<!---##########Header Start###########--->
 <head>
+<!-- forms -->
+<link rel="stylesheet" href="js/form/sky-forms2.css" type="text/css" media="all">
+
+<!-- forms -->
+<link rel="stylesheet" href="js/form/sky-forms2.css" type="text/css" media="all">
+	
+	
+
     <!-- MasterSlider -->
 	<link rel="stylesheet" href="js/masterslider/style/masterslider.css" />
     <link rel="stylesheet" href="js/masterslider/skins/default/style.css" />
 	
 </head>
+<!---##########Header Ends########## --->
 
-<div class="mstslider" style="margin-top:50px;">
-
-<!-- masterslider -->
-<div class="master-slider ms-skin-default" id="masterslider">
-
-	<!-- slide -->
-	<div class="ms-slide slide-1" data-delay="7" style=" height:450px;">
+<!---#########CSS Start######### --->
+<style type="text/css">
+.page_title {
+    position: relative;
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 220px 0px 120px 0px;
+    background: #fff url(images/headSet.jpg) no-repeat center top;
+    background-size:cover;
+    height:60vh;
 	
-		<!-- slide background -->
-		<img src="images/headSet.jpg" alt="" width="100%"
-		     object-fit="contain" max-width="1400px";/>
-		     
-		     <div class="ms-layer centext text1 white"
-        	style="top:220px"
-            data-ease="easeOutExpo"
-        ><strong>Live Chat</strong></div>
+}
+
+
+.page_title .title h1.titleCustom{
+	margin:0px;
+	background:none;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+.nojustify p{
+	text-align:left;
+}
+.features_sec3{
+	padding-bottom:25px;
+}		
+</style>
+
+<!---##########CSS ENDS########## --->
+
+	<div class="clearfix"></div>
+
+<div class="page_title">
+<div class="container">
+
+		<div class="ms-layer centext text1 white animate fadeInLeft" data-ease="easeOutExpo">
+            <strong>Voip Headset for Business </strong>
+        </div>
         
-        <div class="ms-layer centext text2 white"
-        	style="top:295px"
-            data-effect="bottom(50)"
-            data-duration="2000"
-            data-delay="500"
-            data-ease="easeOutExpo"
-        >Our skilled virtual assistants are ready to bring your business to a new level!</div>
-        
-      	<div class="ms-layer centext sdbut"
-        	style="top:370px"
-            data-effect="bottom(100)"
-           
-            data-ease="easeOutExpo"
-        ><a href="register.cfm">Request a Consultation</a></div>
-        
+        <div class="ms-layer centext text2 white animate fadeInRight" data-effect="bottom(50)" data-duration="2000" data-delay="500" data-ease="easeOutExpo">
+            <h5>Why Use A Headset?</h5>
+       	</div>
+
 </div>
-</div>
+</div><!-- end page title -->
+
 
 <div class="clearfix">
 </div>
@@ -100,6 +127,7 @@
 						Why Use A Headset?
 					</b>
 				</p>
+				<br>
 				<p id="Advantages-of-VoIP-Headsets-for-Business?">
 					For many aspects of modern business, using a headset with your phone system can be a
 					great help. In a fast paced office, managing your communications process effectively
@@ -112,11 +140,12 @@
 				
 				<br>
 				
-				<p>
+				<h5>
 					<b>
 						Advantages Of VoIP Headsets For Business?
 					</b>
-				</p>
+				</h5>
+				<br>
 				<p id="Advantages-of-VoIP-Headsets-for-Business?">
 					<b>
 						Prevent muscle soreness
@@ -929,7 +958,7 @@
 		    		</li>
 		    	</ul>
 		    	<br>
-            	<p>Source:<a href="https://tech.co/top-10-voip-phone-headsets-for-business-2018-06">&nbsp; tech.co</i></a></li></p>
+            	<p>Source:<a href="https://tech.co/top-10-voip-phone-headsets-for-business-2018-06">&nbsp; www.tech.co</i></a></li></p>
 			</div>
 		</div>
 	</div>
