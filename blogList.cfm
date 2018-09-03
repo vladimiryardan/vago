@@ -107,7 +107,7 @@
     
     	<div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/blog.jpg" alt="" /></a></div>
+        <div class="image_frame"><a href="#"><img src="images/livechat.jpg" alt="" /></a></div>
         <h3><a href="liveChat.cfm">Live Chat</a></h3>
             <ul class="post_meta_links">
             	<li><a href="#" class="date">27 December 2014</a></li>

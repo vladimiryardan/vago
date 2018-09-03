@@ -1,46 +1,70 @@
 <cfinclude template="header.cfm" >
 
+<!---##########Header Start###########--->
 <head>
+<!-- forms -->
+<link rel="stylesheet" href="js/form/sky-forms2.css" type="text/css" media="all">
+
+<!-- forms -->
+<link rel="stylesheet" href="js/form/sky-forms2.css" type="text/css" media="all">
+	
+	
+
     <!-- MasterSlider -->
 	<link rel="stylesheet" href="js/masterslider/style/masterslider.css" />
     <link rel="stylesheet" href="js/masterslider/skins/default/style.css" />
 	
 </head>
+<!---##########Header Ends########## --->
 
-<div class="mstslider" style="margin-top:50px;">
-
-<!-- masterslider -->
-<div class="master-slider ms-skin-default" id="masterslider">
-
-	<!-- slide -->
-	<div class="ms-slide slide-1" data-delay="7" style=" height:450px;">
+<!---#########CSS Start######### --->
+<style type="text/css">
+.page_title {
+    position: relative;
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 220px 0px 120px 0px;
+    background: #fff url(images/livechat.jpg) no-repeat center top;
+    background-size:cover;
+    height:60vh;
 	
-		<!-- slide background -->
-		<img src="images/blog1.png" alt="" width="100%"
-		     object-fit="contain" max-width="1400px";/>
-		     
-		     <div class="ms-layer centext text1 white"
-        	style="top:220px"
-            data-ease="easeOutExpo"
-        ><strong>Live Chat</strong></div>
+}
+
+
+.page_title .title h1.titleCustom{
+	margin:0px;
+	background:none;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+.nojustify p{
+	text-align:left;
+}
+.features_sec3{
+	padding-bottom:25px;
+}		
+</style>
+
+<!---##########CSS ENDS########## --->
+
+<div class="page_title">
+<div class="container">
+
+		<div class="ms-layer centext text1 white animate fadeInLeft" data-ease="easeOutExpo">
+            <strong>Live Chat </strong>
+        </div>
         
-        <div class="ms-layer centext text2 white"
-        	style="top:295px"
-            data-effect="bottom(50)"
-            data-duration="2000"
-            data-delay="500"
-            data-ease="easeOutExpo"
-        >Our skilled virtual assistants are ready to bring your business to a new level!</div>
-        
-      	<div class="ms-layer centext sdbut"
-        	style="top:370px"
-            data-effect="bottom(100)"
-           
-            data-ease="easeOutExpo"
-        ><a href="register.cfm">Request a Consultation</a></div>
-        
+        <div class="ms-layer centext text2 white animate fadeInRight" data-effect="bottom(50)" data-duration="2000" data-delay="500" data-ease="easeOutExpo">
+            <h5>One of the Best Mode of Customer Service is Through Live Chat</h5>
+       	</div>
+
 </div>
-</div>
+</div><!-- end page title -->
 <div class="clearfix margin_top5"></div>
 
 <div class="content_fullwidth" style="padding:0px 0px 50px 0px;">
@@ -87,7 +111,7 @@
 		<p>To help you get a better understanding of how much customers appreciate access to live chat, consider the eDigital Customer Service Benchmark survey of 2000 consumers that found that 
 		live chat had the highest customer satisfaction levels at 73%, as compared to 61% for email support and only 44% for traditional phone support.</p>
         
-        <img src="images/pieChart.jpg" class="img" alt="" />
+        <img src="images/pieChart.jpg" class="img" alt="" width="100%"/>
        
         <p>With numbers like these, it’s easy to see why customers return to businesses that provide live chat. Customers feel more confident doing business with companies that make support easy, 
         hassle free and instantaneous. In fact, a consumer research study from Oracle found that 90% of customers said the “Live Chat” button gives them confidence that they can get help if they 
