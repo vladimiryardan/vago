@@ -13,7 +13,7 @@
 	    width: 100%;
 	    text-align: center;
 	    padding: 220px 0px 120px 0px;
-	    background: #fff url(images/blog.jpg) no-repeat center top;
+	    background: #fff url(images/blogImages/blog.jpg) no-repeat center top;
 	    background-size:cover;
 	    height:60vh;
 		
@@ -107,7 +107,7 @@
     
     	<div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/livechat.jpg" alt="" /></a></div>
+        <div class="image_frame"><a href="#"><img src="images/blogImages/livechat.jpg" alt="" /></a></div>
         <h3><a href="liveChat.cfm">Live Chat</a></h3>
             <ul class="post_meta_links">
             	<li><a href="#" class="date">27 December 2014</a></li>
@@ -146,7 +146,7 @@
     
     <div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/headSet.jpg" alt="" /></a></div>
+        <div class="image_frame"><a href="#"><img src="images/blogImages/headSet.jpg" alt="" /></a></div>
         <h3><a href="voipHeadset.cfm">VoIP Headsets For Business</a></h3>
             <ul class="post_meta_links">
             	<li><a href="#" class="date">20 June 2018</a></li>
@@ -181,7 +181,7 @@
     
     <div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/question.jpg" alt="" /></a></div>
+        <div class="image_frame"><a href="#"><img src="images/blogImages/question.jpg" alt="" /></a></div>
         <h3><a href="top16.cfm">Top 10 Reasons You Should Hire a Virtual Assistant Today</a></h3>
             <ul class="post_meta_links">
             	<li><a href="#" class="date">1 August 2017</a></li>
@@ -220,7 +220,7 @@
     
     	    <div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/5ways.jpg" alt="" /></a></div>
+        <div class="image_frame"><a href="#"><img src="images/blogImages/5ways.jpg" alt="" /></a></div>
         <h3><a href="fiveWays.cfm">5 Ways You Know It’s Time to Invest in VoIP</a></h3>
             <ul class="post_meta_links">
             	<li><a href="#" class="date">15 June 2015</a></li>
@@ -254,7 +254,7 @@
     
     <div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/womantyping.jpg" alt="" /></a></div>
+        <div class="image_frame"><a href="#"><img src="images/blogImages/womantyping.jpg" alt="" /></a></div>
         <h3><a href="virtualAsst.cfm">What is a Virtual Assistant?</a></h3>
             <ul class="post_meta_links">
             	<li><a href="#" class="date">21 March 2018</a></li>
@@ -285,7 +285,7 @@
     
     <div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/vado.jpg" alt="" /></a></div>
+        <div class="image_frame"><a href="#"><img src="images/blogImages/vado.jpg" alt="" /></a></div>
         <h3><a href="whatvado.cfm">What Can a Virtual Assistant Do?</a></h3>
             <ul class="post_meta_links">
             	<li><a href="#" class="date">October 25, 2017 </a></li>
@@ -297,7 +297,7 @@
          <div class="margin_top1"></div>
         <p>Having a hard time envisioning the work of a virtual assistant? When you picture someone’s personal 
         or executive assistant, they’re usually standing right beside them, ready to, well, assist. How does 
-        that work virtually?<a href="whatvado.cfm">read more...</a></p>
+        that work virtually?<a href="whatvado.cfm"> read more...</a></p>
         </div> 
     </div><!-- /# end post -->
    

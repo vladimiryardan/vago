@@ -26,7 +26,7 @@
     width: 100%;
     text-align: center;
     padding: 220px 0px 120px 0px;
-    background: #fff url(images/question.jpg) no-repeat center top;
+    background: #fff url(images/blogImages/question.jpg) no-repeat center top;
     background-size:cover;
     height:60vh;
 	

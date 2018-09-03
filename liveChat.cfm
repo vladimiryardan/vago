@@ -25,7 +25,7 @@
     width: 100%;
     text-align: center;
     padding: 220px 0px 120px 0px;
-    background: #fff url(images/livechat.jpg) no-repeat center top;
+    background: #fff url(images/blogImages/livechat.jpg) no-repeat center top;
     background-size:cover;
     height:60vh;
 	
