@@ -1,5 +1,8 @@
 <cfinclude template="header.cfm">
-    
+
+<!---##########Header Start###########--->
+<head>
+	  
 <!-- forms -->
 <link rel="stylesheet" href="js/form/sky-forms2.css" type="text/css" media="all">
 
@@ -10,7 +13,11 @@
 <!-- MasterSlider -->
 <link rel="stylesheet" href="js/masterslider/style/masterslider.css" />
 <link rel="stylesheet" href="js/masterslider/skins/default/style.css" />
+</head>
 
+<!---##########Header Ends########## --->
+
+<!---#########CSS Start######### --->
 <style type="text/css">
 .page_title {
     position: relative;
@@ -42,6 +49,9 @@
 	padding-bottom:25px;
 }		
 </style>
+
+<!---##########CSS ENDS########## --->
+
 <cfif mode is "sendmail" >
 
 
@@ -246,10 +256,14 @@
                 		Feel free to talk to our online representative at any time using our 
                 		Live Chat system
                 		on our 
-                		<a href="https://www.onevoix.com" style="color:blue">
+                		<a href="https://www.onevoix.com" target="_blank" style="color:blue">
                 			website 
                 		</a>
-                		or one of the below instant messaging programs.
+                		or through our 
+                		<a href="contact.cfm" target="_blank" style="color:blue">
+                		Contact Us
+                		</a>
+                		page and we'll respond as soon as posible
                 	</h5>
                 	<h5>
                 		Please be patient while waiting for response. (24/7 Support!) Phone General 
