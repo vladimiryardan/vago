@@ -69,7 +69,7 @@
 	
 	 <cfmailpart type="text/html" charset="utf-8">#name#</cfmailpart>
 	 <cfmailpart type="text/html" charset="utf-8">#email#</cfmailpart>
-	 <cfmailpart type="text/html" charset="utf-8">#subject#</cfmailpart>
+	 <cfmailpart type="text/html" charset="utf-8">#phone#</cfmailpart>
     <cfmailpart type="text/html" charset="utf-8">#bName#</cfmailpart>
     
 </cfmail>
@@ -81,37 +81,38 @@
 </cfif>
 
 <!--- form handler --->
-		<cfif isdefined("submitted")>
-		
-			
-					<!---Checking existence --->
-					<cfquery name="contactUs" >
-						select * from contactUs
-						where name = <cfqueryparam cfsqltype="cf_sql_varchar" value="#form.name#s">
-					</cfquery>
-			
-					<cfif mode is "default">
-						
-						<cfif contactUs.recordCount eq 0>
-							
-							<!--- insert name if not existing --->
-							<cfquery>
-								INSERT INTO contactUs 
-								( name, email, phone, bName) 
-								VALUES
-								(
-									<cfqueryparam value="#form.name#" cfsqltype="cf_sql_varchar" />,
-									<cfqueryparam value="#form.email#" cfsqltype="cf_sql_varchar" />,
-									<cfqueryparam value="#form.phone#" cfsqltype="cf_sql_varchar" />,
-									<cfqueryparam value="#form.bName#" cfsqltype="cf_sql_varchar" />
-									
-								)
-							</cfquery>			
-						</cfif>
-					</cfif>
-				<cflocation url="#cgi.script_NAME#?mode=finish" addtoken="false" >
-		</cfif>
+<cfif isdefined("submitted")>
 	
+<!---############DATABASE NOTE NEED TO CHECK############--->
+	
+	<!---Checking existence --->
+	<cfquery name="contactUs">
+		select * from contactUs
+		where name = <cfqueryparam cfsqltype="cf_sql_varchar" value="#form.name#s">
+	</cfquery>
+
+	<cfif mode is "default">
+	
+		<cfif contactUs.recordCount eq 0>
+		
+			<!--- insert name if not existing --->
+			<cfquery>
+				INSERT INTO contactUs
+				( name, email, phone, bName)
+				VALUES
+				(<cfqueryparam value="#form.name#" cfsqltype="cf_sql_varchar"/>
+				,<cfqueryparam value="#form.email#" cfsqltype="cf_sql_varchar"/>
+				,<cfqueryparam value="#form.phone#" cfsqltype="cf_sql_varchar"/>
+				,<cfqueryparam value="#form.bName#" cfsqltype="cf_sql_varchar"/>
+				)
+			</cfquery>
+		</cfif>
+	</cfif>
+	<cflocation url="#cgi.script_NAME#?mode=finish" addtoken="false">
+</cfif>
+
+<!---#################################################### --->	
+
 <div class="clearfix"></div>
 
 <div class="page_title">
