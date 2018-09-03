@@ -286,7 +286,7 @@
     <div class="blog_post">	
         <div class="blog_postcontent">
         <div class="image_frame"><a href="#"><img src="images/vado.jpg" alt="" /></a></div>
-        <h3><a href="blog-post.html">What Can a Virtual Assistant Do?</a></h3>
+        <h3><a href="whatvado.cfm">What Can a Virtual Assistant Do?</a></h3>
             <ul class="post_meta_links">
             	<li><a href="#" class="date">October 25, 2017 </a></li>
                 
@@ -297,7 +297,7 @@
          <div class="margin_top1"></div>
         <p>Having a hard time envisioning the work of a virtual assistant? When you picture someone’s personal 
         or executive assistant, they’re usually standing right beside them, ready to, well, assist. How does 
-        that work virtually?<a href="#">read more...</a></p>
+        that work virtually?<a href="whatvado.cfm">read more...</a></p>
         </div> 
     </div><!-- /# end post -->
    
