@@ -8,7 +8,7 @@
 	    width: 100%;
 	    text-align: center;
 	    padding: 220px 0px 120px 0px;
-	    background: #fff url(images/riseofva.jpg) no-repeat center top;
+	    background: #fff url(images/blogImages/riseofva.jpg) no-repeat center top;
 	    background-size:cover;
 	    height:60vh;
 		
