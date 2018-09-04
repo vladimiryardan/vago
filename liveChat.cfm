@@ -117,7 +117,7 @@
         hassle free and instantaneous. In fact, a consumer research study from Oracle found that 90% of customers said the “Live Chat” button gives them confidence that they can get help if they 
         need it.</p>
         
-        <img src="images/progressBar.jpg"  class="img" alt=""  style="padding-left:255px; padding-bottom:50px;"/>
+        <img src="images/progressBar.jpg"  class="img" alt=""  style="padding-left:100px; padding-bottom:50px;"/>
         
         <p>Companies from major banks to small e-commerce stores now use live chat software to better service their customers and improve response times. So, it’s no surprise that 33% of consumers 
         now expect to see live chat offered on every website.</p>
