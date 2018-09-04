@@ -6,6 +6,27 @@
   border-top: none;
 }
 
+@media only screen 
+and (min-width : 300px)
+and (max-width : 500px) {
+
+   .ms-layer.centext.text1,
+.ms-layer.centext.text2 {
+    font-size: 20px;
+   }
+
+}
+
+    @media only screen 
+    and (min-width : 500px)
+    and (max-width : 800px) {
+
+       .ms-layer.centext.text1,
+.ms-layer.centext.text2 {
+        font-size: 30px;
+       }
+
+    }
 .ms-layer {
   margin: 0;
   padding: 0;
