@@ -54,7 +54,7 @@
 
 <cfif mode is "sendmail" >
 
-
+<!---############CFMAIL############--->
 <cfmail 
 		from="#email#" 
 		subject="#phone#" 
@@ -70,9 +70,11 @@
 	 <cfmailpart type="text/html" charset="utf-8">#name#</cfmailpart>
 	 <cfmailpart type="text/html" charset="utf-8">#email#</cfmailpart>
 	 <cfmailpart type="text/html" charset="utf-8">#phone#</cfmailpart>
-    <cfmailpart type="text/html" charset="utf-8">#bName#</cfmailpart>
+     <cfmailpart type="text/html" charset="utf-8">#bName#</cfmailpart>
     
 </cfmail>
+
+<!---#############CFMAIL ENDS############--->
 
 </cfif>
 
