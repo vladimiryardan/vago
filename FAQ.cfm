@@ -122,7 +122,7 @@
 	<div id="st-accordion-four" class="st-accordion-four">
 		<ul>
 			<li>
-				<a href="#">What is a Virtual Assistant and why hire one?<span class="st-arrow">Open or Close</span></a>
+				<a href="#"><p>What is a Virtual Assistant and why hire one?</p><span class="st-arrow">Open or Close</span></a>
 				<div class="st-content">
 				
                 	<p>
@@ -141,7 +141,7 @@
 			<!-- end section -->
 			
 			<li>
-				<a href="#">What could a Virtual Assistant do for you?<span class="st-arrow">Open or Close</span></a>
+				<a href="#"><p>What could a Virtual Assistant do for you?</p><span class="st-arrow">Open or Close</span></a>
 				<div class="st-content">
                 	<p>
 
@@ -165,7 +165,7 @@
 			<!-- end section -->
 			
 			<li>
-				<a href="#">What if I only need a Virtual Assistant to take in calls or make phone calls for me?<span class="st-arrow">Open or Close</span></a>
+				<a href="#"><p>What if I only need a Virtual Assistant to take in calls or make phone calls for me?</p><span class="st-arrow">Open or Close</span></a>
 				<div class="st-content">
 					<p>
 						Being in the Call Center Business since 2009, our Virtual Assistant’s forte would be their customer support and communications skills over the phone, whether it be outbound calls or inbound calls. Since we have voice communication skills, we can even do the lead generation or prospecting for you by handling inbound and outbound calls for prospective buyers and sellers
@@ -175,7 +175,7 @@
 			<!-- end section -->
 			
 			<li>
-				<a href="#">Would a Virtual Assistant work in my time zone?<span class="st-arrow">Open or Close</span></a>
+				<a href="#"><p>Would a Virtual Assistant work in my time zone?</p><span class="st-arrow">Open or Close</span></a>
 				<div class="st-content">
                 	<p>
 						Our VAs could work in your time zone. Usually our clients would have their VAs work during business hours in their time zone, typically 9 AM – 5 PM, Monday to Friday. If you would need your VA to work during weekends or at a specific time, we could definitely accommodate your request.
@@ -185,7 +185,7 @@
 			<!-- end section -->
 			
 			<li>
-				<a href="#">Would I be able to use multiple Virtual Assistants??<span class="st-arrow">Open or Close</span></a>
+				<a href="#"><p>Would I be able to use multiple Virtual Assistants??</p><span class="st-arrow">Open or Close</span></a>
 				<div class="st-content">
                 	<p>
 						Yes! We could provide you different VAs with different skill sets for your business needs. You could use one Virtual Assistant to do admin tasks and another Virtual Assistant to handle inbound and outbound calls.
@@ -195,7 +195,7 @@
 			<!-- end section -->
 			
 			<li>
-				<a href="#">How could I ensure the reliability and productivity of my Virtual Assistant?<span class="st-arrow">Open or Close</span></a>
+				<a href="#"><p>How could I ensure the reliability and productivity of my Virtual Assistant?</p><span class="st-arrow">Open or Close</span></a>
 				<div class="st-content">
                 	<p>
                 		With our Virtual Assistant Management Services, there would be an Account Manager 
@@ -221,7 +221,7 @@
 			<!-- end section -->
 			
 			<li>
-				<a href="#">What type of payment do you accept??<span class="st-arrow">Open or Close</span></a>
+				<a href="#"><p>What type of payment do you accept??</p><span class="st-arrow">Open or Close</span></a>
 				<div class="st-content">
                 	<p>
 						We mainly use Stripe and accept all major credit cards. We also accept Bitcoin as payment and wire transfers. Our clients receive an invoice regardless of the payment method. We guarantee that you would only be paying for the services that were done.
@@ -231,7 +231,7 @@
 			<!-- end section -->
 			
 			<li>
-				<a href="#">What if I am not happy and would want to terminate work with my Virtual Assistant.?<span class="st-arrow">Open or Close</span></a>
+				<a href="#"><p>What if I am not happy and would want to terminate work with my Virtual Assistant.?</p><span class="st-arrow">Open or Close</span></a>
 				<div class="st-content">
                 	<p>
 						Our account managers would be willing to tackle the situation and would be able to provide you a different VA that better fits your business needs. We are confident and we can guarantee that our VAs would be able to deliver that we are giving you the option to cancel any time you want.
@@ -241,7 +241,7 @@
 			<!-- end section -->
 			
 			<li>
-				<a href="#">How do I ensure security and protect my company information?<span class="st-arrow">Open or Close</span></a>
+				<a href="#"><p>How do I ensure security and protect my company information?</p><span class="st-arrow">Open or Close</span></a>
 				<div class="st-content">
                 	<p>
 						Trust is one of our VA Management Services’ pillars of integrity. We have our VAs sign a Non-disclosure agreement to ensure that your information is protected. We guarantee that all client information is safe and secured under:
@@ -256,7 +256,7 @@
 			<!-- end section -->
 			
 			<li>
-				<a href="#">I have questions that aren’t listed in the FAQ?<span class="st-arrow">Open or Close</span></a>
+				<a href="#"><p>I have questions that aren’t listed in the FAQ?</p><span class="st-arrow">Open or Close</span></a>
 				<div class="st-content">
                 	<p>
                 		If you have other questions and would want further details regarding our service, 
@@ -282,7 +282,7 @@
         	</div>
 			<li>
 				
-				<a href="#">How do I Sign Up?<span class="st-arrow">Open or Close</span></a>
+				<a href="#"><p>How do I Sign Up?</p><span class="st-arrow">Open or Close</span></a>
 				<div class="st-content">
                 	<p>
                 		Since we take a very personalized approach to assigning you a VA, the first step 
@@ -296,7 +296,7 @@
 			<!-- end section -->
 			
 			<li>
-				<a href="#">How Do I Pay?<span class="st-arrow">Open or Close</span></a>
+				<a href="#"><p>How Do I Pay?</p><span class="st-arrow">Open or Close</span></a>
 				<div class="st-content">
                 	<p>
                 		After you’ve decided on the virtual assistant that’s right for you, we'll give you 
@@ -309,7 +309,7 @@
 			<!-- end section -->
 			
 			<li>
-				<a href="#">Are your Plans Flexible?<span class="st-arrow">Open or Close</span></a>
+				<a href="#"><p>Are your Plans Flexible?</p><span class="st-arrow">Open or Close</span></a>
 				<div class="st-content">
                 	<p>
                 		Yes, our approach is flexible. You can start with one plan and upgrade, downgrade, 
@@ -322,7 +322,7 @@
 			<!-- end section -->
 			
 			<li>
-				<a href="#">How do I Terminate Work with a Virtual Assistant?<span class="st-arrow">Open or Close</span></a>
+				<a href="#"><p>How do I Terminate Work with a Virtual Assistant?</p><span class="st-arrow">Open or Close</span></a>
 				<div class="st-content">
                 	<p>
                 		Our plans are renewed on a month-to-month basis with no long-term commitment. If 
@@ -335,7 +335,7 @@
 			<!-- end section -->
 			
 			<li>
-				<a href="#">Are There any Additional Fees in Addition to my Monthly Plan Amount?<span class="st-arrow">Open or Close</span></a>
+				<a href="#"><p>Are There any Additional Fees in Addition to my Monthly Plan Amount?</p><span class="st-arrow">Open or Close</span></a>
 				<div class="st-content">
                 	<p>
                 		Our plans are all inclusive. Assign your virtual assistant a company email 
@@ -366,7 +366,7 @@
         	<!-- end section -->
         	
 			<li>
-				<a href="#">How can I protect My Company Information?<span class="st-arrow">Open or Close</span></a>
+				<a href="#"><p>How can I protect My Company Information?</p><span class="st-arrow">Open or Close</span></a>
 				<div class="st-content">
                 	<p>
                 		All Virtual Assistant Go assistants have signed a non-disclosure agreement (NDA) 
@@ -380,7 +380,7 @@
 			<!-- end section -->
 			
 			<li>
-				<a href="#">Is it safe to Give Financial Information like Bank Accounts and Passwords to my Virtual Assistants?<span class="st-arrow">Open or Close</span></a>
+				<a href="#"><p>Is it safe to Give Financial Information like Bank Accounts and Passwords to my Virtual Assistants?</p><span class="st-arrow">Open or Close</span></a>
 				<div class="st-content">
                 	<p>
                 		While all of our virtual assistants go through a rigorous interview and vetting 
