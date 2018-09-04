@@ -54,27 +54,27 @@
 
 <cfif mode is "sendmail" >
 
-<!---############CFMAIL############--->
-<cfmail 
-		from="#email#" 
-		subject="#phone#" 
-		to="jacobdeanpostanes@gmail.com"
+	<!---############CFMAIL############--->
+	<cfmail 
+			from="#email#" 
+			subject="#phone#" 
+			to="jacobdeanpostanes@gmail.com"
+			
+			username=""
+			password=""
+			port="587"
+			server="smtp.sendgrid.net"
+			usetls="true" 
+			type="html">
 		
-		username=""
-		password=""
-		port="587"
-		server="smtp.sendgrid.net"
-		usetls="true" 
-		type="html">
+		 <cfmailpart type="text/html" charset="utf-8">#name#</cfmailpart>
+		 <cfmailpart type="text/html" charset="utf-8">#email#</cfmailpart>
+		 <cfmailpart type="text/html" charset="utf-8">#phone#</cfmailpart>
+	     <cfmailpart type="text/html" charset="utf-8">#bName#</cfmailpart>
+	    
+	</cfmail>
 	
-	 <cfmailpart type="text/html" charset="utf-8">#name#</cfmailpart>
-	 <cfmailpart type="text/html" charset="utf-8">#email#</cfmailpart>
-	 <cfmailpart type="text/html" charset="utf-8">#phone#</cfmailpart>
-     <cfmailpart type="text/html" charset="utf-8">#bName#</cfmailpart>
-    
-</cfmail>
-
-<!---#############CFMAIL ENDS############--->
+	<!---#############CFMAIL ENDS############--->
 
 </cfif>
 
@@ -90,7 +90,7 @@
 	<!---Checking existence --->
 	<cfquery name="contactUs">
 		select * from contactUs
-		where name = <cfqueryparam cfsqltype="cf_sql_varchar" value="#form.name#s">
+		where name = <cfqueryparam cfsqltype="cf_sql_varchar" value="#form.email#">
 	</cfquery>
 
 	<cfif mode is "default">
@@ -100,7 +100,7 @@
 			<!--- insert name if not existing --->
 			<cfquery>
 				INSERT INTO contactUs
-				( name, email, phone, bName)
+				( name, email, phone, bname)
 				VALUES
 				(<cfqueryparam value="#form.name#" cfsqltype="cf_sql_varchar"/>
 				,<cfqueryparam value="#form.email#" cfsqltype="cf_sql_varchar"/>
