@@ -49,7 +49,7 @@
     		<div class="siteinfo">
     		<br>
     			<h4 class="lmb">
-    				About Us
+    				<a href="aboutus.cfm">About Us</a>
     			</h4>
 
 					<p>
