@@ -4,7 +4,7 @@
 
 <head>
 	<!-- forms -->
-	<link rel="stylesheet" href="js/form/sky-forms2.css">  type="text/css" media="all">
+	<link rel="stylesheet" href="js/form/sky-forms2.css"  type="text/css" media="all">
 	
 	<!-- forms -->
 	<link rel="stylesheet" href="js/form/sky-forms2.css" type="text/css" media="all">
