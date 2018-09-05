@@ -52,68 +52,67 @@
 
 <!---##########CSS ENDS########## --->
 
+
+
+
+
 <cfif mode is "sendmail" >
 
 	<!---############CFMAIL############--->
 	<cfmail 
-			from="#email#" 
-			subject="#phone#" 
-			to="jacobdeanpostanes@gmail.com"
-			
-			username=""
-			password=""
-			port="587"
-			server="smtp.sendgrid.net"
-			usetls="true" 
-			type="html">
+		from="#application.mail#" 
+		subject="New Registration from VirtualAssistantGo.com" 
+		to="#form.email#"
+		port="587"
+		server="smtp.sendgrid.net"
+		username="#_vars.sendgrid.user#"
+		password="#_vars.sendgrid.key#"
+		usetls="true"
+		type="html">
 		
-		 <cfmailpart type="text/html" charset="utf-8">#name#</cfmailpart>
-		 <cfmailpart type="text/html" charset="utf-8">#email#</cfmailpart>
-		 <cfmailpart type="text/html" charset="utf-8">#phone#</cfmailpart>
-	     <cfmailpart type="text/html" charset="utf-8">#bName#</cfmailpart>
+		New Registration<br>
+		Name: #form.fullname#<br>		
+		Email: #form.email#<br>
+		Phone: #form.phone#<br>
+		Business Name: #form.company#<br>				
 	    
 	</cfmail>
-	
 	<!---#############CFMAIL ENDS############--->
-
-</cfif>
-
-<cfif mode is "finish">
-	<cflocation url="registerSuccess.cfm">
-</cfif>
-
-<!--- form handler --->
-<cfif isdefined("submitted")>
 	
-<!---############DATABASE NOTE NEED TO CHECK############--->
 	
+	<!---############DATABASE NOTE NEED TO CHECK############--->
 	<!---Checking existence --->
 	<cfquery name="contactUs">
-		select * from contactUs
-		where name = <cfqueryparam cfsqltype="cf_sql_varchar" value="#form.email#">
+		select * from users
+		where email = <cfqueryparam cfsqltype="cf_sql_varchar" value="#form.email#">
 	</cfquery>
 
-	<cfif mode is "default">
-	
-		<cfif contactUs.recordCount eq 0>
-		
-			<!--- insert name if not existing --->
-			<cfquery>
-				INSERT INTO contactUs
-				( name, email, phone, bname)
-				VALUES
-				(<cfqueryparam value="#form.name#" cfsqltype="cf_sql_varchar"/>
-				,<cfqueryparam value="#form.email#" cfsqltype="cf_sql_varchar"/>
-				,<cfqueryparam value="#form.phone#" cfsqltype="cf_sql_varchar"/>
-				,<cfqueryparam value="#form.bName#" cfsqltype="cf_sql_varchar"/>
-				)
-			</cfquery>
-		</cfif>
-	</cfif>
-	<cflocation url="#cgi.script_NAME#?mode=finish" addtoken="false">
-</cfif>
 
-<!---#################################################### --->	
+	
+	<cfif contactUs.recordCount eq 0>
+		<!--- insert name if not existing --->
+		<cfquery>
+			INSERT INTO users
+			( fullname, email, phone, company)
+			VALUES
+			(<cfqueryparam value="#form.fullname#" cfsqltype="cf_sql_varchar"/>
+			,<cfqueryparam value="#form.email#" cfsqltype="cf_sql_varchar"/>
+			,<cfqueryparam value="#form.phone#" cfsqltype="cf_sql_varchar"/>
+			,<cfqueryparam value="#form.company#" cfsqltype="cf_sql_varchar"/>
+			)
+		</cfquery>
+	</cfif>
+	<!---#################################################### --->
+	
+	
+	
+	<cflocation url="registerSuccess.cfm" addtoken="false">
+	
+	
+</cfif><!--- sendmail --->
+
+
+	
 
 <div class="clearfix"></div>
 
@@ -145,10 +144,10 @@
 
 		
 <cfset ID = "">
-<cfset name = "">
+<cfset FULLNAME = "">
 <cfset email = "">
 <cfset phone = "">
-<cfset bName = "">   
+<cfset company = "">   
 
 	<div class="features_sec45">
 		<div class="container">
@@ -177,11 +176,7 @@
         		doing what you do best!
         	</p2>
 		</div>
-	</div>
-	<!-- end features section -->
-	
-	<!---##########FORM START###########--->
-		 <div class="one_half animate fadeInLeft">
+
 		 	
 		 
 		    <div class="reg_form" style="padding-top:0px;">
@@ -203,7 +198,7 @@
 									<label class="input">
 										<i class="icon-append icon-user">
 										</i>
-										<input type="text" name="name" id="name" value="#name#" required="true">
+										<input type="text" name="fullname" id="fullname" value="#fullname#" required="true">
 									</label>
 								</section>
 								<section class="col col-6">
@@ -233,7 +228,7 @@
 									<label class="input">
 										<i class="icon-append fa-building">
 										</i>
-										<input type="bName" name="bName" id="bName" value="#bName#">
+										<input type="text" name="company" id="company" value="#company#">
 									</label>
 								</section>
 						</fieldset>
@@ -249,34 +244,7 @@
             </cfoutput>
 			</div>
 		</div>
-				<div class="one_half last animate fadeInRight" style="margin-top:50px;">
-					<br>
-					<h4 class="color">
-						Want to Grow Your Business?
-					</h4>
-					
-                	<h5>
-                		Feel free to talk to our online representative at any time using our 
-                		Live Chat system
-                		on our 
-                		<a href="https://www.onevoix.com" target="_blank" style="color:blue">
-                			website 
-                		</a>
-                		or through our 
-                		<a href="contact.cfm" target="_blank" style="color:blue">
-                		Contact Us
-                		</a>
-                		page and we'll respond as soon as posible
-                	</h5>
-                	<h5>
-                		Please be patient while waiting for response. (24/7 Support!) Phone General 
-                		Inquiries: +1 844-214-8777 or +63917 795-0990 
-                	</h5>
-                	<h5>
-                		Email: info@onevoix.com
-                	</h5>
-					<!-- end section -->
-				</div>
+
 		</div>
 	</div>
 			</cfif>	
