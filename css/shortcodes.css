@@ -409,6 +409,26 @@
 	margin-bottom: 14px;
 	color: #e54c4c;
 }
+
+@media only screen 
+and (min-width : 300px)
+and (max-width : 500px) {
+
+   .stcode_title12 h2 {
+    font-size: 20px;
+   }
+
+}
+
+    @media only screen 
+    and (min-width : 500px)
+    and (max-width : 800px) {
+
+       .stcode_title12 h2 {
+        font-size: 30px;
+       }
+
+    }
 .stcode_title12 h4{
     font-size: 22px;
     z-index: 1;
