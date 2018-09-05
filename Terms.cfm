@@ -1,12 +1,77 @@
-<meta charset="UTF-8"> 
-
 <cfinclude template="header.cfm" >
 
+<head>
+	<!-- forms -->
+	<link rel="stylesheet" href="js/form/sky-forms2.css"  type="text/css" media="all">
+	
+	<!-- forms -->
+	<link rel="stylesheet" href="js/form/sky-forms2.css" type="text/css" media="all">
+	
+	<!-- MasterSlider -->
+	<link rel="stylesheet" href="js/masterslider/style/masterslider.css"/>
+	<link rel="stylesheet" href="js/masterslider/skins/default/style.css"/>
+</head>
 
-<div class="content_fullwidth">
+<!---##########Header Ends########## --->
+
+<!---#########CSS Start######### --->
+
+<style type="text/css">
+.page_title {
+    position: relative;
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 220px 0px 120px 0px;
+    background: #fff url(images/terms.jpg) no-repeat center top;
+    background-size:cover;
+    height:60vh;
+	
+}
+
+
+.page_title .title h1.titleCustom{
+	margin:0px;
+	background:none;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+.nojustify p{
+	text-align:left;
+}
+.features_sec3{
+	padding-bottom:25px;
+}		
+</style>
+
+<!---##########CSS ENDS########## --->
+
+
+<!---##############Title############## --->
+<div class="page_title">
 <div class="container">
-<div class="one_full stcode_title12">
-    	<h2><strong>ONEVOIX</strong></h2>
+
+		<div class="ms-layer centext text1 white animate fadeIn" data-ease="easeOutExpo">
+            <strong>Terms of Service </strong>
+        </div>
+        
+        <div class="ms-layer centext text2 white animate fadeInRight" data-effect="bottom(50)" data-duration="2000" data-delay="500" data-ease="easeOutExpo">
+            <h5></h5>
+       	</div>
+
+</div>
+</div><!-- end page title -->
+<!---##############Title Ends############## --->
+
+<div class="clearfix margin_top5"></div>
+
+<div class="container" >
+<div class="one_full stcode_title12 ">
+    	<h2><strong>Virtual Assistant GO</strong></h2>
     	<h4><span class="line"></span><span class="text">Virtual Assistant Management Services</span></h4>
     	
     	<br>
@@ -166,5 +231,6 @@
 	<!---Terms End --->
 </div>
 </div>
-</div>
+
+<div class="clearfix margin_top5"></div>
 <cfinclude template="footer.cfm" >		
