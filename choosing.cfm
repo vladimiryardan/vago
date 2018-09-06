@@ -106,38 +106,38 @@
     		There are many benefits of using a "virtual" assistant versus bringing an assistant into your home office.
     	</h5>
 		<br>
-    	<i class="fa fa-pencil-square-o " style=" font-size:20px;">
+    	<h5 class="fa fa-pencil-square-o " style=" font-size:20px;">
     		You don't have to share your computer, or set up a second computer, for the assistant to use. 
     		A VA uses his own equipment and computers. In addition, you don't have to set up an extra desk 
     		in your office for an assistant.
-    	</i>
+    	</h5>
     	<br>
     	<br>
-    	<i class="fa fa-pencil-square-o " style=" font-size:20px;">
+    	<h5 class="fa fa-pencil-square-o " style=" font-size:20px;">
     		Instead of having a fixed schedule of hours each week, with a VA you only pay for the hours 
     		you use 
-    	</i>
+    	</h5>
     	<br><br>
-    	<i class="fa fa-pencil-square-o " style=" font-size:20px;">
+    	<h5 class="fa fa-pencil-square-o " style=" font-size:20px;">
     		You can hire a VA to work a specific numbers of hours per month on a retainer which guarantees 
     		availability. Some VAs work on a per-project or per-hour basis as well
-    	</i>
+    	</h5>
     	<br>
     	<br>
-    	<i class="fa fa-pencil-square-o " style=" font-size:20px;">
+    	<h5 class="fa fa-pencil-square-o " style=" font-size:20px;">
     		You can find VAs with specific skill sets, from certified QuickBooks specialists to those with 
     		graphic, internet, marketing, or technical skills. 
-    	</i>	
+    	</h5>	
     	<br><br>
-    	<i class="fa fa-pencil-square-o " style=" font-size:20px;">
+    	<h5 class="fa fa-pencil-square-o " style=" font-size:20px;">
     		VAs own their own business, so they know what it's like to be self-employed.
-    	</i>
+    	</h5>
     	<br>
     	<br>
-    	<i class="fa fa-pencil-square-o " style=" font-size:20px;">
+    	<h5 class="fa fa-pencil-square-o " style=" font-size:20px;">
     		A VA works as a consultant, not as an employee. Therefore, you won't have to pay employment 
     		taxes or benefits for your VA.
-    	</i>
+    	</h5>
     	<br><br>
  		<h4>
  			<strong>
@@ -167,7 +167,7 @@
     		professional who can assist them with specific tasks and projects.
     	</h5>
     	
-    	<h4>
+    	<h4 class="fa fa-question-circle" style=" font-size:24px;">
  			<strong>
  				When Is It Time To Hire A VA?
  			</strong>
@@ -192,7 +192,7 @@
     		products and services, with the time that is freed up by hiring a VA.
     	</h5>
     	<br>
-    	<h4>
+    	<h4 class="fa fa-question-circle" style=" font-size:24px;">
  			<strong>
  				What Should You Consider When Hiring A VA?
  			</strong>
@@ -273,7 +273,7 @@
     	</h5>
     	<br>
     	
-    	<h4>
+    	<h4 class="fa fa-question-circle" style=" font-size:24px;">
  			<strong>
  				How Much Should You Pay For A VA?
  			</strong>
