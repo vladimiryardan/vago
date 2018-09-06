@@ -45,51 +45,76 @@
 <div class="clearfix"></div>
 
 <div class="page_title">
-
-<div class="features_sec45">
-	<div class="container">
-		<h1 class="animate resize0" data-anim-type="fadeInUp" data-anim-delay="150">
-			Successfully 
-			<em class="resize0">
-				Sent
-			</em>
+	<div class="content_fullwidth less">
+		
+		<div class="reg_form">
+			<h1 class="animate resize0" data-anim-type="fadeInUp" data-anim-delay="150">
+					Thank You!
+			</h1>
 			
-			<b>
-				Thank You!
-			</b>
-		</h1>
-	</div>
-</div>
-<!-- end features section -->
-	<div class="reg_form" style="width:1000px;">
-		
-        	<h5 style="color:gray;">
-        		Within the next few hours, a member of our Client Success Team will personally review your 
-        		details and schedule a time to speak, so that we can suggest the virtual assistants we 
-        		believe are the best fit for your work. You'll be up and running in no time.
-        	</h5>
-				<br/>
-        	<h5 style="color:gray;">
-        		If youve caught us on the weekend, please bear with us. we&apos;ll be in touch on Monday 
-        		morning.
-        	</h5>
-			<br/>
-        	<h5 style="color:gray;">
-        		Check your spam! If you don&apos;t receive an email within the next few hours on a weekday, 
-        		don&apos;t forget to check your spam folder. Sometimes even the emails you want to receive end 
-        		up there by mistake.
-        	</h5>
-        	<br/>
-        	<h5 style="color:gray;">
-        		While you wait, check out our
-        		<a href="bloglist.cfm" style="color:blue;">Blog</a> which is full of useful tools and resources for working with a virtual
-        		assistant.
-        	</h5>
-		<!-- end section -->
-		
-	</div>
+			<h5 style="color:gray;">
+				Within the next few hours, Your Account Manager will personally review your 
+				details and schedule a time to speak,  You'll be up and running in no time.
+			</h5>
 
+
+	        <br />				
+		</div>
+	</div>
 </div><!-- end page title -->
+<div class="clearfix"></div>
+
+<!---
+		        <div class="ms-layer centext text2 white" data-effect="bottom(50)" data-duration="2000" data-delay="500" data-ease="easeOutExpo">
+		            <h5>	        		
+		            		Within the next few hours, a member of our Client Success Team will personally review your 
+			        		details and schedule a time to speak, so that we can suggest the virtual assistants we 
+			        		believe are the best fit for your work. You'll be up and running in no time.
+			        </h5>
+		       	</div>--->
+	<!---<div class="content_fullwidth less">
+		
+			<h1 class="animate resize0" data-anim-type="fadeInUp" data-anim-delay="150">
+				Successfully 
+				<em class="resize0">
+					Sent
+				</em>
+				
+				<b>
+					Thank You!
+				</b>
+			</h1>
+			<div class="container">
+				<div class="">
+				<h5 style="color:gray;">
+	        		Within the next few hours, a member of our Client Success Team will personally review your 
+	        		details and schedule a time to speak, so that we can suggest the virtual assistants we 
+	        		believe are the best fit for your work. You'll be up and running in no time.
+	        	</h5>
+					<br/>
+	        	<h5 style="color:gray;">
+	        		If youve caught us on the weekend, please bear with us. we&apos;ll be in touch on Monday 
+	        		morning.
+	        	</h5>
+				<br/>
+	        	<h5 style="color:gray;">
+	        		Check your spam! If you don&apos;t receive an email within the next few hours on a weekday, 
+	        		don&apos;t forget to check your spam folder. Sometimes even the emails you want to receive end 
+	        		up there by mistake.
+	        	</h5>
+	        	<br/>
+	        	<h5 style="color:gray;">
+	        		While you wait, check out our
+	        		<a href="bloglist.cfm" style="color:blue;">Blog</a> which is full of useful tools and resources for working with a virtual
+	        		assistant.
+	        	</h5>
+	        	</div>
+	        </div>			
+		
+	</div>--->
+
+
+
 
 
 <cfinclude template="footer.cfm">
