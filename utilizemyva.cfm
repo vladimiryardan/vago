@@ -38,9 +38,9 @@
 <div class="page_title">
 <div class="container">
 
-		<div class="ms-layer centext text1 white" data-ease="easeOutExpo">
+		<!---<div class="ms-layer centext text1 white" data-ease="easeOutExpo">
             <strong>Utilize my Assistant</strong>
-        </div>
+        </div>--->
         
         <div class="ms-layer centext text2 white" data-effect="bottom(50)" data-duration="2000" data-delay="500" data-ease="easeOutExpo">
             <h5></h5>
@@ -92,144 +92,147 @@
     		destination city. This is something really important to me, so it was worth it to get the 
     		system finely-tuned.
     	</h5>
-    	
-    	<h5>
+    	<br>
+    	<p>
     	<strong>
     		Here’s our Travel Protocol:
     	</strong>
-    	</h5>
-    	<br><br>
+    	</p>
+    	<br>
     	
     	<h4>
     		PREPARE:
     	</h4>
     	
-    	<i class="fa fa-check-square-o" style=" font-size:20px;">
+    	<h5 class="fa fa-check-square-o" style=" font-size:20px;">
     		Check with Charissa about schedule of events/itinerary, when she needs to arrive by, who she wants to see, and when she needs to leave. Check also if she’s returning home or going to another city afterward. Sometimes trips go city to city to city. 
-    	</i>
+    	</h5>
     	<br>
     	<br>
-    	<i class="fa fa-check-square-o" style=" font-size:20px;">
+    	<h5 class="fa fa-check-square-o" style=" font-size:20px;">
     		Pull up the Travel Connections List (a list of my clients, colleagues, and inner circle members sorted by city of residence) and secure meetings on the calendar with anyone needed. 
-    	</i>
+    	</h5>
     	<br><br>
     	<h4>
     		BOOKING:
     	</h4>
     	
-    	<i class="fa fa-check-square-o" style=" font-size:20px;">
+    	<h5 class="fa fa-check-square-o" style=" font-size:20px;">
 			Check the profile sheet first! This has valuable info about preferences!
-		</i>
+		</h5>
 		<br><br>
-		<i class="fa fa-check-square-o" style=" font-size:20px;">
+		<h5 class="fa fa-check-square-o" style=" font-size:20px;">
 			Consult favorite airlines first - Southwest, Virgin, JetBlue
-		</i>
+		</h5>
 		<br><br>
-		<i class="fa fa-check-square-o" style=" font-size:20px;">
+		<h5 class="fa fa-check-square-o" style=" font-size:20px;">
 			Hopper is a great app to check prices if dates are flexible. It’ll also tell you what time is best to buy a ticket.
-		</i>
+		</h5>
 		<br><br>
-		<i class="fa fa-check-square-o" style=" font-size:20px;">
+		<h5 class="fa fa-check-square-o" style=" font-size:20px;">
 			Bonus points if the airport(s) belong to the CLEAR network -- Charissa LOVES them and it helps her get through security fast.
-		</i>
+		</h5>
 		<br><br>
-    	<i class="fa fa-check-square-o" style=" font-size:20px;">
+    	<h5 class="fa fa-check-square-o" style=" font-size:20px;">
 			Make sure she has a hair appointment on the schedule if she needs one... (ask)
-		</i>
+		</h5>
 		<br><br>
-		<i class="fa fa-check-square-o" style=" font-size:20px;">
+		<h5 class="fa fa-check-square-o" style=" font-size:20px;">
 			Make sure Charissa has gotten nails done within the week before traveling
-		</i>
+		</h5>
 		<br><br>
-		<i class="fa fa-check-square-o" style=" font-size:20px;">
+		<h5 class="fa fa-check-square-o" style=" font-size:20px;">
 			Make sure she has gotten brows done within a week before traveling
-		</i>
+		</h5>
 		<br><br>
-    	<i class="fa fa-check-square-o" style=" font-size:20px;">
+    	<h5 class="fa fa-check-square-o" style=" font-size:20px;">
     		She has a packing list printable already, but if there’s anything special (an event, gift, 
     		dress, etc) she needs, make sure she gets it or has it before leaving.
-    	</i>
+    	</h5>
     	<br><br>
-    	<i class="fa fa-check-square-o" style=" font-size:20px;">
+    	<h5 class="fa fa-check-square-o" style=" font-size:20px;">
 			Cancel laundry pickup if affected during trip.
-		</i>
+    	</h5>
 		<br><br>
-		<i class="fa fa-check-square-o" style=" font-size:20px;">
+		<h5 class="fa fa-check-square-o" style=" font-size:20px;">
 			Cancel food delivery if affected during trip.
-		</i>
+		</h5>
 		<br><br>
-		<i class="fa fa-check-square-o" style=" font-size:20px;">
+		<!---<p class="fa fa-check-square-o" style=" font-size:20px;">
 			Cancel house cleaning if affected during trip.
-		</i>
+		</p>--->
+		<h5 class="fa fa-check-square-o" style=" font-size:20px;">
+			Cancel house cleaning if affected during trip.
+		</h5>
 		<br><br>
-		<i class="fa fa-check-square-o" style=" font-size:20px;">
+		<h5 class="fa fa-check-square-o" style=" font-size:20px;">
 			If trip is longer than 7 days, hold mail at PO Box.
-		</i>
+		</h5>
 		<br><br>
 		<h4>
     		ITINERARY PREP:
     	</h4>
     	
-    	<i class="fa fa-check-square-o" style=" font-size:20px;">
+    	<h5 class="fa fa-check-square-o" style=" font-size:20px;">
 			Ensure all trip information is in her TripIt account.
-		</i>
+		</h5>
 		<br><br>
-    	<i class="fa fa-check-square-o" style=" font-size:20px;">
+    	<h5 class="fa fa-check-square-o" style=" font-size:20px;">
     		Make a PDF Itinerary with her schedule, meetings, and dining options near the hotel. It’s 
     		helpful to include the kind of cuisine, the stars (yelp rating), and how expensive each is. 
     		She likes really healthy, clean, low-carb food, so typically Italian restaurants are a no-go.
-    	</i>
+    	</h5>
     	<br><br>
     	
     	<h4>
     		24 HRS BEFORE DEPARTURE BOARDING:
     	</h4>
 		
-    	<i class="fa fa-check-square-o" style=" font-size:20px;">
+    	<h5 class="fa fa-check-square-o" style=" font-size:20px;">
     		Check into her flight for her, 24 hours before takeoff - always print tickets in her printer 
     		so she has a paper copy. She’ll get a mobile pass on her phone too so she has both.
-    	</i>
+    	</h5>
     	<br>
     	<br>
-    	<i class="fa fa-check-square-o" style=" font-size:20px;">
+    	<h5 class="fa fa-check-square-o" style=" font-size:20px;">
     		Print tickets for any activities she has on the schedule (concerts, etc).
-    	</i>
+    	</h5>
     	<br>
     	<br>
-    	<i class="fa fa-check-square-o" style=" font-size:20px;">
+    	<h5 class="fa fa-check-square-o" style=" font-size:20px;">
     		Confirm all documents she needs are printed and put in her clear document zip pouch. (And then 
     		in her bag with her on the flight.) She usually needs copies of car rental, hotel 
     		confirmation, airline confirmation, and itinerary/schedule of events. For conferences, an 
     		attendee list is helpful.)
-    	</i>
+    	</h5>
 		<br><br>
 		
 		<h4>
     		DAY OF FLIGHT HOME:
     	</h4>
     	
-    	<i class="fa fa-check-square-o" style=" font-size:20px;">
+    	<h5 class="fa fa-check-square-o" style=" font-size:20px;">
     		Does she need groceries delivered to meet her at home?
-    	</i>
+    	</h5>
     	<br>
     	<br>
-    	<i class="fa fa-check-square-o" style=" font-size:20px;">
+    	<h5 class="fa fa-check-square-o" style=" font-size:20px;">
     		Restart laundry if necessary.
-    	</i>
+    	</h5>
     	<br>
     	<br>
-    	<i class="fa fa-check-square-o" style=" font-size:20px;">
+    	<h5 class="fa fa-check-square-o" style=" font-size:20px;">
     		Restart meal delivery if necessary.
-    	</i>
+    	</h5>
 		<br><br>
-		<i class="fa fa-check-square-o" style=" font-size:20px;">
+		<h5 class="fa fa-check-square-o" style=" font-size:20px;">
     		Restart house cleaners if necessary.
-    	</i>
+    	</h5>
     	<br>
     	<br>
-    	<i class="fa fa-check-square-o" style=" font-size:20px;">
+    	<h5 class="fa fa-check-square-o" style=" font-size:20px;">
     		Restart PO Box mail if necessary.
-    	</i>
+    	</h5>
 		<br><br>
 		
     	<h5>
