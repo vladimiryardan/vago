@@ -63,7 +63,7 @@
     
         <div class="box">
         
-            <div class="ciref outline-outward left active"> <span aria-hidden="true" class="fa fa-users"></span> </div>
+            <div class="ciref outline-outward left"> <span aria-hidden="true" class="fa fa-users"></span> </div>
             
             <div class="right">
                 <h5>Reliable Personnel</h5>
