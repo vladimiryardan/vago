@@ -59,6 +59,7 @@
 <cfif mode is "sendmail" >
 
 	<!---############CFMAIL############--->
+	<!--- send to admin --->
 	<cfmail 
 		from="#application.mail#" 
 		subject="New Registration from VirtualAssistantGo.com" 
@@ -78,6 +79,9 @@
 	    
 	</cfmail>
 	<!---#############CFMAIL ENDS############--->
+	
+	
+	<!--- send to the user who signed up --->
 	
 	
 	<!---############DATABASE NOTE NEED TO CHECK############--->

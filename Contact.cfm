@@ -1,5 +1,6 @@
 <cfinclude template="header.cfm">
  
+<cfparam name="url.msg" default="" >
 
  <!-- forms -->
 <link rel="stylesheet" href="js/form/sky-forms2.css" type="text/css" media="all">
@@ -43,33 +44,54 @@
 
 <cfif mode is "sendmail" >
 
-
-<cfmail 
-		from="#email#" 
-		subject="#subject#" 
-		to="jacobdeanpostanes@gmail.com"
+	<!--- send an email to the admin --->
+	<cfmail 
+			from="#application.mail#" 
+			subject="#form.subject#" 
+			to="#application.mail#"
 		
-		username=""
-		password=""
+				port="587"
+				server="smtp.sendgrid.net"
+				username="#_vars.sendgrid.user#"
+				password="#_vars.sendgrid.key#"
+
+			usetls="true" 
+			type="html">
+			
+			Name: #form.name#<br>
+			Name: #form.email#<br>
+			Message: #form.message#<br>
+			Subject: #form.subject#<br>
+	    
+	</cfmail>
+
+	<!--- send a copy to the client --->
+	<cfmail 
+		from="#application.mail#" 
+		subject="We got your message for VirtualAssistantGo.com" 
+		to="#form.email#"
 		port="587"
 		server="smtp.sendgrid.net"
-		usetls="true" 
+		username="#_vars.sendgrid.user#"
+		password="#_vars.sendgrid.key#"
+		usetls="true"
 		type="html">
+		
+			We are checking your message. Thank you!<br>
+			Message: #form.message#<br>			
+	    
+	</cfmail>
+	<!---#############CFMAIL ENDS############--->
 	
-	 <cfmailpart type="text/html" charset="utf-8">#name#</cfmailpart>
-	 <cfmailpart type="text/html" charset="utf-8">#email#</cfmailpart>
-	 <cfmailpart type="text/html" charset="utf-8">#subject#</cfmailpart>
-    <cfmailpart type="text/html" charset="utf-8">#message#</cfmailpart>
-    
-</cfmail>
-
+	<cflocation url="contactSuccess.cfm" addtoken="false" >
+	
 </cfif>
 
-<cfif mode is "finish">
-	<cflocation url="registerSuccess.cfm">
-</cfif>
+		<!---<cfif mode is "finish">
+			<cflocation url="registerSuccess.cfm">
+		</cfif>
 
-<!--- form handler --->
+		<!--- form handler --->
 		<cfif isdefined("submitted")>
 		
 			
@@ -99,7 +121,7 @@
 						</cfif>
 					</cfif>
 				<cflocation url="#cgi.script_NAME#?mode=finish" addtoken="false" >
-		</cfif>
+		</cfif>--->
 		
 
 
@@ -226,7 +248,33 @@
 				</div>
 		</div>
 	</div>
-			</cfif>	
+</cfif>	
+
+
+<cfif mode is "MessageSent">
+	<div class="clearfix"></div>
+	<div class="features_sec45">
+		<div class="container">
+		
+			<h6 class="animate" data-anim-type="fadeInUp" data-anim-delay="100">
+				- Welcome to virtualassistantgo.com -
+			</h6>
+			
+			<h1 class="animate resize0"  data-anim-delay="150">
+				Thanks for filling out our form!
+			</h1>
+			<div class="harrow_line"></div>
+        	<p2 class="less2" data-anim-type="fadeInUp" data-anim-delay="200" 
+        	    style="text-align:left">
+					We have received your message and would like to thank you for writing to us. 
+					If your inquiry is urgent, please use the telephone number listed below to talk to one of our staff members. 
+					Otherwise, we will reply by email as soon as possible.
+        	</p2>
+		</div>
+	</div>
+	<div class="clearfix"></div>	
+</cfif>	
+	
 	
 
 <!-- end content area -->
