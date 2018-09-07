@@ -95,7 +95,13 @@
     <script type="text/javascript" src="js/universal/jquery.js"></script>
     <script src="js/classyloader/jquery.classyloader.min.js"></script>
     
+   <!-- Cookie-->
+    <link rel="stylesheet" type="text/css" href="css/jquery-eu-cookie-law-popup.css"/>
+    
 </head>
+
+<!---Calling cookie class --->
+<body class="eupopup eupopup-bottomright">
 
 <body>
 
