@@ -443,7 +443,7 @@
 		                <li><i class="fa fa-check"></i>&nbsp; Account Manager</li>		              
 		                <li class="hecont"><div style="font-weight:bold;font-size:1.1em">$799 per month</<div></li>
 		                <li></li>
-		                <li><a href="#" class="but_small1 gray">Get Now!</a></li>
+		                <li><a href="register.cfm" class="but_small1 gray">Get Now!</a></li>
 		                <li></li>
 		                <li></li>
 		            
@@ -469,7 +469,7 @@
 		                <li><i class="fa fa-check"></i>&nbsp; Account Manager</li>
 		                <li class="hecont"><div style="font-weight:bold;font-size:1.1em">$1,200 per month</<div></li>
 		                <li></li>
-		                <li><a href="#" class="but_small1">Get Now!</a></li>
+		                <li><a href="register.cfm" class="but_small1">Get Now!</a></li>
 		                <li></li>
 		                <li></li>
 		            
