@@ -14,7 +14,7 @@
 				or at +1 844 214 8777 to Get Started
 			</h5>
 			<br>
-			<a href="contact.cfm" class="but_small1">
+			<a href="Register.cfm" class="but_small1">
 				Sign Up
 			</a>
 		</div>
