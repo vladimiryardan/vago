@@ -97,12 +97,13 @@
 		<!--- insert name if not existing --->
 		<cfquery>
 			INSERT INTO users
-			( fullname, email, phone, company)
+			( fullname, email, phone, company,username)
 			VALUES
 			(<cfqueryparam value="#form.fullname#" cfsqltype="cf_sql_varchar"/>
 			,<cfqueryparam value="#form.email#" cfsqltype="cf_sql_varchar"/>
 			,<cfqueryparam value="#form.phone#" cfsqltype="cf_sql_varchar"/>
 			,<cfqueryparam value="#form.company#" cfsqltype="cf_sql_varchar"/>
+			,<cfqueryparam value="#form.email#" cfsqltype="cf_sql_varchar"/>
 			)
 		</cfquery>
 	</cfif>
