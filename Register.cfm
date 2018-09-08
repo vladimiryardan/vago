@@ -59,26 +59,31 @@
 <cfif mode is "sendmail" >
 
 	<!---############CFMAIL############--->
-	<!--- send to admin --->
-	<cfmail 
-		from="#application.mail#" 
-		subject="New Registration from VirtualAssistantGo.com" 
-		to="#form.email#"
-		port="587"
-		server="smtp.sendgrid.net"
-		username="#_vars.sendgrid.user#"
-		password="#_vars.sendgrid.key#"
-		usetls="true"
-		type="html">
-		
-		New Registration<br>
-		Name: #form.fullname#<br>		
-		Email: #form.email#<br>
-		Phone: #form.phone#<br>
-		Business Name: #form.company#<br>				
-	    
-	</cfmail>
-	<!---#############CFMAIL ENDS############--->
+<cftry>
+		<!--- send to admin --->
+		<cfmail 
+			from="#application.mail#" 
+			subject="New Registration from VirtualAssistantGo.com" 
+			to="#form.email#"
+			port="587"
+			server="smtp.sendgrid.net"
+			username="#_vars.sendgrid.user#"
+			password="#_vars.sendgrid.key#"
+			usetls="true"
+			type="html">
+			
+			New Registration<br>
+			Name: #form.fullname#<br>		
+			Email: #form.email#<br>
+			Phone: #form.phone#<br>
+			Business Name: #form.company#<br>				
+		    
+		</cfmail>
+		<!---#############CFMAIL ENDS############--->
+<cfcatch type="Any" >
+</cfcatch>
+</cftry>
+
 	
 	
 	<!--- send to the user who signed up --->

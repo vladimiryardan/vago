@@ -44,43 +44,53 @@
 
 <cfif mode is "sendmail" >
 
-	<!--- send an email to the admin --->
-	<cfmail 
-			from="#application.mail#" 
-			subject="#form.subject#" 
-			to="#application.mail#"
-		
-				port="587"
-				server="smtp.sendgrid.net"
-				username="#_vars.sendgrid.user#"
-				password="#_vars.sendgrid.key#"
-
-			usetls="true" 
-			type="html">
+	<cftry>
+    	<!--- send an email to the admin --->
+		<cfmail 
+				from="#application.mail#" 
+				subject="#form.subject#" 
+				to="#application.mail#"
 			
-			Name: #form.name#<br>
-			Name: #form.email#<br>
-			Message: #form.message#<br>
-			Subject: #form.subject#<br>
-	    
-	</cfmail>
+					port="587"
+					server="smtp.sendgrid.net"
+					username="#_vars.sendgrid.user#"
+					password="#_vars.sendgrid.key#"
+	
+				usetls="true" 
+				type="html">
+				
+				Name: #form.name#<br>
+				Name: #form.email#<br>
+				Message: #form.message#<br>
+				Subject: #form.subject#<br>
+		    
+		</cfmail>    
+    <cfcatch type="Any" >
+    </cfcatch>
+    </cftry>
+
 
 	<!--- send a copy to the client --->
-	<cfmail 
-		from="#application.mail#" 
-		subject="We got your message for VirtualAssistantGo.com" 
-		to="#form.email#"
-		port="587"
-		server="smtp.sendgrid.net"
-		username="#_vars.sendgrid.user#"
-		password="#_vars.sendgrid.key#"
-		usetls="true"
-		type="html">
-		
-			We are checking your message. Thank you!<br>
-			Message: #form.message#<br>			
-	    
-	</cfmail>
+	<cftry>
+    	<cfmail 
+			from="#application.mail#" 
+			subject="We got your message for VirtualAssistantGo.com" 
+			to="#form.email#"
+			port="587"
+			server="smtp.sendgrid.net"
+			username="#_vars.sendgrid.user#"
+			password="#_vars.sendgrid.key#"
+			usetls="true"
+			type="html">
+			
+				We are checking your message. Thank you!<br>
+				Message: #form.message#<br>			
+		    
+		</cfmail>    
+    <cfcatch type="Any" >
+    </cfcatch>
+    </cftry>
+
 	<!---#############CFMAIL ENDS############--->
 	
 	<cflocation url="contactSuccess.cfm" addtoken="false" >
