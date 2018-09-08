@@ -341,7 +341,7 @@ This promotional rate lasts until the end of OCTOBER 2018.
         <td height="100%" valign="top">
           <p style="padding:0px 45px 0px 45px">Reply to this email and start your free 3-day trial right now!</p>
 
-<p style="padding:10px 20px 0px 45px">VISIT OUR SITE - <a href="http://onevoix.com/">VIRTUAL ASSISTANT GO</a></p>
+<p style="padding:10px 20px 0px 45px">VISIT OUR SITE - <a href="https://virtualassistantgo.com/">VIRTUAL ASSISTANT GO</a></p>
         </td>
       </tr>
     </table>
