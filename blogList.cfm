@@ -101,8 +101,6 @@
 
 <div class="content_fullwidth2" style="margin-bottom:50px;">
 <div class="container">
-
-	<div class="content_fullwidth">
     
     
     	<div class="blog_post">	
@@ -137,41 +135,6 @@
         		service even if the price of the commodity is high.
         		<br>
         		<a href="liveChat.cfm">
-        			read more...
-        		</a>
-        	</p>
-        </div>
-    </div><!-- /# end post -->
-    
-    <div class="clearfix divider_line9"></div>
-    
-    <div class="blog_post">	
-        <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/blogImages/headSet.jpg" alt="" /></a></div>
-        <h3><a href="voipHeadset.cfm">VoIP Headsets For Business</a></h3>
-            <ul class="post_meta_links">
-            	<li><a href="#" class="date">20 June 2018</a></li>
-                
-                <li class="post_categoty"><i>in:</i> <a href="#">Richard Parris</a></li>
-                <li class="post_comments"><i>note:</i> <a href="#">Onevoix</a></li>
-            </ul>
-         <div class="clearfix"></div>
-         <div class="margin_top1"></div>
-        	<p>
-        		Finding the right office products for your team is one of the biggest hurdles when it 
-        		comes to
-        		getting the correct communications
-        		structures in place for your business. However, what should be a straight forward process 
-        		can
-        		often be made more complicated by the
-        		sheer amount of choice offered to businesses. This guide will attempt to simplify the 
-        		search by
-        		comparing the best VoIP headsets from
-        		leading suppliers and guiding readers through a number of areas that should be covered 
-        		when
-        		investing in VoIP headset technology.
-        		<br>
-        		<a href="voipHeadset.cfm">
         			read more...
         		</a>
         	</p>
@@ -217,7 +180,7 @@
     </div><!-- /# end post -->
         
     
-    </div><!-- end section -->
+    
     
     <div class="content_fullwidth last">
     
@@ -308,8 +271,59 @@
         </div> 
     </div><!-- /# end post -->
    
+    <div class="clearfix divider_line9"></div>
     
+    <div class="blog_post">	
+        <div class="blog_postcontent">
+        <div class="image_frame"><a href="#"><img src="images/blogImages/howtohire.jpg" alt="" /></a></div>
+        <h3><a href="howtohire.cfm">How to Hire Your First Virtual Assistant and Why Everyone Should Have One? </a></h3>
+            <ul class="post_meta_links">
+            	<li><a href="#" class="date">Apr 5, 2017 </a></li>               
+                <li class="post_categoty"><i>by:</i> <a href="#">Jon Levy</a></li>
+            </ul>
+         <div class="clearfix"></div>
+         <div class="margin_top1"></div>
+        	<p>
+        		Everybody wants to be more productive, work shorter hours and explore the world, but how
+        		do you do that? As a human behavior scientist and digital nomad, I spend a large portion
+        		of my life traveling around the world to research and write about the science of
+        		adventure.To be able to travel while running a consulting firm and organizing The 
+        		Influencers events in eight different cities, I had to learn how to be productive. 
+        		Otherwise, none of this would have been possible and my business would've failed. Now, I 
+        		run my community entirely through different productivity tools and outsourced virtual 
+        		assistants.
+        	</p>
+        <a href="howtohire.cfm"> read more...</a></p>
+        </div> 
+    </div><!-- /# end post -->
+    
+    <div class="clearfix divider_line9"></div>
+    
+    <div class="blog_post">	
+        <div class="blog_postcontent">
+        <div class="image_frame"><a href="#"><img src="images/blogImages/insanelyProductive.jpg" alt="" /></a></div>
+        <h3><a href="howtohire.cfm">Want to Be Insanely Productive Without Working Longer Hours?<br>Spend $100 A Month On This! </a></h3>
+            <ul class="post_meta_links">
+            	<li><a href="#" class="date">October 15 2017 </a></li>               
+                <li class="post_categoty"><i>by:</i> <a href="#">Tommy Mello</a></li>
+            </ul>
+         <div class="clearfix"></div>
+         <div class="margin_top1"></div>
+        	<p>
+        		Everybody wants to be more productive, work shorter hours and explore the world, but how
+        		do you do that? As a human behavior scientist and digital nomad, I spend a large portion
+        		of my life traveling around the world to research and write about the science of
+        		adventure.To be able to travel while running a consulting firm and organizing The 
+        		Influencers events in eight different cities, I had to learn how to be productive. 
+        		Otherwise, none of this would have been possible and my business would've failed. Now, I 
+        		run my community entirely through different productivity tools and outsourced virtual 
+        		assistants.
+        	</p>
+        <a href="insanelyProductive.cfm"> read more...</a></p>
+        </div> 
+    </div><!-- /# end post -->
     </div><!-- end section -->
+    </div>
 </div>
 </div>	
 <!-- ######### JS FILES ######### -->
