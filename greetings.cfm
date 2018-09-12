@@ -255,7 +255,7 @@
             height="100%"
             valign="top"
             bgcolor="">
-            <div>Trust is one of our VA Management Services’ pillars of integrity. We guarantee that all client information is safe and secured under:</div>
+            <div>Trust is one of our VA Management Services' pillars of integrity. We guarantee that all client information is safe and secured under:</div>
         </td>
       </tr>
     </table>
@@ -286,7 +286,7 @@
             height="100%"
             valign="top"
             bgcolor="">
-            <div>To summarize here’s some ways our Virtual Assistant Management System can benefit you.</div>
+            <div>To summarize here's some ways our Virtual Assistant Management System can benefit you.</div>
         </td>
       </tr>
     </table>
