@@ -247,9 +247,9 @@
 									</label>
 								</section>
 							
-							<section class="col col-6">	
+							<section class="col col-6" style="text-align:left; margin-top:15px;">	
                         	<input name="terms" id="checkboxid" type="checkbox" required="required">&nbsp;&nbsp;I Agree to 
-                        	<a href="Terms.cfm">Terms of Use</a>	
+                        	<a href="Terms.cfm" target="_blank">Terms of Use</a>	
                         	</section>
 						</fieldset>
 						
