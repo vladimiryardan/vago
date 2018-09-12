@@ -106,7 +106,7 @@
 	<ol type="a">
 		<li>
 			Permission is granted to temporarily download one copy of the materials
-			(information or software) on Onevoix's web site for personal,
+			(information or software) on Virtual Assistant GO's web site for personal,
 			non-commercial transitory viewing only. This is the grant of a license,
 			not a transfer of title, and under this license you may not:
 		</li>
@@ -122,7 +122,7 @@
 				</li>
 				<br>
 				<li>
-					Attempt to decompile or reverse engineer any software contained on Onevoix's web site;
+					Attempt to decompile or reverse engineer any software contained on Virtual Assistant GO's web site;
 				</li>
 				<br>
 				<li>
@@ -136,7 +136,7 @@
 		
 		<p style="text-align: justify;">
 			This license shall automatically terminate if you violate any of these restrictions and may be 
-			terminated by Onevoix at any time. Upon terminating your viewing of these materials or upon the 
+			terminated by Virtual Assistant GO at any time. Upon terminating your viewing of these materials or upon the 
 			termination of this license, you must destroy any downloaded materials in your possession whether 
 			in electronic or printed format.
 		</p>
@@ -150,10 +150,10 @@
 	
 	<ol type="a">
 		<li style="text-align: justify;">
-			The materials on Onevoix's web site are provided "as is". Onevoix makes no warranties, expressed 
+			The materials on Virtual Assistant GO's web site are provided "as is". Virtual Assistant GO makes no warranties, expressed 
 			or implied, and hereby disclaims and negates all other warranties, including without limitation, 
 			implied warranties or conditions of merchantability, fitness for a particular purpose, or 
-			non-infringement of intellectual property or other violation of rights. Further, Onevoix does not 
+			non-infringement of intellectual property or other violation of rights. Further, Virtual Assistant GO does not 
 			warrant or make any representations concerning the accuracy, likely results, or reliability of 
 			the use of the materials on its Internet web site or otherwise relating to such materials or on 
 			any sites linked to this site.
@@ -165,9 +165,10 @@
 	</h3>
 	
 	<p >
-		In no event shall Onevoix or its suppliers be liable for any damages (including, without 
+		In no event shall Virtual Assistant GO or its suppliers be liable for any damages (including, without 
 		limitation, damages for loss of data or profit, or due to business interruption,) arising out of 
-		the use or inability to use the materials on Onevoix's Internet site, even if Onevoix or a Onevoix 
+		the use or inability to use the materials on Virtual Assistant GO's Internet site, even if Virtual Assistant GO
+		or a Virtual Assistant GO's 
 		authorized representative has been notified orally or in writing of the possibility of such 
 		damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations 
 		of liability for consequential or incidental damages, these limitations may not apply to you.
@@ -180,10 +181,10 @@
 	</h3>
 	
 	<p>
-		The materials appearing on Onevoix's web site could include technical, typographical, or 
-		photographic errors. Onevoix does not warrant that any of the materials on its web site are 
-		accurate, complete, or current. Onevoix may make changes to the materials contained on its web 
-		site at any time without notice. Onevoix does not, however, make any commitment to update the 
+		The materials appearing on Virtual Assistant GO's web site could include technical, typographical, or 
+		photographic errors. Virtual Assistant GO does not warrant that any of the materials on its web site are 
+		accurate, complete, or current. Virtual Assistant GO may make changes to the materials contained on its web 
+		site at any time without notice. Virtual Assistant GO does not, however, make any commitment to update the 
 		materials.
 	</p>
 	
@@ -194,9 +195,9 @@
 	</h3>
 	
 	<p>
-		Onevoix has not reviewed all of the sites linked to its Internet web site and is not responsible 
+		Virtual Assistant GO has not reviewed all of the sites linked to its Internet web site and is not responsible 
 		for the contents of any such linked site. The inclusion of any link does not imply endorsement by 
-		Onevoix of the site. Use of any such linked web site is at the user's own risk.
+		Virtual Assistant GO of the site. Use of any such linked web site is at the user's own risk.
 	</p>
 	
 	<br>
@@ -206,7 +207,7 @@
 	</h3>
 	
 	<p>
-		Onevoix may revise these terms of use for its web site at any time without notice. By using this 
+		Virtual Assistant GO may revise these terms of use for its web site at any time without notice. By using this 
 		web site you are agreeing to be bound by the then current version of these Terms and Conditions of 
 		Use.
 	</p>
@@ -218,7 +219,7 @@
 	</h3>
 	
 	<p>
-		Any claim relating to Onevoix's web site shall be governed by the laws of the State of Philippines 
+		Any claim relating to Virtual Assistant GO's web site shall be governed by the laws of the State of Philippines 
 		without regard to its conflict of law provisions.
 	</p>
 	
