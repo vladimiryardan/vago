@@ -13,6 +13,7 @@
 <!-- MasterSlider -->
 <link rel="stylesheet" href="js/masterslider/style/masterslider.css" />
 <link rel="stylesheet" href="js/masterslider/skins/default/style.css" />
+
 </head>
 
 <!---##########Header Ends########## --->
@@ -193,7 +194,7 @@
 
 		 	
 		 
-		    <div class="reg_form" style="padding-top:0px;">
+		    <div class="reg_form" id="reg_form" style="padding-top:0px;">
 			
 			<cfoutput>
             		<form action="#cgi.SCRIPT_NAME#" method="post" id="sky-form" class="sky-form" style="margin-top:50px;">
@@ -245,7 +246,13 @@
 										<input type="text" name="company" id="company" value="#company#">
 									</label>
 								</section>
+							
+							<section class="col col-6">	
+                        	<input name="terms" id="checkboxid" type="checkbox" required="required">&nbsp;&nbsp;I Agree to 
+                        	<a href="Terms.cfm">Terms of Use</a>	
+                        	</section>
 						</fieldset>
+						
 						<footer>
 							<input type="submit" class="button" name="sendmail" value="Submit">	
 							<!---<input type="hidden" name="mode" value="sendmail" >	--->	
@@ -269,5 +276,6 @@
 <!-- end content area -->
 <div class="clearfix margin_top10">
 </div>
+
 
 <cfinclude template="footer.cfm">
