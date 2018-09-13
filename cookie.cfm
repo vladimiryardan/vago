@@ -43,6 +43,8 @@
 </style>
 
 <!---##########CSS ENDS########## --->
+
+<!---##########Cookie Policy Starts##########--->
 <div class="page_title">
 	<div class="container">
 	
@@ -61,69 +63,70 @@
 	<div class="one_full stcode_title12">
 	
 		<br>
-		<h2>
+		<h2 style="text-align:left;">
 			<strong>
 				Our Privacy Values
 			</strong>
 		</h2>
 		<br>
     	<h5>
-    		At Virtual Assistant GO, we 
-    		strive to do everything we can to respect the trust customers have in our brand and our 
-    		commitment to your privacy is no exception. We are committed to protecting and safeguarding 
-    		your privacy when you visit our Web site, when you visit our 
-    		service, when you use any other phone technology that we use or 
-    		later on develop. We aim to be transparent on how we collect, use, and store your information and, 
-    		thus, share with you through this "Privacy Policy" that we have designed to protect your 
+    		At Virtual Assistant GO, we strive to do everything we can to respect the trust customers have 
+    		in our brand and our
+    		commitment to your privacy is no exception. We are committed to protecting and safeguarding
+    		your privacy when you visit our Web site, when you visit our
+    		service, when you use any other phone technology that we use or
+    		later on develop. We aim to be transparent on how we collect, use, and store your information
+    		and, thus, share with you through this "Privacy Policy" that we have designed to protect your
     		information
     	</h5>
     	<br>
     	<h5>
-    		Your privacy matters to Virtual Assistant GO. Thus, PLEASE READ AND UNDERSTAND THE FOLLOWING CAREFULLY.
+    		Your privacy matters to Virtual Assistant GO.
+    		<br>Thus, PLEASE READ AND UNDERSTAND THE FOLLOWING CAREFULLY.
     	</h5>
     	<br>
     	<h5>
     		Our Privacy Policy explains:
     	</h5>
     	<br>
-    	<ul>
-    		<li class="fa fa-folder-o" style="font-size:20px;">
+    	<ul style=" color:black;">
+    		<li class="fa fa-folder-o" style="font-size:20px; padding-left:50px;">
     			&nbsp; The types of data that we collect	
     		</li>
     		<br>
-    		<li class="fa fa-folder-o" style="font-size:20px; padding-top:10px;">
+    		<li class="fa fa-folder-o" style="font-size:20px; padding:10px 0px 0px 50px;">
     			&nbsp; Purposes for which we collect and use data	
     		</li>
     		<br>
-    		<li class="fa fa-folder-o" style="font-size:20px; padding-top:10px;"">
-    			&nbsp; How we share data to our Virtual Assistant GO's Family, trusted companies, businesses, and vendors,including international data transfers
+    		<li class="fa fa-folder-o" style="font-size:20px; padding:10px 0px 0px 50px;">
+    			&nbsp; How we share data to our Virtual Assistant GO's Family, trusted companies and businesses
     		</li>
     		<br>
-    		<li class="fa fa-folder-o" style="font-size:20px; padding-top:10px;">
+    		<li class="fa fa-folder-o" style="font-size:20px; padding:10px 0px 0px 50px;">
     			&nbsp; The protection and security measures we have in place	
     		</li>
     		<br>
-    		<li class="fa fa-folder-o" style="font-size:20px; padding-top:10px;">
+    		<li class="fa fa-folder-o" style="font-size:20px; padding:10px 0px 0px 50px;">
     			&nbsp; How long we retain information	
     		</li>
     		<br>
-    		<li class="fa fa-folder-o" style="font-size:20px; padding-top:10px;">
+    		<li class="fa fa-folder-o" style="font-size:20px; padding:10px 0px 0px 50px;">
     			&nbsp; Our privacy policy relating to your Personal Data	
     		</li>
     		<br>
-    		<li class="fa fa-folder-o" style="font-size:20px; padding-top:10px;">
+    		<li class="fa fa-folder-o" style="font-size:20px; padding:10px 0px 0px 50px;">
     			&nbsp; Your access and control to your own Personal Data	
     		</li>
     		<br>
-    		<li class="fa fa-folder-o" style="font-size:20px; padding-top:10px;">
+    		<li class="fa fa-folder-o" style="font-size:20px; padding:10px 0px 0px 50px;">
     			&nbsp; Links to external websites and social media	
     		</li>
     		<br>
-    		<li class="fa fa-folder-o" style="font-size:20px; padding-top:10px;">
+    		<li class="fa fa-folder-o" style="font-size:20px; padding:10px 0px 0px 50px;">
     			&nbsp; Management of any changes to this Privacy Policy
     		</li>
     		<br>
-    		<li class="fa fa-folder-o" style="font-size:20px; padding-top:10px;">
+    		<li class="fa fa-folder-o" style="font-size:20px; padding:10px 0px 0px 50px;">
     			&nbsp; How to contact us	
     		</li>
     	</ul>
@@ -144,38 +147,36 @@
     		to have agreed to the Privacy Policy.
     	</h5>
     	<br>
-    	<h5>
+    	<h5 style="text-align:left;">
 			<strong>
 				Information You Give Us.
 			</strong>
 		</h5>
-		
-		<br>
 		<h5>
 			Virtual Assistant GO gathers the following personal information: 
 		</h5>
-		<br>
-    	<ul>
-    		<li class="fa fa-user" style="font-size:20px;">
-    			&nbsp; First and last names,
+		
+    	<ul style="color:black;">
+    		<li class="fa fa-user" style="font-size:20px; padding:10px 0px 0px 50px;">
+    			&nbsp; First and Last names,
     		</li>
     		<br>
-    		<li class="fa fa-envelope" style="font-size:20px; padding-top:10px;">
+    		<li class="fa fa-envelope" style="font-size:20px; padding:10px 0px 0px 50px;">
     			&nbsp; E-mail,	
     		</li>
     		<br>
-    		<li class="fa fa-phone" style="font-size:20px; padding-top:10px;">
+    		<li class="fa fa-phone" style="font-size:20px; padding:10px 0px 0px 50px;">
     			&nbsp; Phone,	
     		</li>
     		<br>
-    		<li class="fa fa-building-o" style="font-size:20px; padding-top:10px;">
+    		<li class="fa fa-building-o" style="font-size:20px; padding:10px 0px 0px 50px;">
     			&nbsp; Business Name
     		</li>
     		<br>
     		
     	</ul>
     	<br>
-    	<h2>
+    	<h2 style="text-align:left;">
 			<strong>
 				Information from Automated Means
 			</strong>
@@ -194,7 +195,7 @@
     		other services such as technical support. We provide additional information regarding our use 
     		of “cookies“ in this Privacy Policy below. 
     	</h5>
-    	<br>
+    	
     	<h5>
     		If you have any questions about how to prevent us from collecting exact information about your 
     		location, we recommend you contact your mobile-device service provider, the device 
@@ -203,8 +204,10 @@
     		which could identify your location, please contact us through the Contact information provided 
     		below. By law, please note that we may need to keep certain information. 
     	</h5>
+    	<br>
+    	<br>
 		<!---Privacy Starts --->
-		<h2>
+		<h2 style="text-align:left;">
 			<strong>
 				What are Cookies?
 			</strong>
@@ -214,16 +217,10 @@
 		<h5>
 			To make this site work properly, we sometimes place small data files called cookies on
 			your device. Most big websites do this too.
-		</h5>
-		<br>
-		
-		<h5>
 			Cookies are small text files containing a string of characters that can be placed on your
 			computer or mobile device that uniquely identify your browser or device. What are cookies
 			used for?
 		</h5>
-		
-		<br>
 		
 		<h5>
 			Cookies allow a site or services to know if your computer or device has visited that site
@@ -233,8 +230,8 @@
 			see online is more relevant to you and your interests.
 		</h5>
 		<br>
-		
-		<h2>
+		<br>
+		<h2 style="text-align:left;">
 			<strong>
 				What types of cookies does Virtual Assistant Go use?
 			</strong>
@@ -245,16 +242,14 @@
 			"Functionality," and "Targeting." wikiHow routinely uses all four categories of cookies on
 			the Service. You can find out more about each cookie category below.
 		</h5>
-		
 		<br>
-		
-		<h5>
-			1. Strictly Necessary Cookies. These cookies are essential, as they enable you to move
+		<h5 style="padding:0px 100px 0px 100px;">
+			<strong>1. Strictly Necessary Cookies.</strong> These cookies are essential, as they enable you to move
 			around the Service and use its features, such as accessing logged in or secure areas
 		</h5>
 		<br>
-		<h5>
-			2. Performance Cookies. These cookies collect information about how you have used the
+		<h5 style="padding:0px 100px 0px 100px;">
+			<strong>2. Performance Cookies.</strong> These cookies collect information about how you have used the
 			Service, for example, information related to the unique username you have provided, so
 			that less strain is placed on our backend infrastructure. These cookies may also be used
 			to allow us to know that you have logged in so that we can serve you fresher content than
@@ -263,8 +258,8 @@
 			to improve how the Service works.
 		</h5>
 		<br>
-		<h5>
-			Functionality Cookies. These cookies allow us to remember how you’re logged in, whether
+		<h5 style="padding:0px 100px 0px 100px;">
+			<strong>3. Functionality Cookies.</strong> These cookies allow us to remember how you’re logged in, whether
 			you chose to no longer see advertisements, whether you made an edit to an article on the
 			Service while logged out, when you logged in or out, the state or history of Service tools
 			you’ve used. These cookies also allow us to tailor the Service to provide enhanced
@@ -274,8 +269,8 @@
 			browsing activity on other sites or services.
 		</h5>
 		<br>
-		<h5>
-			Targeting Cookies. Virtual Assistant GO, our advertising partners or other third party partners 
+		<h5 style="padding:0px 100px 0px 100px;">
+			<strong>4. Targeting Cookies.</strong> Virtual Assistant GO, our advertising partners or other third party partners 
 			may use
 			these types of cookies to deliver advertising that is relevant to your interests. These
 			cookies can remember that your device has visited a site or service, and may also be able
@@ -288,21 +283,68 @@
 			providing aggregate Service usage statistics and aggregate Service testing.
 		</h5>
 		<br>
-		<h2>
+		<h2 style="text-align:left;">
 			<strong>
-				How to control cookies
+				How can I block and/or delete cookies?
 			</strong>
 		</h2>
 		<br>
     	<h5>
     		You can control and/or delete cookies as you wish – for details, see 
-    		<a href="aboutcookies.org" target="_blank" style="color:blue;" >aboutcookies.org
+    		<a href="https://aboutcookies.org/" target="_blank" style="color:blue;" >aboutcookies.org
     		</a>
     		You can delete all cookies that are already on your computer and you can set most
     		browsers to prevent them from being placed. If you do this, however, you may have to
     		manually adjust some preferences every time you visit a site and some services and
     		functionalities may not work.
     	</h5>
+    	<h5>
+    		Use the options in your web browser if you do not wish to receive a cookie or if you wish to 
+    		set your browser to notify you when you receive a cookie. You can easily delete any cookies 
+    		that have been installed in the cookie folder of your browser.
+    	</h5>
+    	<h5>
+    		To delete cookies on Internet Explorer 8, follow these steps:
+    	</h5>
+    	<h5>
+    		Click to open Internet Explorer.
+    		Click the Tools button, and then click Internet Options.
+    		On the General tab, under Browsing history, click Delete.
+    		Select the Cookies check box, and then click Delete if it isn't already checked. Clear or 
+    		select check boxes for any other options you also want to delete.
+    	</h5>
+    	<h5>
+    		If you don't change any check boxes, deleting the browsing history removes temporary Internet 
+    		files, webpage history, and cookies. Temporary files and cookies for your saved favourite 
+    		websites are preserved.
+    	</h5>
+    	<h5>
+    		If you disable all cookies you may not be able to take advantage of all the features of this 
+    		website and some webpages make not work correctly.
+    	</h5>
+    	<br><br>
+    	<h2 style="text-align:left;">
+			<strong>
+				Does this policy change?
+			</strong>
+		</h2>
+		<br>
+    	<h5 >
+    		This Policy was last updated in August 2018. From time to time, it may be necessary for us to 
+    		change this cookie policy. 
+    	</h5>
+    	
+    	<br><br>
+    	<h2 style="text-align:left;">
+			<strong>
+				Feedback
+			</strong>
+		</h2>
+		<br>
+		<h5>
+			If you have any questions or feedback on our Cookie Policy, please contact us at
+			<a href="mailto:info@virtualassistantgo.com">info@virtualassistantgo.com.</a>
+		</h5>
 	</div>
 </div>
 
