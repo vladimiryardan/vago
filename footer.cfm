@@ -78,7 +78,8 @@
 	    
 	    <div class="one_half" data-anim-type="fadeInRight">
 	    
-	        Copyright 2013 <a href="https://www.onevoix.com" target="_blank">Onevoix.com.</a> All rights reserved.  <a href="Terms.cfm">Terms of Use</a> | <a href="privacy.cfm">Privacy Policy</a>
+	        Copyright 2013 <a href="https://www.onevoix.com" target="_blank">Onevoix.com.</a> All rights reserved.  
+	        <a href="Terms.cfm">Terms of Use</a> | <a href="privacy.cfm">Privacy Policy</a> | <a href="cookie.cfm">Cookie Policy</a>
 	        
 	    </div>
 	    
