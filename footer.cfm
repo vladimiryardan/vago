@@ -40,6 +40,7 @@
 	            <li><a href="riseofva.cfm"><i class="fa fa-angle-right"></i> The rise of the virtual assistant</a></li>
 	            <li><a href="choosing.cfm"><i class="fa fa-angle-right"></i> Choosing a Virtual Assistant</a></li>
 	            <li><a href="greatidea.cfm"><i class="fa fa-angle-right"></i> Virtual Assistant Is a Great Idea</a></li>
+	            <li><a href="sixcreative.cfm"><i class="fa fa-angle-right"></i> 6 Creative Ways to Use Overseas Virtual Assistants </a></li>
 	        </ul>
 	        
 	    </div>
@@ -52,15 +53,16 @@
     				<a href="aboutus.cfm">About Us</a>
     			</h4>
 
-					<p>
+					<p style="text-align:left;">
 						VirtualAssistantGO.com is a solution that offers Virtual Assistant to
             			Real Estate agents and Entrepreneurs. The service will provide quality Virtual Assistant Professional in a
             			cost effective way and empowering your business. 
 					</p>
-            		
-            		<p>
+            		<br>
+            		<p style="text-align:left;">
             			Our Virtual Assistants are at an advantage in doing inbound and outbound voice calls. 
             			Our Team has honed and passed this skill to all of their seasoned agents, and have continuosly improved over the years..
+            			<a href="aboutus.cfm">Read more</a>
             		</p>
             	
     		</div>
