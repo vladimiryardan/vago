@@ -133,9 +133,9 @@
 <script type="text/javascript" src="js/universal/custom.js"></script>
 
 <!--Cookie Popup -->
+<script src="js/jquery-eu-cookie-law-popup.js"></script>
 
- <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
- <script src="js/jquery-eu-cookie-law-popup.js"></script>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-51354712-3"></script>
 <script>
