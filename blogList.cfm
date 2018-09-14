@@ -302,7 +302,7 @@
     <div class="blog_post">	
         <div class="blog_postcontent">
         <div class="image_frame"><a href="#"><img src="images/blogImages/insanelyProductive.jpg" alt="" /></a></div>
-        <h3><a href="howtohire.cfm">Want to Be Insanely Productive Without Working Longer Hours?<br>Spend $100 A Month On This! </a></h3>
+        <h3><a href="insanelyProductive.cfm">Want to Be Insanely Productive Without Working Longer Hours?<br>Spend $100 A Month On This! </a></h3>
             <ul class="post_meta_links">
             	<li><a href="#" class="date">October 15 2017 </a></li>               
                 <li class="post_categoty"><i>by:</i> <a href="#">Tommy Mello</a></li>
