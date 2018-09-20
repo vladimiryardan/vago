@@ -69,7 +69,7 @@
 			</strong>
 		</h2>
 		<br>
-    	<h5>
+    	<p>
     		At Virtual Assistant GO, we strive to do everything we can to respect the trust customers have 
     		in our brand and our
     		commitment to your privacy is no exception. We are committed to protecting and safeguarding
@@ -78,18 +78,18 @@
     		later on develop. We aim to be transparent on how we collect, use, and store your information
     		and, thus, share with you through this "Privacy Policy" that we have designed to protect your
     		information
-    	</h5>
+    	</p>
     	<br>
-    	<h5>
+    	<p>
     		Your privacy matters to Virtual Assistant GO.
     		<br>Thus, PLEASE READ AND UNDERSTAND THE FOLLOWING CAREFULLY.
-    	</h5>
+    	</p>
     	<br>
-    	<h5>
+    	<p>
     		Our Privacy Policy explains:
-    	</h5>
+    	</p>
     	<br>
-    	<ul style=" color:black;">
+    	<ul>
     		<li class="fa fa-folder-o" style="font-size:20px; padding-left:50px;">
     			&nbsp; The types of data that we collect	
     		</li>
@@ -131,32 +131,32 @@
     		</li>
     	</ul>
     	<br>
-    	<h5>
+    	<p>
     		Further to your voluntary sharing of Personal Data, there may be situations where your 
     		Personal Data will be requested from you when such is necessary to provide a Service or is 
     		required by law. By providing us your Personal Data to avail of our products and Services or 
     		in any business interaction with us where your Personal Data is required, you are consenting 
     		to the collection, use, access, transfer, storage, and processing of your Personal Data as 
     		described in this Privacy Policy. 
-    	</h5>
+    	</p>
     	<br>
-    	<h5>
+    	<p>
     		The creation of a service account assumes that you have understood and 
     		accepted the terms and conditions of this policy, and have given their consent and permission 
     		as a person above for such continued access and/or use, and are deemed 
     		to have agreed to the Privacy Policy.
-    	</h5>
+    	</p>
     	<br>
-    	<h5 style="text-align:left;">
+    	<p style="text-align:left;">
 			<strong>
 				Information You Give Us.
 			</strong>
-		</h5>
-		<h5>
+		</p>
+		<p>
 			Virtual Assistant GO gathers the following personal information: 
-		</h5>
+		</p>
 		
-    	<ul style="color:black;">
+    	<ul>
     		<li class="fa fa-user" style="font-size:20px; padding:10px 0px 0px 50px;">
     			&nbsp; First and Last names,
     		</li>
@@ -182,7 +182,7 @@
 			</strong>
 		</h2>
 		<br>
-    	<h5>
+    	<p>
     		When you visit, use or interact with our Sites, we may collect certain 
     		information by automated or passive means using a variety of technologies which may be 
     		set or modify settings on your device. The "Usage 
@@ -194,16 +194,16 @@
     		all lawful purposes, including to operate, maintain, and manage our Services and to provide 
     		other services such as technical support. We provide additional information regarding our use 
     		of “cookies“ in this Privacy Policy below. 
-    	</h5>
+    	</p>
     	
-    	<h5>
+    	<p>
     		If you have any questions about how to prevent us from collecting exact information about your 
     		location, we recommend you contact your mobile-device service provider, the device 
     		manufacturer, or your web-browser provider. Some online Services may not work properly without 
     		information about your location. If you would like us to delete information we have collected 
     		which could identify your location, please contact us through the Contact information provided 
     		below. By law, please note that we may need to keep certain information. 
-    	</h5>
+    	</p>
     	<br>
     	<br>
 		<!---Privacy Starts --->
@@ -214,21 +214,21 @@
 		</h2>
 		<br>
 		
-		<h5>
+		<p>
 			To make this site work properly, we sometimes place small data files called cookies on
 			your device. Most big websites do this too.
 			Cookies are small text files containing a string of characters that can be placed on your
 			computer or mobile device that uniquely identify your browser or device. What are cookies
 			used for?
-		</h5>
+		</p>
 		
-		<h5>
+		<p>
 			Cookies allow a site or services to know if your computer or device has visited that site
 			or service before. Cookies can then be used to help understand how the site or service is
 			being used, help you navigate between pages efficiently, help remember your preferences,
 			and generally improve your browsing experience. Cookies can also help ensure marketing you
 			see online is more relevant to you and your interests.
-		</h5>
+		</p>
 		<br>
 		<br>
 		<h2 style="text-align:left;">
@@ -237,18 +237,18 @@
 			</strong>
 		</h2>
 		<br>
-		<h5>
+		<p>
 			There are generally four categories of cookies: "Strictly Necessary," "Performance,"
 			"Functionality," and "Targeting." wikiHow routinely uses all four categories of cookies on
 			the Service. You can find out more about each cookie category below.
-		</h5>
+		</p>
 		<br>
-		<h5 style="padding:0px 100px 0px 100px;">
+		<p style="padding:0px 100px 0px 100px;">
 			<strong>1. Strictly Necessary Cookies.</strong> These cookies are essential, as they enable you to move
 			around the Service and use its features, such as accessing logged in or secure areas
-		</h5>
+		</p>
 		<br>
-		<h5 style="padding:0px 100px 0px 100px;">
+		<p style="padding:0px 100px 0px 100px;">
 			<strong>2. Performance Cookies.</strong> These cookies collect information about how you have used the
 			Service, for example, information related to the unique username you have provided, so
 			that less strain is placed on our backend infrastructure. These cookies may also be used
@@ -256,9 +256,9 @@
 			a user who has never logged in. We also use cookies to track aggregate Service usage and
 			experiment with new features and changes on the Service. The information collected is used
 			to improve how the Service works.
-		</h5>
+		</p>
 		<br>
-		<h5 style="padding:0px 100px 0px 100px;">
+		<p style="padding:0px 100px 0px 100px;">
 			<strong>3. Functionality Cookies.</strong> These cookies allow us to remember how you’re logged in, whether
 			you chose to no longer see advertisements, whether you made an edit to an article on the
 			Service while logged out, when you logged in or out, the state or history of Service tools
@@ -267,9 +267,9 @@
 			ways, such as customizing the toolbars we offer in the right column of every page. The
 			information these cookies collect may be anonymous, and they are not used to track your
 			browsing activity on other sites or services.
-		</h5>
+		</p>
 		<br>
-		<h5 style="padding:0px 100px 0px 100px;">
+		<p style="padding:0px 100px 0px 100px;">
 			<strong>4. Targeting Cookies.</strong> Virtual Assistant GO, our advertising partners or other third party partners 
 			may use
 			these types of cookies to deliver advertising that is relevant to your interests. These
@@ -281,7 +281,7 @@
 			and/or advertising networks to deliver the advertising, and to help measure the
 			effectiveness of an advertising campaign, or other business partners for the purpose of
 			providing aggregate Service usage statistics and aggregate Service testing.
-		</h5>
+		</p>
 		<br>
 		<h2 style="text-align:left;">
 			<strong>
@@ -289,7 +289,7 @@
 			</strong>
 		</h2>
 		<br>
-    	<h5>
+    	<p>
     		You can control and/or delete cookies as you wish – for details, see 
     		<a href="https://aboutcookies.org/" target="_blank" style="color:blue;" >aboutcookies.org
     		</a>
@@ -297,31 +297,31 @@
     		browsers to prevent them from being placed. If you do this, however, you may have to
     		manually adjust some preferences every time you visit a site and some services and
     		functionalities may not work.
-    	</h5>
-    	<h5>
+    	</p>
+    	<p>
     		Use the options in your web browser if you do not wish to receive a cookie or if you wish to 
     		set your browser to notify you when you receive a cookie. You can easily delete any cookies 
     		that have been installed in the cookie folder of your browser.
-    	</h5>
-    	<h5>
+    	</p>
+    	<p>
     		To delete cookies on Internet Explorer 8, follow these steps:
-    	</h5>
-    	<h5>
+    	</p>
+    	<p>
     		Click to open Internet Explorer.
     		Click the Tools button, and then click Internet Options.
     		On the General tab, under Browsing history, click Delete.
     		Select the Cookies check box, and then click Delete if it isn't already checked. Clear or 
     		select check boxes for any other options you also want to delete.
-    	</h5>
-    	<h5>
+    	</p>
+    	<p>
     		If you don't change any check boxes, deleting the browsing history removes temporary Internet 
     		files, webpage history, and cookies. Temporary files and cookies for your saved favourite 
     		websites are preserved.
-    	</h5>
-    	<h5>
+    	</p>
+    	<p>
     		If you disable all cookies you may not be able to take advantage of all the features of this 
     		website and some webpages make not work correctly.
-    	</h5>
+    	</p>
     	<br><br>
     	<h2 style="text-align:left;">
 			<strong>
@@ -329,10 +329,10 @@
 			</strong>
 		</h2>
 		<br>
-    	<h5 >
+    	<p >
     		This Policy was last updated in August 2018. From time to time, it may be necessary for us to 
     		change this cookie policy. 
-    	</h5>
+    	</p>
     	
     	<br><br>
     	<h2 style="text-align:left;">
@@ -341,10 +341,10 @@
 			</strong>
 		</h2>
 		<br>
-		<h5>
+		<p>
 			If you have any questions or feedback on our Cookie Policy, please contact us at
 			<a href="mailto:info@virtualassistantgo.com">info@virtualassistantgo.com.</a>
-		</h5>
+		</p>
 	</div>
 </div>
 

@@ -67,33 +67,32 @@
 	</h2>
 </div>
 
-<br>
 
 	<div class="container">
-    	<h5>
+    	<p>
     		Despite bold visions and big plans, it's all too easy for entrepreneurs to become bogged down 
     		by the mundane tasks involved in building a successful enterprise. Even when you put in long 
     		hours and personal sacrifice, it can be a struggle to get everything done. This is often the 
     		turning point that determines the success or failure of a start-up venture. Will you adapt and 
     		delegate effectively, or will you burn out as a one-person show?
-    	</h5>
+    	</p>
 		<br>
-    	<h5>
+    	<p>
     		In any company, there are a few critical tasks which can't be ignored but can distract 
     		entrepreneurs from the work they do best. This is especially true for small companies or 
     		start-ups who are not ready to hire full-time support staff.
-    	</h5>
+    	</p>
     	<br>
-    	<h5>
+    	<p>
     		A virtual assistant (VA) can come to the rescue. It's becoming common to hire an individual 
     		who works on your behalf from a remote location, taking care of the crucial tasks that could 
     		easily be done more efficiently by someone else, leaving you free to do higher-level work.
-    	</h5>	
+    	</p>	
 		<br>
-    	<h5>
+    	<p>
     		A virtual assistant can handle everything from answering emails to developing your marketing 
     		strategy. Here's why it's time to consider hiring one of your own.
-    	</h5>
+    	</p>
     	<br>
     	
     	<h4>
@@ -101,16 +100,15 @@
     		1. VAs Work Within Your Budget
     	</strong>
     	</h4>
-    	<br>
     	
-    	<h5>
+    	<p>
     		You know you need help, but you're not ready to hire a full-time administrative employee. 
     		There's a great degree of flexibility with virtual assistants which makes hiring a possibility 
     		for business owners. Establish what you can afford to pay, then find a professional who will 
     		work within those parameters. You don't have to pay benefits or get locked into a long-term 
     		contract. They can work on their own time, or establish a routine which works well with your 
     		office hours and schedule.
-    	</h5>
+    	</p>
  		<br>
  		<h4>
  			<strong>
@@ -119,21 +117,21 @@
  		</h4>
  		
  		
-    	<h5>
+    	<p>
     		Maybe you need more basic or specific help, such as a receptionist or someone to update Excel 
     		files. Perhaps you would benefit from higher-level support, such as a virtual business manager 
     		capable of creating the processes and forms that your growing company needs. VAs can also be 
     		personal assistants, managing a mix of business and personal tasks. Whatever support you need, 
     		there's a virtual assistant who can help.
-    	</h5>
-    	
+    	</p>
+    	<br>
     	<h4>
  			<strong>
  				3. They Help You Stay Connected With Customers
  			</strong>
  		</h4>
     	
-    	<h5>
+    	<p>
     		It's a 24/7 world, and in business, two of the most time-sensitive tasks are responding to 
     		customer communications and handling your social media presence. It's critical to devote the 
     		resources necessary to stay on top of both. If a customer reaches out to you either by email 
@@ -141,7 +139,7 @@
     		comes to your attention a week later. Having a person dedicated to serving as the social media 
     		eyes and ears of your company can help you protect your brand and stay responsive to your 
     		client base.
-    	</h5>
+    	</p>
     	
     	<br>
     	
@@ -151,23 +149,23 @@
  			</strong>
  		</h4>
  		
-    	<h5>
+    	<p>
     		Some VAs have specific areas of expertise such as marketing, writing, social media, HR 
     		functions or bookkeeping. When hiring a VA, whether through an agency or on an individual 
     		basis, do so with an understanding of the experience and abilities you need most to ensure you 
     		get a good fit. Be realistic; while you may get lucky with someone who can do it all, it's not 
     		likely you'll find one person to do the job of several people, crafting emails, basic 
     		administrative tasks, developing engaging online content and managing your books.
-    	</h5>
+    	</p>
     	<br>
     	
     	<h4>
  			<strong>
  				5. VAs Allow You to Delegate
  			</strong>
- 		</h4><br>
+ 		</h4>
  		
-    	<h5>
+    	<p>
     		Small business owners are (understandably) used to doing everything themselves, though this 
     		strategy wears thin when you're putting in 100-hour work weeks. Working with a VA lets you 
     		exercise your delegating muscles, a talent that will serve you well as your business grows. 
@@ -176,21 +174,21 @@
     		put in, so it will require an initial investment of time, thought and training to hand work 
     		over. However, this up-front investment will provide more freedom to do the things that only 
     		you can do.
-    	</h5>
+    	</p>
     	<br>
     	
     	<h4>
  			<strong>
  				6. They'll Grow With Your Company
  			</strong>
- 		</h4><br>
+ 		</h4>
  		
-    	<h5>
+    	<p>
     		You may start a VA with tasks like data entry, managing your email inbox or making travel 
     		arrangements, but as they succeed in those tasks, they may be ready to take on more 
     		responsibility. This is a great way to test-drive support staff and identify people who can 
     		develop into key players for your business.
-    	</h5>
+    	</p>
     	
     	<h4 style="margin-top:50px; color:darkblue;">
     		<strong>

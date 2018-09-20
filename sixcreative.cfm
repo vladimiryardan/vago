@@ -66,26 +66,26 @@
 </div>
 
 	<div class="container">
-    	<h5>
+    	<p>
     		Outsourcing work to overseas contractors has a bad reputation. Decades of U.S. businesses 
     		trying to find the cheapest possible labor in foreign markets led to a backlash, especially 
     		when the home economy was faltering. 
-    	</h5>
+    	</p>
 	
-    	<h5>
+    	<p>
     		Everyone seems to have a horror story how of a low-paid contractor mismanaged a website, 
     		created valueless content or simply took the money and disappeared. But the problem can 
     		sometimes result from the pay. When an entrepreneur pays pennies on the dollar compared with 
     		what it would cost domestically, the results can sometimes end up being worth only a fraction 
     		of the cost as well. 
-    	</h5>
+    	</p>
 	
-    	<h5>
+    	<p>
     		No matter what market is selected, keep the language barrier in mind. Hiring overseas 
     		contractors to write fluent English content can be an exercise in frustration -- not to 
     		mention the minefield of copyright flags. Instead, hire overseas virtual assistants to perform 
     		the following tasks that can often be done independent of language fluency:
-    	</h5>
+    	</p>
     	
     	
  		<br>
@@ -95,18 +95,18 @@
  			</strong>
  		</h4>
  			
-    	<h5>
+    	<p>
     		Javascript, HTML, cascading style sheets (CSS) -- coding languages are the same whether a 
     		person's native language is English, Spanish, Japanese or anything else. There's no need to 
     		worry about virtual assistants' English fluency when they are producing code for website 
     		modifications, plug-ins or landing pages.
-    	</h5>
+    	</p>
 		
-    	<h5>
+    	<p>
     		Do worry about the quality of their code. But that’s easy to check. Does it work? Is it 
     		secure? An overseas coder is just as likely to produce a quality website as a domestic one -- 
     		and can do it at a fraction of the cost.
-    	</h5>
+    	</p>
     	<br>
    		<h4>
  			<strong>
@@ -114,19 +114,19 @@
  			</strong>
  		</h4>
  		
-    	<h5>
+    	<p>
     		OK, so scripted live-chat agents are going to sound a little stilted and unnatural when 
     		English is their second language. Then again, if anyone is required to stick to a script, he 
     		or she will suffer just as much with even if fluent in English and residing in the States.
-    	</h5>
+    	</p>
     	
-    	<h5>
+    	<p>
     		Live-chat agents are paid to sit around and be available when a user needs a question answered 
     		on a website. They generally don’t need an intimate understanding of the business. A handful 
     		of scripts and some basic information will enable them to answer most questions that a user 
     		might pose through live chat. Plus, overseas agents are available and alert late at night 
     		after business hours, ensuring quality service around the clock.
-    	</h5>
+    	</p>
     	<br>
     	<h4>
  			<strong>
@@ -134,17 +134,17 @@
  			</strong>
  		</h4>
  		
-    	<h5>
+    	<p>
     		Web site contact forms can be powerful sources of leads. But it's a time-consuming manual task 
     		to sort through the contact messages, determine which can be pursued as customer leads, find 
     		the ones requiring other attention and then pursue the leads.
-    	</h5>
+    	</p>
     	
-    	<h5>
+    	<p>
     		Why bother doing it manually? A virtual assistant can just as easily sort through the contact 
     		forms and send a follow-up note to the most promising leads. If the virtual assistant proves 
     		effective, expand his or her role to include other forms of lead discovery.
-    	</h5>
+    	</p>
     	<br>
     	<h4>
  			<strong>
@@ -152,24 +152,24 @@
  			</strong>
  		</h4>
  		
-    	<h5>
+    	<p>
     		Like coding, imagery is somewhat of a universal language. There are just as many talented 
     		graphic designers overseas as there are domestically, and their services cost less. Need a new 
     		logo designed, a brochure put together or a mockup for a website layout? Any task that 
     		requires a graphic designer can be handled by an overseas virtual assistant. 
-    	</h5>
+    	</p>
     	
-    	<h5>
+    	<p>
     		Another great idea is to outsource the creation of the company's infographics. A staffer in 
     		the States can handle the initial legwork of gathering the data; the virtual assistant does 
     		the manual task of putting it together in a graphically compelling way. 
-    	</h5>
+    	</p>
     	
-    	<h5>
+    	<p>
     		Determine whether to hire a general virtual assistant or a specialty graphic designer. It all 
     		comes down to how much graphic work is needed. A specialist may be perfect for large projects, 
     		but a generalist can cover other tasks as well.
-    	</h5>
+    	</p>
     	<br>
     	<h4>
  			<strong>
@@ -177,19 +177,19 @@
  			</strong>
  		</h4>
  		
-    	<h5>
+    	<p>
     		SproutSocial is an incredibly powerful tool for managing a company's social-media accounts, 
     		but it takes hours to reply to mundane comments and gather basic analytics data. Instead of 
     		doing it alone, make use of the integrated team management to hire a virtual assistant to run 
     		the company's social-media accounts. 
-    	</h5>
+    	</p>
     	
-    	<h5>
+    	<p>
     		It's possible to easily limit what the virtual assistant can access for security reasons. 
     		Arrange for the virtual assistant to run the company's feeds and respond to comments as they 
     		arrive. Then it's possible for the U.S. team to focus on creating the content and making use 
     		of the analytics data to develop new plans.
-    	</h5>
+    	</p>
     	<br>
     	<h4>
  			<strong>
@@ -197,23 +197,23 @@
  			</strong>
  		</h4>
  		
-    	<h5>
+    	<p>
     		Blogging involves a lot more than just writing content and publishing text. There are a whole 
     		host of menial tasks that need doing -- and they could be done by anyone, like backing up the 
     		blog and keeping the software up-to-date. 
-    	</h5>
+    	</p>
     	
-    	<h5>
+    	<p>
     		Rather than worry about all these tasks, hire an overseas virtual assistant as a blog manager. 
     		Those willing to take the time to experiment with various virtual assistants may be able to 
     		find one with the skills to develop ideas for posts, draft outlines for them, hunt down images 
     		and reference links and more.
-    	</h5>
+    	</p>
     	
-    	<h5>
+    	<p>
     		At the end of the day, the entrepreneur will have more time to run the business and create 
     		content, with all the manual work handled overseas.
-    	</h5>
+    	</p>
     	<h4 style="margin-top:50px; color:darkblue;">
     		<strong>
     			Source:

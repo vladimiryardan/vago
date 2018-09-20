@@ -72,23 +72,23 @@
 
 
 	<div class="container">
-    	<h5>
+    	<p>
     		There were an estimated 3.9 million secretaries and administrative assistants in the United 
     		States in 2016, according to the Bureau of Labor Statistics. However, this figure does not 
     		distinguish between assistants who work in an office, and the growing number of those who work 
     		online. Indeed, virtual assistants are quickly replacing traditional secretaries and in-office 
     		personal or administrative assistants.
-    	</h5>
+    	</p>
 		<br>
-    	<h5>
+    	<p>
     		A virtual assistant (VA) may be an employee, freelancer, or independent contractor who works 
     		online and performs a variety of tasks to help individuals or businesses. Virtual assistants 
     		can offer a lot of the services an in-house secretary would traditionally handle: data entry, 
     		transcription, scheduling, copywriting, programming, design, and other services. They usually 
     		work at home and in fact, may never meet their clients in-person.
-    	</h5>
+    	</p>
     	<br>
-    	<h5>
+    	<p>
     		Just how many VAs are there these days? While the International Virtual Assistants 
     		Association, Virtual Assistant Networking Forum, and other organizations say that the number 
     		of VAs is increasing, it's hard to find verified statistics for this industry. Many virtual 
@@ -97,13 +97,13 @@
     		listed on Upwork, 74,000 on Guru, 26,000 on Freelancer, and 5,000 on PeoplePerHour. And 
     		freelancing platforms don't include VAs who have their own websites or offer their services 
     		through other methods.
-    	</h5>
+    	</p>
 		<br>
-    	<h5>
+    	<p>
     		As the number of VAs continues to grow, there are key benefits and disadvantages for those who 
     		work as virtual assistants and the people who hire them. Here are several trends emerging from 
     		this changing industry:
-    	</h5>
+    	</p>
     	<br>
     	
     	<h4>
@@ -113,18 +113,18 @@
     	</h4>
     	<br>
     	
-    	<h5>
+    	<p>
     		One of the main benefits of working as a virtual assistant is that there's no dependency on a 
     		physical location. This flexibility allows a VA to work from home, coffee shops, libraries, or 
     		coworking spaces. The only requirement is an internet connection and a computer or phone.
-    	</h5>
+    	</p>
 		<br>
-    	<h5>
+    	<p>
     		The ability to work from any location also benefits the companies and individuals who hire 
     		virtual assistants. They can dip into a pool of VAs from around the world and find the perfect 
     		fit for their businesses. Another bonus: Employers don't have to provide VAs with office 
     		space, equipment, or other essentials.
-    	</h5>
+    	</p>
     	
  		<br>
  		<h4>
@@ -134,38 +134,38 @@
  		</h4>
  		
  		
-    	<h5>
+    	<p>
     		Research shows that remote workers are more productive. A study analyzed by the Harvard 
     		Business Review reveals that staff who worked from home finished 13.5 percent more calls at 
     		the Ctrip's call center compared to staff who worked in the office. A study from TINYpulse 
     		found that 91 percent of remote workers feel they're more productive at home.
-    	</h5>
+    	</p>
 	
-    	<h5>
+    	<p>
     		Virtual assistants also benefit from fewer office distractions and the ability to work longer 
     		hours at home. They can structure their schedules around other responsibilities to complete 
     		more tasks. Additionally, they don't have to worry about long commutes that waste their time. 
     		Increased productivity is an advantage for both companies and VAs.
-    	</h5>
-    	
+    	</p>
+    	<br>
     	<h4>
  			<strong>
  				3. Lower costs and fewer benefits
  			</strong>
  		</h4>
     	
-    	<h5>
+    	<p>
     		Companies that hire virtual assistants benefit from lower costs: They don't have to provide 
     		any benefits, equipment, paid training, or bonuses. Companies also save money on taxes by 
     		hiring freelance virtual assistants instead of full-time employees.
-    	</h5>
+    	</p>
     	
-    	<h5>
+    	<p>
     		But the flip side is that VAs often suffer where companies benefit. They don't get health 
     		insurance, paid time off, sick leave, or vacation days. And they must pay the full amount of 
     		their Social Security and Medicare taxes. If they were employees, their companies would pay 
     		half.
-    	</h5>
+    	</p>
     	<br>
     	
     	<h4>
@@ -174,18 +174,18 @@
  			</strong>
  		</h4>
  		
-    	<h5>
+    	<p>
     		Communication can be a problem for both companies and virtual assistants. A manager can't just 
     		walk into a VA's cubicle and ask for an update on a project. Similarly, a VA can't stop the 
     		CEO in the hallway for a quick chat about scheduling important appointments.
-    	</h5>
+    	</p>
     	<br>
-    	<h5>
+    	<p>
     		Working virtually requires figuring out systems that streamline communication between 
     		businesses and virtual assistants. Emails, phone calls, apps, and task management programs are 
     		important tools to help VAs stay connected to their clients or employers. However, the lack of 
     		personal interaction can be difficult sometimes.
-    	</h5>
+    	</p>
     	<br>
     	
     	<h4>
@@ -194,28 +194,28 @@
  			</strong>
  		</h4><br>
  		
-    	<h5>
+    	<p>
     		A quick perusal of some of the top virtual assistant profiles on freelancing profiles such as 
     		Upwork or Guru shows that VAs are often working on multiple projects at the same time and have 
     		many short-term assignments with different people. Indeed, job insecurity in the virtual 
     		assistant industry is an issue.
-    	</h5>
+    	</p>
     	<br>
-    	<h5>
+    	<p>
     		A VA job can end at any time. But that goes both ways: A VA can stop working with a business 
     		at any time. Although contracts offer some protection, most virtual assistants don't receive 
     		severance pay, and golden parachutes also don't exist in this industry. On top of that, the 
     		lack of personal interaction inherent to virtual work can make it easier to terminate a 
     		contract, since neither the company nor the worker have to see the other party's face.
-    	</h5>
+    	</p>
     	<br>
  		
-    	<h5>
+    	<p>
     		This is all worth taking into consideration as the number of virtual assistants continues to 
     		grow, and they replace traditional office employees. By 2020, Intuit predicts that 40 percent 
     		of the U.S. workforce will be made up of freelancers. While there are many benefits to a 
     		remote online workforce, there are also a number of disadvantages that need to be considered.
-    	</h5>
+    	</p>
     	
     	<h4 style="margin-top:50px; color:darkblue;">
     		<strong>

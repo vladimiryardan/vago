@@ -43,7 +43,7 @@
         </div>
         
         <div class="ms-layer centext text2 white" data-effect="bottom(50)" data-duration="2000" data-delay="500" data-ease="easeOutExpo">
-            <h5></h5>
+            <p></p>
        	</div>
 
 
@@ -68,10 +68,10 @@
 </div>
 
 	<div class="container">
-    	<h5>
+    	<p>
     		Business owners who have too many responsibilities, but unable or unwilling to employ a 
     		full-time employee are seeking help from virtual assistants.
-    	</h5>
+    	</p>
 	
     	<br>
     	<h4>
@@ -80,21 +80,21 @@
     	</strong>
     	</h4>
     	<br>
-    	<h5>
+    	<p>
     		There are many virtual assistants who are more dedicated and committed to giving quality work. 
     		Virtual Assistants are very productive and always value their clients. They also give the best 
     		service since they know that their salary is totally dependent on the positive performance of 
     		their tasks.
-    	</h5>
-	
-    	<h5>
+    	</p>
+		<br>
+    	<p>
     		Virtual Assistants use their own equipment and office supplies. Most Virtual Assistants are 
     		from companies that offer VA services. This means that they use their own office equipment. 
     		Business owners do not have to purchase additional equipment and other office supplies because 
     		virtual Assistants are already provided by their company.
-    	</h5>
-    	
-    	<h5>
+    	</p>
+    	<br>
+    	<p>
     		Virtual Assistants pay their taxes and benefits. One major advantage of hiring Virtual 
     		Assistants is that business owners do not need to pay taxes or create an employee benefits 
     		package just like what they do to their regular employees. Since VAs are independent 
@@ -106,14 +106,14 @@
     		demand of Virtual Assistants. As a matter of fact, studies show that one in two businesses is 
     		predicted to hire assistant online by 2020 making the virtual assistant job a long-term 
     		business opportunity.
-    	</h5>
-    
-    	<h5>
+    	</p>
+    	<br>
+    	<p>
     		Those businesses that have Virtual Assistants who are expert in search engine optimization 
     		(SEO) and social media marketing are more likely to be successful. Many companies nowadays 
     		constantly strive to boost the number of followers on their social media profiles and their 
     		search result rankings.
-    	</h5>
+    	</p>
  		<br>
  		<h4>
  			<strong>
@@ -122,24 +122,24 @@
  		</h4>
  		
  		
-    	<h5>
+    	<p>
     		Be it personal or professional, if you are a highly organized person with experience as a 
     		personal assistant and has good communication skills, being a Virtual Assistant is the best 
     		job for you.
-    	</h5>
+    	</p>
 		
-    	<h5>
+    	<p>
     		For you to stand out as a virtual assistant, you need to specialize your services rather than 
     		working as a "Jack of all Trades". There are some specializations that you could consider such 
     		as working as a proofreader, social media assistant, virtual writer, virtual researcher, 
     		website designer, website developer and more!
-    	</h5>
+    	</p>
     
-    	<h5>
+    	<p>
     		The Virtual Assistant market is growing, if you do not want to be left behind by your 
     		competitors or you want to offer your services virtually, start your Virtual Assistant 
     		business now.
-    	</h5>
+    	</p>
     	
     	<h4 style="margin-top:50px; color:darkblue;">
     		<strong>
