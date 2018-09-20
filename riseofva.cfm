@@ -111,7 +111,7 @@
     		1. The office is everywhere
     	</strong>
     	</h4>
-    	<br>
+    	
     	
     	<p>
     		One of the main benefits of working as a virtual assistant is that there's no dependency on a 
@@ -192,7 +192,7 @@
  			<strong>
  				5. Job Security Woes
  			</strong>
- 		</h4><br>
+ 		</h4>
  		
     	<p>
     		A quick perusal of some of the top virtual assistant profiles on freelancing profiles such as 

@@ -57,18 +57,18 @@
 <div class="container">
 
 		<div class="ms-layer centext text1 white animate fadeInLeft" data-ease="easeOutExpo">
-            <strong>Five signs can tell that you need a VA </strong>
+            <strong>Keeping up with the Competition is the Best Way for your Business</strong>
         </div>
         
         <div class="ms-layer centext text2 white animate fadeInRight" data-effect="bottom(50)" data-duration="2000" data-delay="500" data-ease="easeOutExpo">
-            <h5>Keeping up with the Competition is the Best Way for your Business</h5>
+            <h5></h5>
        	</div>
 
 </div>
 </div><!-- end page title -->
 
 <!---############Page Title Ends ############--->
-<div class="clearfix margin_top5"></div>
+
 
 
 <!---############Content Start ############--->
@@ -79,35 +79,21 @@
 		<div class="blog_post">
 			<div class="blog_postcontent">
 				
-				<ul class="post_meta_links">
-					<li>
-						<a href="">
-							<img class="imgprofile" src="http://placehold.it/80x80" alt=""/>
-						</a>
-						&nbsp;&nbsp;
-					</li>
-					<li>
-						<a href="#" class="date">June 15, 2018</a>
-					</li>
-					<li class="post_by">
-						<i>
-							by:
-						</i>
-						<a href="#">Carma Haley Shoemaker</a>
-					</li>
-					<li class="post_categoty">
-						<i>
-							in:
-						</i>
-						<a href="#">Onevoix</a>
-					</li>
-					<li class="post_comments">
-						<i>
-							note:
-						</i>
-						<a href="#">Comments</a>
-					</li>
-				</ul>
+				
+        	<div class="title2">
+        		<h2>
+        		
+        			<span class="line">
+        			</span>
+        			
+        			<span class="text">
+        				Five signs can tell you that you need a Virtual Assistant
+        			</span>
+        			<em>
+        				    Carma Haley Shoemaker
+        			</em>
+        		</h2>
+        	</div>
 				<div class="clearfix">
 				</div>
 				<div class="margin_top1">
@@ -241,7 +227,7 @@
 					positive return. 
 				</p>
 				<br>
-				<p>Source:<a href="https://it.toolbox.com/blogs/voipdesk/5-ways-you-know-its-time-to-invest-in-voip-011718">&nbsp; it.toolbox.com</i></a></li></p>
+				<h4>Source:<a href="https://it.toolbox.com/blogs/voipdesk/5-ways-you-know-its-time-to-invest-in-voip-011718" target="_blank" style="color:darkblue;">&nbsp; it.toolbox.com</i></a></li></h4>
 			</div>
 		</div>
 	</div>

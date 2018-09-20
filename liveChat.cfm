@@ -56,11 +56,11 @@
 <div class="container">
 
 		<div class="ms-layer centext text1 white animate fadeInLeft" data-ease="easeOutExpo">
-            <strong>Live Chat </strong>
+            <strong>One of the Best Mode of Customer Service is Through Live Chat </strong>
         </div>
         
         <div class="ms-layer centext text2 white animate fadeInRight" data-effect="bottom(50)" data-duration="2000" data-delay="500" data-ease="easeOutExpo">
-            <h5>One of the Best Mode of Customer Service is Through Live Chat</h5>
+            <h5></h5>
        	</div>
 
 </div>
@@ -74,15 +74,20 @@
         <div class="blog_postcontent">
         
        
-            <ul class="post_meta_links">
-            	<li >
-            	<a href=""><img class="imgprofile" src="http://placehold.it/80x80" alt="" /></a>&nbsp;&nbsp;
-            	</li>
-            	<li><a href="#" class="date">27 December 2014</a></li>
-                <li class="post_by"><i>by:</i> <a href="#">Nikki Villaester</a></li>
-                <li class="post_categoty"><i>in:</i> <a href="#">Onevoix</a></li>
-                <li class="post_comments"><i>note:</i> <a href="#">Comments</a></li>
-            </ul>
+        	<div class="title2">
+        		<h2>
+        		
+        			<span class="line">
+        			</span>
+        			
+        			<span class="text">
+        				Live Chat 
+        			</span>
+        			<em>
+        				    Nikki Villaester
+        			</em>
+        		</h2>
+        	</div>
          <div class="clearfix"></div>
          <div class="margin_top1"></div>
         <p>Live chat enables you to have real-time conversations. Its quick, convenient and customers love it, 100x faster than any other digital service channel. 

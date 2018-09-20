@@ -79,7 +79,7 @@
     		Here are the top three reasons why.
     	</strong>
     	</h4>
-    	<br>
+    	
     	<p>
     		There are many virtual assistants who are more dedicated and committed to giving quality work. 
     		Virtual Assistants are very productive and always value their clients. They also give the best 
@@ -148,7 +148,7 @@
     		<a href="https://www.syntacticsinc.com/news-articles-cat/providing-virtual-assistant-services-is-a-great-business-idea/" target="_blank" </a>
     		www.syntacticsinc.com
     	</h4>
-    	<br>
+    	
 	</div>
 </div>
 

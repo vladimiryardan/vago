@@ -56,7 +56,7 @@
 <div class="container">
 
 		<div class="ms-layer centext text1 white animate fadeInLeft" data-ease="easeOutExpo">
-            <strong>What Does a Virtual Assistant Do? </strong>
+            <strong>What Virtual Assistant Produce </strong>
         </div>
         
         <div class="ms-layer centext text2 white animate fadeInRight" data-effect="bottom(50)" data-duration="2000" data-delay="500" data-ease="easeOutExpo">
@@ -74,13 +74,20 @@
         <div class="blog_postcontent">
         
        
-            <ul class="post_meta_links">
-            	<li >
-            	<a href=""><img class="imgprofile" src="http://placehold.it/80x80" alt="" /></a>&nbsp;&nbsp;
-            	</li>
-            	<li><a href="#" class="date">04 September 2018</a></li>
-                <li class="post_by"><i>by:</i> <a href="#">Greg Digneo</a></li>
-            </ul>
+        	<div class="title2">
+        		<h2>
+        		
+        			<span class="line">
+        			</span>
+        			
+        			<span class="text">
+        				What Does a Virtual Assistant Do? 
+        			</span>
+        			<em>
+        				    Greg Digneo
+        			</em>
+        		</h2>
+        	</div>
          <div class="clearfix"></div>
          <div class="margin_top1"></div>
         	<p>
@@ -128,7 +135,7 @@
         	<br>
         	
         	<p>
-        		With all of that, it’s hard to pin down what exactly a virtual assistant does because they 
+        		With all of that, it's hard to pin down what exactly a virtual assistant does because they 
         		often do so much, barring only a handful of limitations. While these limits are in place, 
         		there is certainly a grey area that most virtual assistants can meddle in, often 
         		performing certain tasks instead of full-out jobs

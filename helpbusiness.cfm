@@ -67,10 +67,6 @@
 	</h2>
 </div>
 
-<br>
-
-
-
 	<div class="container">
     	<p>
     		Entrepreneurs start their ventures with bold visions and big plans. However, it’s all too easy 
@@ -129,7 +125,7 @@
     		an in-house team member. Virtual assistants are the perfect solution to many of the day to day 
     		business tasks that would otherwise require a part-time or full-time employee.”
     	</p>
-    	
+    	<br>
     	<h4>
  			<strong>
  				Rely on an Expert
@@ -176,7 +172,7 @@
  			<strong>
  				A Personal Business Relationship
  			</strong>
- 		</h4><br>
+ 		</h4>
  		
     	<p>
     		“People are literally putting their business in my hands, and that’s a huge responsibility.” – Debbie Roche.
@@ -195,7 +191,7 @@
  			<strong>
  				Strategic Thinking
  			</strong>
- 		</h4><br>
+ 		</h4>
  		
     	<p>
     		Through the growing pains of a small business, you’ve probably become accustomed to taking a 
@@ -210,7 +206,7 @@
     			Source:
     		</strong>
     		<a href="https://smallbusinessbc.ca/article/virtual-assistant-can-help-small-business/"</a> www.smallbusinessbc.ca
-    	</h4><br>
+    	</h4>
 	</div>
 </div>
 

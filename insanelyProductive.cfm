@@ -94,13 +94,13 @@
     	<p>
     		And over time, I saw the brutal reality: I need to stop doing all the nitty gritty stuff like setting up an appointment.
     	</p>
+    	<br>
     	<p>
     		Instead, I need to start going out there. So, I hired an assistant.
-    	</p>
-    	<p>
     		While she took care of the details that were still important, I focused my energy on the 
     		critical parts of the business. As my productivity skyrocketed, so did revenue growth.
     	</p>
+    	<br>
     	<p>
     		Here's what I learned: at the end of the day, as entrepreneurs, we want to spend time on the 
     		business. And that better be on things that can create the most value.
@@ -115,10 +115,10 @@
     		is just like a personal assistant, except the fact that they most probably work in a different 
     		location than you.
     	</p>
+    	<br>
     	<p>
     		Just imagine if you could focus on what you're best at. What would that mean for your business?
-    	</p>
-    	<p>
+    	
     		If you'd like to give it a shot, here are four steps that will help you get started:
     	</p>
     	<br>

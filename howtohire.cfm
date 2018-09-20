@@ -71,7 +71,6 @@
 	</h2>
 </div>
 
-<br>
 
 <!---##########BODY##########--->
 
@@ -105,15 +104,15 @@
     		teaches you how to give instructions that are easy to understand. You also learn: 
     	</p>
     	<br>
-    	<p class="fa fa-check-square-o" style=" font-size:20px;">
+    	<p class="fa fa-check-square-o" style=" font-size:18px;">
     		What kind of tasks you should delegate.
     	</p>
     	<br>
-    	<p class="fa fa-check-square-o" style=" font-size:20px;">
+    	<p class="fa fa-check-square-o" style=" font-size:18px;">
     		How to be efficient and productive.
     	</p>
     	<br>
-    	<p class="fa fa-check-square-o" style=" font-size:20px;">
+    	<p class="fa fa-check-square-o" style=" font-size:18px;">
     		How to structure and organize a team.
     	</p>
     	<br><br>
@@ -121,32 +120,32 @@
     		As you develop those skills more, you'll learn how to hire the right people and become a productivity master.
     	</p>   	
     	<br>
-    	<p>
+    	<h4>
     		2. What tasks virtual assistants can do
-    	</p>
+    	</h4>
     	<p>
     		You probably think that there are several tasks that only you can perform, but the truth is 
     		none of us are that important. Many of us could be replaced by someone else if they are given 
     		guidelines that instruct them how to complete a task. For example, my VAs:
     	</p>
 		<br>
-		<p class="fa fa-check-square-o" style=" font-size:20px; padding:0px 50px 0px 50px;">
+		<p class="fa fa-check-square-o" style=" font-size:18px;">
     		Edit my writing
     	</p>
     	<br>
-    	<p class="fa fa-check-square-o" style=" font-size:20px; padding:0px 50px 0px 50px;">
+    	<p class="fa fa-check-square-o" style=" font-size:18px;">
     		Order food and supplies
     	</p>
     	<br>
-    	<p class="fa fa-check-square-o" style=" font-size:20px; padding:0px 50px 0px 50px;">
+    	<p class="fa fa-check-square-o" style=" font-size:18px;">
     		Set up meetings
     	</p>
     	<br>
-    	<p class="fa fa-check-square-o" style=" font-size:20px; padding:0px 50px 0px 50px;">
+    	<p class="fa fa-check-square-o" style=" font-size:18px;">
 			Organize my business development pipeline
     	</p>
 		<br>
-		<p class="fa fa-check-square-o" style=" font-size:20px; padding:0px 50px 0px 50px;">
+		<p class="fa fa-check-square-o" style=" font-size:18px;">
 			Research activities in the cities I travel to based on my preferences
 		</p>
 		<br><br>
@@ -176,12 +175,12 @@
     		examples that I have given potential candidates are:
     	</p>
     	<br>
-    	<p class="fa fa-check-square-o" style=" font-size:20px; padding:0px 50px 0px 50px;">
+    	<p class="fa fa-check-square-o" style=" font-size:18px;">
     		Find the email addresses of 3 Nobel Laureates that live in NYC.
     	</p>
     	<br>
     	
-    	<p class="fa fa-check-square-o" style=" font-size:20px; padding:0px 50px 0px 50px;">
+    	<p class="fa fa-check-square-o" style=" font-size:18px;">
     		Find 10 English schools in Barcelona and organize them by ranking.
     	</p>
 		<br>
@@ -248,21 +247,21 @@
     		come across in their work. Some examples of SOPs are:
     	</p>
     	<br>
-    	<p class="fa fa-check-square-o" style=" font-size:20px; padding:0px 50px 0px 50px;">
+    	<p class="fa fa-check-square-o" style=" font-size:18px;">
     		How to create a city guide.
     	</p>
     	<br>
     	
-    	<p class="fa fa-check-square-o" style=" font-size:20px; padding:0px 50px 0px 50px;">
+    	<p class="fa fa-check-square-o" style=" font-size:18px;">
     		How to write and post social media content.
     	</p>
     	<br>
-    	<p class="fa fa-check-square-o" style=" font-size:20px; padding:0px 50px 0px 50px;">
+    	<p class="fa fa-check-square-o" style=" font-size:18px;">
     		How to manage a podcast guest invitation.
     	</p>
     	<br>
     	
-    	<p class="fa fa-check-square-o" style=" font-size:20px; padding:0px 50px 0px 50px;">
+    	<p class="fa fa-check-square-o" style=" font-size:18px;">
     		How to schedule guests for an in-person event.
     	</p>
 		<br><br>

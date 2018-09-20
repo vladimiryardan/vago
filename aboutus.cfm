@@ -72,24 +72,24 @@
 <!---##########BODY##########--->
 
 	<div class="container">
-    	<h4 class="animate fadeInRight"style="color:gray;">
+    	<p class="animate fadeInRight">
     		VirtualAssistantGO.com is a solution that offers Virtual Assistant to Real Estate agents and 
     		Entrepreneurs. The service will provide quality Virtual Assistant Professional in a cost 
     		effective way and empowering your business. 
-    	</h4 color="gray">
-	
-    	<h4 class="animate fadeInLeft" style="color:gray;">
+    	</p>
+		<br>
+    	<p class="animate fadeInLeft">
     		Our Virtual Assistants are at an advantage in doing inbound and outbound voice calls. Our Team 
     		has honed and passed this skill to all of their seasoned agents, and have continuosly improved 
     		over the years.. 
-    	</h4>
-    	
-    	<h4 class="animate fadeInRight" style="color:gray;">
+    	</p>
+    	<br>
+    	<p class="animate fadeInRight">
     		Finding reliable, trustworthy, and competent help has always been one of the foremost challenges of 
     		running a successful business and it's even more relevant when using remote resources. 
     		VirtualAssistantGO's team of experienced, reliable, and vetted virtual assistants can provide your business 
     		with support you need.
-    	</h4>
+    	</p>
     	
     	<br><br>
     	
@@ -172,19 +172,19 @@
 		<br>
 		<br>
 	<div class="container">	
-		<h4 class="animate fadeInRight" style="text-align:left; color:gray;">
+		<p class="animate fadeInRight" style="text-align:left;">
 			In today’s corporate world, it is imperative that your company should be able to focus on your main goals 
 			to ensure business growth without having to sacrifice your customers’ satisfaction. The good news is, you 
 			can now pay attention to the things you have set your company to accomplish- your vision to expand the level 
 			and scope of your services, and we’ll take care of your customers’ experience.
-		</h4>
-		
-		<h4 class="animate fadeInLeft" style="text-align:left; color:gray;">
+		</p>
+		<br>
+		<p class="animate fadeInLeft" style="text-align:left;">
 			Established in February 2009, started with a very modest goal in mind- to give companies 
 			the opportunity to save on cost and improve their customer service. We critically emphasize on customer 
 			engagement with the help of our seasoned agents trained to always think outside the box. And our brand's 
 			promise? To take care of your business as if it is our own. 
-		</h4>
+		</p>
 	</h2>
 	</div>
 </div>

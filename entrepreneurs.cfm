@@ -67,10 +67,6 @@
 	</h2>
 </div>
 
-<br>
-
-
-
 	<div class="container">
     	<p>
     		Are you doing laborious, repeated tasks that anyone could do? Do you struggle to meet project 
@@ -90,7 +86,6 @@
     		Why hire a VA?
     	</strong>
     	</h4>
-    	<br>
     	
     	<p>
     		If your goal is to build a successful business, you will have to hire people. A virtual 
@@ -127,7 +122,7 @@
     	<p>
     		Here are the most common tasks to outsource to a VA:
     	</p>
-    	
+    	<br>
     	<h4>
  			<strong>
  				1. SEO and social media
@@ -185,7 +180,7 @@
  			<strong>
  				3. Blog, vlog and podcast production
  			</strong>
- 		</h4><br>
+ 		</h4>
  		
     	<p>
     		Matt Bodnar, called a "Rising Restaurateur Star" by the National Restaurant Association and a 
@@ -204,7 +199,7 @@
  			<strong>
  				When should you hire a virtual assistant?
  			</strong>
- 		</h4><br>
+ 		</h4>
  		
     	<p>
     		You cannot build a business alone. Online business contains many layers and functions -- email 
@@ -224,7 +219,7 @@
  			<strong>
  				What can you do to prepare to hire your first VA?
  			</strong>
- 		</h4><br>
+ 		</h4>
  		
     	<p>
     		First, track your time for a few weeks and notice how much time you spend on each task. Then, 
@@ -256,7 +251,7 @@
     			Source:
     		</strong>
     		<a href="https://www.entrepreneur.com/article/300195" target="_blank" </a> www.entrepreneur.com
-    	</h4><br>
+    	</h4>
 	</div>
 </div>
 

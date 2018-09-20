@@ -39,7 +39,7 @@
 <div class="container">
 
 		<div class="ms-layer centext text1 white" data-ease="easeOutExpo">
-            <strong>Choosing a Virtual Assistant</strong>
+            <strong> What Should You Consider When Hiring A VA? </strong>
         </div>
         
         <div class="ms-layer centext text2 white" data-effect="bottom(50)" data-duration="2000" data-delay="500" data-ease="easeOutExpo">
@@ -66,10 +66,6 @@
 		</em>
 	</h2>
 </div>
-
-<br>
-
-
 
 	<div class="container">
     	<p>
@@ -100,41 +96,40 @@
     		The Benefits of Using a Virtual Assistant
     	</strong>
     	</h4>
-    	<br>
     	
     	<p>
-    		There are many benefits of using a "virtual" assistant versus bringing an assistant into your home office.
+    		There are many benefits of using a "Virtual Assistant" versus bringing an assistant into your home office.
     	</p>
 		<br>
-    	<p class="fa fa-pencil-square-o " style=" font-size:20px;">
+    	<p class="fa fa-pencil-square-o " style=" font-size:18px;">
     		You don't have to share your computer, or set up a second computer, for the assistant to use. 
     		A VA uses his own equipment and computers. In addition, you don't have to set up an extra desk 
     		in your office for an assistant.
     	</p>
     	<br>
     	<br>
-    	<p class="fa fa-pencil-square-o " style=" font-size:20px;">
+    	<p class="fa fa-pencil-square-o " style=" font-size:18px;">
     		Instead of having a fixed schedule of hours each week, with a VA you only pay for the hours 
     		you use 
     	</p>
     	<br><br>
-    	<p class="fa fa-pencil-square-o " style=" font-size:20px;">
+    	<p class="fa fa-pencil-square-o " style=" font-size:18px;">
     		You can hire a VA to work a specific numbers of hours per month on a retainer which guarantees 
     		availability. Some VAs work on a per-project or per-hour basis as well
     	</p>
     	<br>
     	<br>
-    	<p class="fa fa-pencil-square-o " style=" font-size:20px;">
+    	<p class="fa fa-pencil-square-o " style=" font-size:18px;">
     		You can find VAs with specific skill sets, from certified QuickBooks specialists to those with 
     		graphic, internet, marketing, or technical skills. 
     	</p>	
     	<br><br>
-    	<p class="fa fa-pencil-square-o " style=" font-size:20px;">
+    	<p class="fa fa-pencil-square-o " style=" font-size:18px;">
     		VAs own their own business, so they know what it's like to be self-employed.
     	</p>
     	<br>
     	<br>
-    	<p class="fa fa-pencil-square-o " style=" font-size:20px;">
+    	<p class="fa fa-pencil-square-o " style=" font-size:18px;">
     		A VA works as a consultant, not as an employee. Therefore, you won't have to pay employment 
     		taxes or benefits for your VA.
     	</p>
@@ -312,7 +307,7 @@
     			Source:
     		</strong>
     		<a href="http://www.passionforbusiness.com/articles/how-to-choose-a-virtual-assistant.htm" target="_blank" </a> www.passionforbusiness.com
-    	</h4><br>
+    	</h4>
 	</div>
 </div>
 

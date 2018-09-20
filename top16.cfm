@@ -57,7 +57,7 @@
 <div class="container">
 
 		<div class="ms-layer centext text1 white animate fadeInLeft" data-ease="easeOutExpo">
-            <strong>Why You Should Hire a Virtual Assistant? </strong>
+            <strong>Why Hire a Virtual Assistant? </strong>
         </div>
         
         <div class="ms-layer centext text2 white animate fadeInRight" data-effect="bottom(50)" data-duration="2000" data-delay="500" data-ease="easeOutExpo">
@@ -74,35 +74,20 @@
 		<div class="blog_post">
 			<div class="blog_postcontent">
 				
-				<ul class="post_meta_links">
-					<li>
-						<a href="">
-							<img class="imgprofile" src="http://placehold.it/80x80" alt=""/>
-						</a>
-						&nbsp;&nbsp;
-					</li>
-					<li>
-						<a href="#" class="date">August 1, 2017</a>
-					</li>
-					<li class="post_by">
-						<i>
-							by:
-						</i>
-						<a href="#">  Arpita Kundu </a>
-					</li>
-					<li class="post_categoty">
-						<i>
-							in:
-						</i>
-						<a href="#">Onevoix</a>
-					</li>
-					<li class="post_comments">
-						<i>
-							note:
-						</i>
-						<a href="#">Comments</a>
-					</li>
-				</ul>
+        	<div class="title2">
+        		<h2>
+        		
+        			<span class="line">
+        			</span>
+        			
+        			<span class="text">
+        				Why You Should Hire a Virtual Assistant?
+        			</span>
+        			<em>
+        				   Arpita Kundu
+        			</em>
+        		</h2>
+        	</div>
 				<div class="clearfix">
 				</div>
 				<div class="margin_top1">
@@ -131,7 +116,7 @@
 					<li >&bull; They proceed with business objectives strategically.</li>
 					<li >&bull; They make optimal utilization of the available resources in the pursuit of profit, and remain positive on the outcome.</li>
 				</ul>
-				<br>
+				
 				
             	<p>
             		As your business starts to grow, you keep facing too much of workload.
@@ -174,7 +159,7 @@
 				<br>
 				
             	<p>
-            		With their top-notch assistance, you’ll get things done easily within the deadline.
+            		With their top-notch assistance, you'll get things done easily within the deadline.
             		Want to find out the top reasons to hire a virtual assistant for your business?
             	</p>
 				
@@ -275,9 +260,9 @@
             		<li >&bull; Content Writing</li>
             		<li >&bull; Transcription</li>
             	</ul>
-            	<br>
+            	
             	<p>
-            		and many other thing
+            		and many other things
             	</p>
             	<br>
             	<p>
@@ -300,11 +285,14 @@
             	</p>
             	<br>
             	<ul>
-            		<li >&bull; Things you cant do yourself.</li>
-            			<li >&bull; Things you shouldn&#39;t be doing on your own.</li>
-            		
+            		<li>
+            			&bull; Things you cant do yourself.
+            		</li>
+            		<li>
+            			&bull; Things you shouldn&#39;t be doing on your own.
+            		</li>
             	</ul>
-            	<br>
+            	
             	<p>
             		There would also be several tasks about which you don&#39;t have that much expertise. On 
             		the other hand, not everything requires your direct attention.
@@ -361,7 +349,7 @@
             	<br>
             	<p>
             		BOLD promise? It&#39;s indeed!
-            		If you hire a VA, you don’t need to think of paying for sick days, vacation days or 
+            		If you hire a VA, you don't need to think of paying for sick days, vacation days or 
             		health insurance. This can save a great deal of money for you, while providing you 
             		with valuable services to operate your business methodically.
             		You just need to pay for the time taken by your virtual assistants to do the tasks 
@@ -403,7 +391,7 @@
             		<li >&bull; Creation of engaging content</li>
             		<li >&bull; Promotional posts and activities</li>
             	</ul>
-            	<br>
+            	
             	<p>
             		However, an active presence in social media requires a lot of time and persistence.
             		Think you can manage time for that?
