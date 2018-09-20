@@ -136,16 +136,19 @@
 <script src="js/jquery-eu-cookie-law-popup.js"></script>
 
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-51354712-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<cfif cgi.HTTP_HOST CONTAINS 'virtualassistantgo'>
+	<!--- use in vago prod --->	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-51354712-3"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	
+	  gtag('config', 'UA-51354712-3');
+	</script>	
 
-  gtag('config', 'UA-51354712-3');
-</script>
-
+</cfif>
 
 </body>
 </html>
