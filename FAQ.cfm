@@ -90,7 +90,7 @@
         </div>
         
         <div class="ms-layer centext text2 white" data-effect="bottom(50)" data-duration="2000" data-delay="500" data-ease="easeOutExpo">
-            <h5>We’ve collected some of the most popular questions asked by clients as a resource for you.s</h5>
+            <h5>We’ve collected some of the most popular questions asked by clients as a resource for you</h5>
        	</div>
 
 
