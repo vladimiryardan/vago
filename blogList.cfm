@@ -105,10 +105,10 @@
     
     	<div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/blogImages/livechat.jpg" alt="" /></a></div>
+        <div class="image_frame"><a href="liveChat.cfm"><img src="images/blogImages/livechat.jpg" alt="" /></a></div>
         <h3><a href="liveChat.cfm">Live Chat</a></h3>
             <ul class="post_meta_links">
-            	<li><a href="#" class="date">27 December 2014</a></li>
+            	<li><a href="liveChat.cfm" class="date">27 December 2014</a></li>
                 
                 <li class="post_categoty"><i>by:</i> <a href="#">Nikki Villaester</a></li>
                 
@@ -146,10 +146,10 @@
     
     <div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/blogImages/question.jpg" alt="" /></a></div>
+        <div class="image_frame"><a href="top16.cfm"><img src="images/blogImages/question.jpg" alt="" /></a></div>
         <h3><a href="top16.cfm">Top 10 Reasons You Should Hire a Virtual Assistant Today</a></h3>
             <ul class="post_meta_links">
-            	<li><a href="#" class="date">1 August 2017</a></li>
+            	<li><a href="top16.cfm" class="date">1 August 2017</a></li>
                 
                 <li class="post_categoty"><i>in:</i> <a href="#">Arpita Kundu</a></li>
                 <li class="post_comments"><i>note:</i> <a href="#">Onevoix</a></li>
@@ -186,10 +186,10 @@
     
     	    <div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/blogImages/5ways.jpg" alt="" /></a></div>
+        <div class="image_frame"><a href="fiveWays.cfm"><img src="images/blogImages/5ways.jpg" alt="" /></a></div>
         <h3><a href="fiveWays.cfm">5 Ways You Know It’s Time to Invest in VoIP</a></h3>
             <ul class="post_meta_links">
-            	<li><a href="#" class="date">15 June 2015</a></li>
+            	<li><a href="fiveWays.cfm" class="date">15 June 2015</a></li>
                 
                 <li class="post_categoty"><i>by:</i> <a href="#">Carma Haley Shoemaker</a></li>
                 <li class="post_comments"><i>note:</i> <a href="#">Onevoix</a></li>
@@ -221,10 +221,10 @@
     
     <div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/blogImages/womantyping.jpg" alt="" /></a></div>
+        <div class="image_frame"><a href="virtualAsst.cfm"><img src="images/blogImages/womantyping.jpg" alt="" /></a></div>
         <h3><a href="virtualAsst.cfm">What is a Virtual Assistant?</a></h3>
             <ul class="post_meta_links">
-            	<li><a href="#" class="date">21 March 2018</a></li>
+            	<li><a href="virtualAsst.cfm" class="date">21 March 2018</a></li>
                 
                 <li class="post_categoty"><i>in:</i> <a href="#">Randy Duermyer</a></li>
                 <li class="post_comments"><i>note:</i> <a href="#">Onevoix</a></li>
@@ -253,10 +253,10 @@
     
     <div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/blogImages/vado.jpg" alt="" /></a></div>
+        <div class="image_frame"><a href="whatvado.cfm"><img src="images/blogImages/vado.jpg" alt="" /></a></div>
         <h3><a href="whatvado.cfm">What Can a Virtual Assistant Do?</a></h3>
             <ul class="post_meta_links">
-            	<li><a href="#" class="date">October 25, 2017 </a></li>
+            	<li><a href="whatvado.cfm" class="date">October 25, 2017 </a></li>
                 
                 <li class="post_categoty"><i>by:</i> <a href="#">Emily Hansel</a></li>
                 <li class="post_comments"><i>note:</i> <a href="#">Onevoix</a></li>
@@ -275,10 +275,10 @@
     
     <div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/blogImages/howtohire.jpg" alt="" /></a></div>
+        <div class="image_frame"><a href="howtohire.cfm"><img src="images/blogImages/howtohire.jpg" alt="" /></a></div>
         <h3><a href="howtohire.cfm">How to Hire Your First Virtual Assistant and Why Everyone Should Have One? </a></h3>
             <ul class="post_meta_links">
-            	<li><a href="#" class="date">Apr 5, 2017 </a></li>               
+            	<li><a href="howtohire.cfm" class="date">Apr 5, 2017 </a></li>               
                 <li class="post_categoty"><i>by:</i> <a href="#">Jon Levy</a></li>
             </ul>
          <div class="clearfix"></div>
@@ -301,10 +301,10 @@
     
     <div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/blogImages/insanelyProductive.jpg" alt="" /></a></div>
+        <div class="image_frame"><a href="insanelyProductive.cfm"><img src="images/blogImages/insanelyProductive.jpg" alt="" /></a></div>
         <h3><a href="insanelyProductive.cfm">Want to Be Insanely Productive Without Working Longer Hours?<br>Spend $100 A Month On This! </a></h3>
             <ul class="post_meta_links">
-            	<li><a href="#" class="date">October 15 2017 </a></li>               
+            	<li><a href="insanelyProductive.cfm" class="date">October 15 2017 </a></li>               
                 <li class="post_categoty"><i>by:</i> <a href="#">Tommy Mello</a></li>
             </ul>
          <div class="clearfix"></div>
@@ -322,6 +322,30 @@
         <a href="insanelyProductive.cfm"> read more...</a></p>
         </div> 
     </div><!-- /# end post -->
+    
+     <div class="clearfix divider_line9"></div>
+    
+    <div class="blog_post">	
+        <div class="blog_postcontent">
+        <div class="image_frame"><a href="marketingTrick.cfm"><img src="images/marketingTrick.jpg" alt="" /></a></div>
+        <h3><a href="marketingTrick.cfm">Built Homes in the Most Premium Form </a></h3>
+            <ul class="post_meta_links">
+            	<li><a href="marketingTrick.cfm" class="date">November 13 2018 </a></li>               
+                <li class="post_categoty"><i>by:</i> <a href="#">Gabriel Gamboa</a></li>
+            </ul>
+         <div class="clearfix"></div>
+         <div class="margin_top1"></div>
+        	<p>
+        		There is a marketing trick that advertises newly built homes in the most premium form — 
+        		and with literally, the word “new” on it.
+        		There's about a million new housing projects that were started in 2017, and the prospect 
+        		of choosing between several models — combined with the benefits of owning a new house — 
+        		make buying from a developer an enticing option.
+        	</p>
+        <a href="marketingTrick.cfm"> read more...</a></p>
+        </div> 
+    </div><!-- /# end post -->
+    
     </div><!-- end section -->
     </div>
 </div>
