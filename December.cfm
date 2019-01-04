@@ -66,7 +66,7 @@
 	</h2>
 </div>
 
- <h3 style="text-align:center;"><b>Autorevolution November 2018</b></h3>
+ <h3 style="text-align:center;"><b>Autorevolution December 2018</b></h3>
    <div class="container" style="border: solid; margin-bottom:100px; background-color: rgb(241 241 241); ">
    	
   
@@ -78,38 +78,56 @@
    	<script>
    		var stackedBarData = {
    		data: [
-   		{ stack: "Email Acquired", name: "emailAcquired1", views: 46, date: "2018-11-05" },
-   		{ stack: "Number of Calls", name: "numberOfCalls1", views: 260, date: "2018-11-05" },
-   		{ stack: "Email Acquired", name: "emailAcquired2", views: 46, date: "2018-11-06" },
-   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 262, date: "2018-11-06" },
-   		{ stack: "Email Acquired", name: "emailAcquired2", views: 37, date: "2018-11-07" },
-   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 278, date: "2018-11-07" },
-   		{ stack: "Email Acquired", name: "emailAcquired2", views: 47, date: "2018-11-08" },
-   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 273, date: "2018-11-08" },
-   		{ stack: "Email Acquired", name: "emailAcquired2", views: 52, date: "2018-11-09" },
-   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 312, date: "2018-11-09" },
-   		{ stack: "Email Acquired", name: "emailAcquired2", views: 14, date: "2018-11-12" },
-   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 150, date: "2018-11-12" },
-   		{ stack: "Email Acquired", name: "emailAcquired2", views: 40, date: "2018-11-13" },
-   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 335, date: "2018-11-13" },
-   		{ stack: "Email Acquired", name: "emailAcquired2", views: 39, date: "2018-11-14" },
-   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 248, date: "2018-11-14" },
-   		{ stack: "Email Acquired", name: "emailAcquired2", views: 47, date: "2018-11-15" },
-   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 217, date: "2018-11-15" },
-   		{ stack: "Email Acquired", name: "emailAcquired2", views: 40, date: "2018-11-16" },
-   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 224, date: "2018-11-16" },
-   		{ stack: "Email Acquired", name: "emailAcquired2", views: 45, date: "2018-11-19" },
-   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 214, date: "2018-11-19" },
-   		{ stack: "Email Acquired", name: "emailAcquired2", views: 30, date: "2018-11-20" },
-   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 192, date: "2018-11-20" },
-   		{ stack: "Email Acquired", name: "emailAcquired2", views: 22, date: "2018-11-21" },
-   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 271, date: "2018-11-21" },
-   		{ stack: "Email Acquired", name: "emailAcquired2", views: 29, date: "2018-11-26" },
-   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 216, date: "2018-11-26" },
-   		{ stack: "Email Acquired", name: "emailAcquired2", views: 47, date: "2018-11-27" },
-   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 263, date: "2018-11-27" },
-   		{ stack: "Email Acquired", name: "emailAcquired2", views: 39, date: "2018-11-28" },
-   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 280, date: "2018-11-28" },
+   		{ stack: "Email Acquired", name: "emailAcquired1", views: 36, date: "2018-12-03" },
+   		{ stack: "Number of Calls", name: "numberOfCalls1", views: 270, date: "2018-12-03" },
+   		
+   		{ stack: "Email Acquired", name: "emailAcquired2", views: 43, date: "2018-12-04" },
+   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 268, date: "2018-12-04" },
+   		
+   		{ stack: "Email Acquired", name: "emailAcquired2", views: 35, date: "2018-12-05" },
+   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 274, date: "2018-12-05" },
+   		
+   		{ stack: "Email Acquired", name: "emailAcquired2", views: 33, date: "2018-12-06" },
+   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 229, date: "2018-12-06" },
+   		
+   		{ stack: "Email Acquired", name: "emailAcquired2", views: 35, date: "2018-12-07" },
+   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 232, date: "2018-12-07" },
+   		
+   		{ stack: "Email Acquired", name: "emailAcquired2", views: 23, date: "2018-12-10" },
+   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 337, date: "2018-12-10" },
+   		
+   		{ stack: "Email Acquired", name: "emailAcquired2", views: 27, date: "2018-12-11" },
+   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 273, date: "2018-12-11" },
+   		
+   		{ stack: "Email Acquired", name: "emailAcquired2", views: 39, date: "2018-12-12" },
+   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 207, date: "2018-12-12" },
+   		
+   		{ stack: "Email Acquired", name: "emailAcquired2", views: 48, date: "2018-12-13" },
+   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 208, date: "2018-12-13" },
+   		
+   		{ stack: "Email Acquired", name: "emailAcquired2", views: 30, date: "2018-12-14" },
+   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 246, date: "2018-12-14" },
+   		
+   		{ stack: "Email Acquired", name: "emailAcquired2", views: 34, date: "2018-12-17" },
+   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 254, date: "2018-12-17" },
+   		
+   		{ stack: "Email Acquired", name: "emailAcquired2", views: 25, date: "2018-12-18" },
+   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 211, date: "2018-12-18" },
+   		
+   		{ stack: "Email Acquired", name: "emailAcquired2", views: 37, date: "2018-12-19" },
+   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 216, date: "2018-12-19" },
+   		
+   		{ stack: "Email Acquired", name: "emailAcquired2", views: 12, date: "2018-12-20" },
+   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 112, date: "2018-12-20" },
+   		
+   		{ stack: "Email Acquired", name: "emailAcquired2", views: 22, date: "2018-12-26" },
+   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 227, date: "2018-12-26" },
+   		
+   		{ stack: "Email Acquired", name: "emailAcquired2", views: 25, date: "2018-12-27" },
+   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 277, date: "2018-12-27" },
+   		
+   		{ stack: "Email Acquired", name: "emailAcquired2", views: 26, date: "2018-12-28" },
+   		{ stack: "Number of Calls", name: "numberOfCalls2", views: 286, date: "2018-12-28" },
    		] };
    		var stackedBarChart = new britecharts.stackedBar(),
    		chartTooltip = britecharts.tooltip(),
