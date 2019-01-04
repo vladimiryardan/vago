@@ -162,10 +162,10 @@
    	</script>
 
 <p> 
-	&nbsp;Total Email acquired = 620 
+	&nbsp;Total Email acquired = 530 
 </p>
 <p>
-	&nbsp;Total Number of Calls = 4055
+	&nbsp;Total Number of Calls = 4127
 </p>
  </div>
 </div>
