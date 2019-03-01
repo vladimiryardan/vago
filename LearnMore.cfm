@@ -92,7 +92,7 @@
 			</b>
 			<p>
 			
-				By having out Virtual Assistant, you can save expenses for office space, maintenance cost and additional taxes.
+				By having our Virtual Assistant, you can save expenses for office space, maintenance cost and additional taxes.
 				Moreover, you dont need to purchase office equipment like computers, or telephones. Depending
 				on your current need of business support, your virtual assistant works on part-time or
 				full-time basis.
