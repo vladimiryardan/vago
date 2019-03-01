@@ -17,10 +17,9 @@
 	        <ul class="faddress">
 	            <li><a href="//virtualAssistantgo.com"><img src="images/footerlogo.png" alt="" /></a></li>
 	            <li><i class="fa fa-map-marker fa-lg"></i>&nbsp; 504 Alpap 2 Building, Trade Ave.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ayala Alabang, Muntinlupa City,<br>&nbsp;&nbsp;&nbsp;&nbsp; Philippines</li>
-	            <li><i class="fa fa-phone"></i>&nbsp; (850) 588-9520</li>
 	            <li><a href="mailto:info@virtualassistantgo.com"><i class="fa fa-envelope"></i>&nbsp; info@virtualassistantgo.com</a></li>
 	            <li><img src="images/canada.png" alt=""></i>&nbsp; CA: (647) 484-2432</li>
-	             <li><img src="images/philippines.png" alt=""></i>&nbsp; PH: (+63) 917-795-0990</li>
+	             <li><img src="images/philippines.png" alt=""></i>&nbsp; PH: (+63)977-849-7190 to (+63)977 8497190</li>
 	            <li><img src="images/us.png" alt="">&nbsp; US: (442) 237-6035</i>&nbsp;</li>
 	           
 	        </ul>
