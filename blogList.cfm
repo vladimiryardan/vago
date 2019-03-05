@@ -101,45 +101,75 @@
 
 <div class="content_fullwidth2" style="margin-bottom:50px;">
 <div class="container">
-    
-    
-    	<div class="blog_post">	
+	
+	<div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="liveChat.cfm"><img src="images/blogImages/livechat.jpg" alt="" /></a></div>
-        <h3><a href="liveChat.cfm">Live Chat</a></h3>
+        <div class="image_frame"><a href="leadGeneration.cfm"><img src="images/leadGeneration.jpg" alt="" /></a></div>
+        <h3><a href="leadGeneration.cfm">Exceeding Expectations in Lead Generation</a></h3>
             <ul class="post_meta_links">
-            	<li><a href="liveChat.cfm" class="date">27 December 2014</a></li>
-                
-                <li class="post_categoty"><i>by:</i> <a href="#">Nikki Villaester</a></li>
-                
+            	<li><a href="leadGeneration.cfm" class="date">March 2, 2019</a></li>               
+                <li class="post_categoty"><i>by:</i> <a href="#">Katrina Dionisio / Onevoix</a></li>
             </ul>
          <div class="clearfix"></div>
          <div class="margin_top1"></div>
         	<p>
-        		Live chat enables you to have real-time conversations. Its quick, convenient and customers 
-        		love
-        		it, 100x faster than any other digital service channel. Customer service is essential to a
-        		successful business.
-        		As companies compete for the loyalty of their customers, they have to create a 
-        		relationship
-        		built with trust and
-        		excellent service to keep them from transferring to another brand. This can also be one of 
-        		the
-        		companys biggest
-        		marketing strategy. With the good feedback, the company can earn so much more customers 
-        		than
-        		they expected regardless
-        		of the price of their product. Consumers will choose to stick to a product or a company 
-        		that
-        		gives excellent customer
-        		service even if the price of the commodity is high.
-        		<br>
-        		<a href="liveChat.cfm">
-        			read more...
-        		</a>
+        		What does it take to create quality leads and how does your company become the best in the 
+        		lead generation industry? If these questions bother you, then let me give you some tips on 
+        		how your corporation can meet that elusive status
         	</p>
-        </div>
+        <a href="leadGeneration.cfm"> read more...</a></p>
+        </div> 
     </div><!-- /# end post -->
+    
+    
+    <div class="clearfix divider_line9"></div>
+	 
+    <div class="blog_post">	
+        <div class="blog_postcontent">
+        <div class="image_frame"><a href="#"><img src="images/customer.jpg" alt="" /></a></div>
+        <h3><a href="#">A+ Customer Service Highlights </a></h3>
+            <ul class="post_meta_links">
+            	<li><a href="#" class="date">February 28, 2019</a></li>               
+                <li class="post_categoty"><i>by:</i> <a href="#">Patricia Ulatan / Onevoix</a></li>
+            </ul>
+         <div class="clearfix"></div>
+         <div class="margin_top1"></div>
+        	<p>
+        		Ever wonder how customer service affects any line of business? How giving of an 
+        		exceptional customer service satisfaction increases the revenue of a business? Excellent 
+        		customer service for businesses will help you and your long-term goals and make your brand 
+        		successful. Nothing is more important than keeping your customers satisfied and happy, the 
+        		way to do this is by providing desirable and excellent customer care service. Investing in 
+        		customer service is key to long-term business success
+        	</p>
+        <a href="#"> read more...</a></p>
+        </div> 
+    </div><!-- /# end post -->
+    
+    
+    <div class="clearfix divider_line9"></div>
+    
+    <div class="blog_post">	
+        <div class="blog_postcontent">
+        <div class="image_frame"><a href="marketingTrick.cfm"><img src="images/marketingTrick.jpg" alt="" /></a></div>
+        <h3><a href="marketingTrick.cfm">Built Homes in the Most Premium Form </a></h3>
+            <ul class="post_meta_links">
+            	<li><a href="marketingTrick.cfm" class="date">November 13 2018 </a></li>               
+                <li class="post_categoty"><i>by:</i> <a href="#">Gabriel Gamboa</a></li>
+            </ul>
+         <div class="clearfix"></div>
+         <div class="margin_top1"></div>
+        	<p>
+        		There is a marketing trick that advertises newly built homes in the most premium form — 
+        		and with literally, the word “new” on it.
+        		There's about a million new housing projects that were started in 2017, and the prospect 
+        		of choosing between several models — combined with the benefits of owning a new house — 
+        		make buying from a developer an enticing option.
+        	</p>
+        <a href="marketingTrick.cfm"> read more...</a></p>
+        </div> 
+    </div><!-- /# end post -->
+    
     
     <div class="clearfix divider_line9"></div>
     
@@ -323,28 +353,47 @@
         </div> 
     </div><!-- /# end post -->
     
-     <div class="clearfix divider_line9"></div>
     
-    <div class="blog_post">	
+    	<div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="marketingTrick.cfm"><img src="images/marketingTrick.jpg" alt="" /></a></div>
-        <h3><a href="marketingTrick.cfm">Built Homes in the Most Premium Form </a></h3>
+        <div class="image_frame"><a href="liveChat.cfm"><img src="images/blogImages/livechat.jpg" alt="" /></a></div>
+        <h3><a href="liveChat.cfm">Live Chat</a></h3>
             <ul class="post_meta_links">
-            	<li><a href="marketingTrick.cfm" class="date">November 13 2018 </a></li>               
-                <li class="post_categoty"><i>by:</i> <a href="#">Gabriel Gamboa</a></li>
+            	<li><a href="liveChat.cfm" class="date">27 December 2014</a></li>
+                
+                <li class="post_categoty"><i>by:</i> <a href="#">Nikki Villaester</a></li>
+                
             </ul>
          <div class="clearfix"></div>
          <div class="margin_top1"></div>
         	<p>
-        		There is a marketing trick that advertises newly built homes in the most premium form — 
-        		and with literally, the word “new” on it.
-        		There's about a million new housing projects that were started in 2017, and the prospect 
-        		of choosing between several models — combined with the benefits of owning a new house — 
-        		make buying from a developer an enticing option.
+        		Live chat enables you to have real-time conversations. Its quick, convenient and customers 
+        		love
+        		it, 100x faster than any other digital service channel. Customer service is essential to a
+        		successful business.
+        		As companies compete for the loyalty of their customers, they have to create a 
+        		relationship
+        		built with trust and
+        		excellent service to keep them from transferring to another brand. This can also be one of 
+        		the
+        		companys biggest
+        		marketing strategy. With the good feedback, the company can earn so much more customers 
+        		than
+        		they expected regardless
+        		of the price of their product. Consumers will choose to stick to a product or a company 
+        		that
+        		gives excellent customer
+        		service even if the price of the commodity is high.
+        		<br>
+        		<a href="liveChat.cfm">
+        			read more...
+        		</a>
         	</p>
-        <a href="marketingTrick.cfm"> read more...</a></p>
-        </div> 
+        </div>
     </div><!-- /# end post -->
+    
+     <div class="clearfix divider_line9"></div>
+    
     
     </div><!-- end section -->
     </div>
