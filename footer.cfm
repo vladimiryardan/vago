@@ -91,7 +91,7 @@
 	            <li data-anim-type="zoomIn"><a href="https://twitter.com/OnevoixPh" target="_blank"><i class="fa fa-twitter"></i></a></li>
 	            <li data-anim-type="zoomIn"><a href="https://plus.google.com/111795207316993122223?rel=author" target="_blank"><i class="fa fa-google-plus"></i></a></li>
 	            <li data-anim-type="zoomIn"><a href="https://linkedin.com/company/onevoix" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-	            <li data-anim-type="zoomIn"><a href="https://www.youtube.com/user/onevoix" target="_blank"><i class="fa fa-youtube"></i></a></li>
+	            <li data-anim-type="zoomIn"><a href="https://www.youtube.com/watch?v=a_3VOkhQBmM&t=26s" target="_blank"><i class="fa fa-youtube"></i></a></li>
 	        </ul>
 	            
 	    </div>
