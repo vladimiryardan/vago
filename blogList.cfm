@@ -126,11 +126,11 @@
 	 
     <div class="blog_post">	
         <div class="blog_postcontent">
-        <div class="image_frame"><a href="#"><img src="images/customer.jpg" alt="" /></a></div>
-        <h3><a href="#">A+ Customer Service Highlights </a></h3>
+        <div class="image_frame"><a href="customerServiceHighlights.cfm"><img src="images/customer.jpg" alt="" /></a></div>
+        <h3><a href="customerServiceHighlights.cfm">A+ Customer Service Highlights </a></h3>
             <ul class="post_meta_links">
-            	<li><a href="#" class="date">February 28, 2019</a></li>               
-                <li class="post_categoty"><i>by:</i> <a href="#">Patricia Ulatan / Onevoix</a></li>
+            	<li><a href="customerServiceHighlights.cfm" class="date">February 28, 2019</a></li>               
+                <li class="post_categoty"><i>by:</i> <a href="customerServiceHighlights.cfm">Patricia Ulatan / Onevoix</a></li>
             </ul>
          <div class="clearfix"></div>
          <div class="margin_top1"></div>
@@ -142,7 +142,7 @@
         		way to do this is by providing desirable and excellent customer care service. Investing in 
         		customer service is key to long-term business success
         	</p>
-        <a href="#"> read more...</a></p>
+        <a href="customerServiceHighlights.cfm"> read more...</a></p>
         </div> 
     </div><!-- /# end post -->
     
