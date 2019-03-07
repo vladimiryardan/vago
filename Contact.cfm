@@ -193,7 +193,7 @@
 									<label class="input">
 										<i class="icon-append icon-user">
 										</i>
-										<input type="text" name="name" id="name" value="#name#" required="true">
+										<input type="text" name="name" id="name" value="#name#" required="true" placeholder="Full Name">
 									</label>
 								</section>
 								<section class="col col-6">
@@ -203,7 +203,7 @@
 									<label class="input">
 										<i class="icon-append icon-envelope-alt">
 										</i>
-										<input type="email" name="email" id="email" value="#email#" required="true">
+										<input type="email" name="email" id="email" value="#email#" required="true" placeholder="Your E-mail">
 									</label>
 								</section>
 							</div>
@@ -214,7 +214,7 @@
 								<label class="input">
 									<i class="icon-append icon-tag">
 									</i>
-									<input type="text" name="subject" id="subject" value="#subject#" required="true">
+									<input type="text" name="subject" id="subject" value="#subject#" required="true" placeholder="Subject">
 								</label>
 							</section>
 							<section>
@@ -224,7 +224,7 @@
 								<label class="textarea">
 									<i class="icon-append icon-comment">
 									</i>
-									<textarea rows="4" name="message" id="message" value="#message#" required="true"></textarea>
+									<textarea rows="4" name="message" id="message" value="#message#" required="true" placeholder="Type Your Message"></textarea>
 								</label>
 							</section>
 						</fieldset>
