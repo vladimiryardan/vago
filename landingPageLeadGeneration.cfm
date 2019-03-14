@@ -7,62 +7,22 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 	<meta name="keywords" content="Virtual Assistant"/>
 	<meta name="description" content="Virtual Assistant"/>
-	<link rel="shortcut icon" type="image/png" href="images/favicon.png" style="border-radius:8px;"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
 	
 	<!-- Favicon --> 
 	<link rel="shortcut icon" href="images/favicon.ico">
 	
-	<!-- this styles only adds some repairs on idevices -->
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-	
 	<!-- ######### CSS STYLES ######### -->
-	<link rel="stylesheet" href="css/reset.css" type="text/css"/>
-	<link rel="stylesheet" href="css/style.css" type="text/css"/>
-	
-	<!-- font awesome icons -->
-	<link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
-	
 
-	
-	
 	<!---mini css --->
-	<link rel="stylesheet" 
-	      href="https://cdn.rawgit.com/Chalarangelo/mini.css/v3.0.1/dist/mini-default.min.css">
-	
-	<link rel="stylesheet" 
-	      href="https://cdnjs.cloudflare.com/ajax/libs/mini.css/3.0.1/mini-default.min.css">
-	
-	<link rel="stylesheet" href="css/bg-patterns/pattern-thirteen.css"/>
-	
-	
-	
-	<!-- classyloader-->
-	<script type="text/javascript" src="js/universal/jquery.js">
-
-	</script>
-	<script src="js/classyloader/jquery.classyloader.min.js">
-
-	</script>
-	
-	<!-- Cookie-->
-	<link rel="stylesheet" type="text/css" href="css/jquery-eu-cookie-law-popup.css"/>
+	<link rel="stylesheet" href="https://cdn.rawgit.com/Chalarangelo/mini.css/v3.0.1/dist/mini-default.min.css">	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mini.css/3.0.1/mini-default.min.css">	
+	<link rel="stylesheet" href="cssminiStyleSheet/mini-style.css"/>
+	<link rel="stylesheet" media="screen" href="cssminiStyleSheet/responsive-leyouts.css"/>
+	<!---mini css icons --->
+	<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js">	</script>
 </head>
-
-<header class="header" style="height:0;">
-
-	<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js">
-
-	</script>
-	
-	<script>
-		var link = document.createElement('link');
-		link.type = 'images/favicon.png';
-		link.rel = 'shortcut icon';
-		link.href = 'images/favicon.png';
-		document.getElementsByTagName('head')[0].appendChild(link);
-	</script>
-</header>
 
 <style type="text/css">
 	html, body{
@@ -71,7 +31,7 @@
 	height:100%;
 	}
 	
-	input{
+	input {
 		display:inline-block;
 	}
 	
@@ -92,7 +52,7 @@
 		
 	.page_title
 	{
-	background:url(imageLandingpage/landingPage.jpg) no-repeat center top;
+	background:url(cssminiStyleSheet/landingPage.jpg) no-repeat center top;
 	width:100%; 
     height:60vh;
 	background-size: cover;
@@ -139,7 +99,7 @@
 	padding-top:-100px;
 	}
 	.titleCustom {
-	font-size:5%;
+	font-size:150%;
 	}
 	
 	}
@@ -174,17 +134,16 @@
 			</h4>
 			
 			<form style="background-color:transparent; border-color:transparent;">
-				<fieldset>
+				<fieldset style="background-color:transparent; border-color:transparent;">
 				
 					<div class="row">
 						<div class="col-sm-12 col-md-12">
-							<input class="depth" type="text" placeholder="Business Name" 
+							<input class="depth" type="text" name="businessName" placeholder="Business Name" 
 							       style="background-color:transparent; width:40%; margin-left:25%;"/>
 						</div>
 						
 						<div class="col-sm-12 col-md-12">
-							<input class="depth" type="text" placeholder="Phone Number" 
-							       onkeypress="return isNumberKey(event)" 
+							<input class="depth" type="text" placeholder="Phone Number" onkeypress="return isNumberKey(event)" 
 							       style="background-color:transparent; width:40%; margin-left:25%;"/>
 						</div>
 						<script>
@@ -319,16 +278,16 @@
 	<div class="clearfix">
 	</div>
 	
-	<div class="features_sec2">
+	<div class="features_sec2" style="background:#1565C0;">
 		<div class="container">
 		
 			<div class="title1">
 				<h2>
 					<span class="line">
 					</span>
-					<span class="text">
-						What you need to remember 
-						<div class="fa fa-exclamation-circle">
+					<span class="text" style="background:#1565C0;">
+						What you need to remember !
+						<div>
 					</span>
 				</h2>
 			</div>
@@ -351,7 +310,7 @@
 
 <footer>
 
-	<!-- end links -->
+	<!---<!-- end links -->
 	<div class="copyright_info" style="margin-top:-5px;">
 		<div class="container">
 		
@@ -362,7 +321,7 @@
 					www.virtualassistantgo.com
 				</a>
 				All rights reserved. 
-			</div>
+			</div>--->
 			
 		<!---	<div class="one_half last">
 			
@@ -404,3 +363,11 @@
 	<!-- end copyright info --> 
 </footer>
 <!-- end footer -->
+
+<script>
+		var link = document.createElement('link');
+		link.type = 'images/favicon.png';
+		link.rel = 'shortcut icon';
+		link.href = 'images/favicon.png';
+		document.getElementsByTagName('head')[0].appendChild(link);
+	</script>
