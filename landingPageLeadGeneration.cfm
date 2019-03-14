@@ -133,17 +133,17 @@
 				them and work closing the deal
 			</h4>
 			
-			<form style="background-color:transparent; border-color:transparent;">
+			<form method="get" action="landingPageRequestQuote.cfm" style="background-color:transparent; border-color:transparent;">
 				<fieldset style="background-color:transparent; border-color:transparent;">
 				
 					<div class="row">
 						<div class="col-sm-12 col-md-12">
-							<input class="depth" type="text" name="businessName" placeholder="Business Name" 
+							<input class="depth" type="text" name="businessName" required="required" placeholder="Business Name" 
 							       style="background-color:transparent; width:40%; margin-left:25%;"/>
 						</div>
 						
 						<div class="col-sm-12 col-md-12">
-							<input class="depth" type="text" placeholder="Phone Number" onkeypress="return isNumberKey(event)" 
+							<input class="depth" type="text" required="required" placeholder="Phone Number" onkeypress="return isNumberKey(event)" 
 							       style="background-color:transparent; width:40%; margin-left:25%;"/>
 						</div>
 						<script>
@@ -154,9 +154,11 @@
 							return true;
 							}
 						</script>
-						<button class="primary">
+						<button type="submit" class="primary">
 							<strong>
-								Request a Quote
+								<a href="landingPageRequestQuote.cfm" style="color:white;">
+									Request a Demo
+								</a>
 							</strong>
 						</button>
 					</div>
