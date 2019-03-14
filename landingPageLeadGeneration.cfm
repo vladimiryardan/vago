@@ -1,3 +1,5 @@
+<html >
+
 <head>
 	<title>
 		Virtual Assistant Go
@@ -43,6 +45,9 @@
     box-shadow: inset 0 1px 4px rgba(0,0,0,0.4);
     padding: 5px;
 	text-align: center; 
+	background-color:transparent; 
+	width:40%; 
+	margin-left:25%;
 	}	
 	
 	.monitor {
@@ -138,13 +143,12 @@
 				
 					<div class="row">
 						<div class="col-sm-12 col-md-12">
-							<input class="depth" type="text" name="businessName" required="required" placeholder="Business Name" 
-							       style="background-color:transparent; width:40%; margin-left:25%;"/>
+							<input class="depth" type="text" name="businessName" required="required" placeholder="Business Name" />
 						</div>
 						
 						<div class="col-sm-12 col-md-12">
-							<input class="depth" type="text" required="required" placeholder="Phone Number" onkeypress="return isNumberKey(event)" 
-							       style="background-color:transparent; width:40%; margin-left:25%;"/>
+							<input class="depth" type="text" required="required" placeholder="Phone Number" 
+							onkeypress="return isNumberKey(event)" />
 						</div>
 						<script>
 							function isNumberKey(evt){
@@ -373,3 +377,5 @@
 		link.href = 'images/favicon.png';
 		document.getElementsByTagName('head')[0].appendChild(link);
 	</script>
+		
+</html>
