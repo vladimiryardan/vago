@@ -108,7 +108,7 @@
         <h3><a href="leadGeneration.cfm">Exceeding Expectations in Lead Generation</a></h3>
             <ul class="post_meta_links">
             	<li><a href="leadGeneration.cfm" class="date">March 2, 2019</a></li>               
-                <li class="post_categoty"><i>by:</i> <a href="#">Katrina Dionisio / Onevoix</a></li>
+                <li class="post_categoty"><i>by:</i> <a href="leadGeneration.cfm">Katrina Dionisio</a></li>
             </ul>
          <div class="clearfix"></div>
          <div class="margin_top1"></div>
@@ -130,7 +130,7 @@
         <h3><a href="customerServiceHighlights.cfm">A+ Customer Service Highlights </a></h3>
             <ul class="post_meta_links">
             	<li><a href="customerServiceHighlights.cfm" class="date">February 28, 2019</a></li>               
-                <li class="post_categoty"><i>by:</i> <a href="customerServiceHighlights.cfm">Patricia Ulatan / Onevoix</a></li>
+                <li class="post_categoty"><i>by:</i> <a href="customerServiceHighlights.cfm">Patricia Ulatan</a></li>
             </ul>
          <div class="clearfix"></div>
          <div class="margin_top1"></div>

@@ -62,7 +62,7 @@
 			A+ Customer Service Highlights  
 		</span>
 		<em>
-			Patricia Ulatan / Onevoix
+			Patricia Marquise Ulatan
 		</em>
 	</h2>
 </div>
@@ -102,191 +102,204 @@
     		Satisfied customers are most likely to share their experiences with other people. Customer
     		satisfaction characterizes itself by a high degree of word of the mouth.
     	</p>
-    	
-    	<br>
-    	
-    	<div class="features_sec3">
+    
+    	<div class="features_sec53" style="margin-top:-50px; margin-bottom:-70px;">
 <div class="container">
-
-	<div class="title2">
-    	<h2 style="margin-top:20px;"><span class="line"></span><span class="text">What composes A+ Customer Service?</span></h2>
+	
+    <div class="stcode_title8">
+    
+    	<h2><span class="line"></span><span class="text">What composes <strong>A+ Customer Service?</strong></span></h2>
+    
     </div>
     
-    <div class="clearfix margin_top3"></div>
+    <div class="clearfix margin_top6"></div>
     
-    <div class="one_third">
+	<div class="one_third">
+		<div class="box">
+		
+			<span aria-hidden="true" class="fa fa-info-circle">
+			</span>
+			
+			<h5 class="light">
+				Asking your customers what they want
+			</h5>
+			
+			<p>
+				<h6 class="gray" style="text-align:justify;">
+				You can't provide the best service possible without figuring out, what that would mean to your 
+				customers. To do this, we need to regularly ask our customers how they enjoyed their experience 
+				with you and if there's anything that you can do to make their experience better.
+			</p>
+		</div>
+	</div>
+	<!-- end section -->
+	<div class="one_third">
+		<div class="box">
+		
+			<span aria-hidden="true" class="icon-social-dropbox">
+			</span>
+			
+			<h5 class="light">
+				Take complaints seriously
+			</h5>
+			
+			<p>
+				<h6 class="gray" style="text-align:justify;">
+				If someone complaints to you, it means they had a bad experience in your company. Even if you 
+				believe your employee or company did anything wrong, it doesn't change how that experience made 
+				them feel, So instead of getting defensive when a customer complaints it's important to actually 
+				hear them out and apologize. 
+			</p>
+		</div>
+	</div>
+	<!-- end section -->
     
-        <div class="box">
-        
-            <div class="ciref outline-outward left"> <span aria-hidden="true" class="fa fa-users"></span> </div>
-            <!---Asking your customers what they want --->
-            <div class="right">
-                <h5>Asking your customers what they want</h5>
-            	<p>
-            		You can't provide the best service possible without figuring out, what that would 
-            		mean to your
-            		customers. To do this, we need to regularly ask our customers how they enjoyed their 
-            		experience
-            		with you and if there's anything that you can do to make their experience better.
-            	</p>
-            </div>
+	<div class="one_third last">
+		<div class="box">
 		
-        </div><!-- end section -->
-    	
-        <div class="box">
-        
-            <div class="ciref outline-outward left"> <span aria-hidden="true" class="fa fa-pencil-square-o "></span> </div>
-            <!---Take complaints seriously --->
-            <div class="right">
-                <h5>Take complaints seriously</h5>
-            	<p>
-            		If someone complaints to you, it means they had a bad experience in your company. 
-            		Even if you
-            		believe your employee or company did anything wrong, it doesn't change how that 
-            		experience made
-            		them feel, So instead of getting defensive when a customer complaints it's important 
-            		to actually
-            		hear them out and apologize.
-            	</p>
-            </div>
-		
-        </div><!-- end section -->
-      
-        <div class="box last">
-      
-            <div class="ciref outline-outward left"> <span aria-hidden="true" class="fa fa-comments-o"></span> </div>
-            <!---Empathetic customer service approach --->
-            <div class="right">
-                <h5>Empathetic customer service approach</h5>
-            	<p>
-            		Listen carefully. Be a good listener and try to repeat what the customer says to 
-            		assure that you are
-            		listening and that you understand their concern.
-            	</p>
-            </div>
-		
-        </div><!-- end section -->
-      
-	</div><!-- end all sections -->
-    
-    <div class="one_third">
-    
-        <div class="box">
-        
-            <div class="ciref outline-outward left"> <span aria-hidden="true" class="fa fa-search-plus"></span> </div>
-            
-            <div class="right">
-                <h5>Understand that Every Customer is Different</h5>
-            	<p>
-            		Focus on serving the person, not the problem. Understanding helps build personal 
-            		relationships,
-            		which leads to increased brand loyalty. Everyone feels like their situation is unique, 
-            		and customer
-            		service has to treat each complaint that way.
-            	</p>
-            </div>
-		
-        </div><!-- end section -->
-    	
-        <div class="box">
-        
-            <div class="ciref outline-outward left"> <span aria-hidden="true" class="fa fa-bell-o "></span> </div>
-            
-            <div class="right">
-                <h5>Watch Your Tone</h5>
-            	<p>
-            		When replying to an online message or through email, the tone is just as important as 
-            		if you were
-            		having a face-to-face conversation with a customer. A good rule of thumb is to craft a 
-            		written
-            		message, reread it and pay attention to tone and word twice.
-            	</p>
-            </div>
-		
-        </div><!-- end section -->
-        
-        <div class="box last">
-        
-            <div class="ciref outline-outward left"> <span aria-hidden="true" class="fa fa-thumbs-up"></span> </div>
-            
-            <div class="right">
-                <h5>Focus on Fast Service </h5>
-            	<p>
-            		Whether selling a product or helping a customer solve a problem, being proactive and 
-            		expeditious
-            		in your efforts is essential. This shows customers that you are on top of it and that 
-            		you value and
-            		respect their time.
-            	</p>
-            </div>
-		
-        </div><!-- end section -->
-        
-	</div><!-- end all sections -->
-    
-    <div class="one_third last">
-    
-        <div class="box">
-        
-            <div class="ciref outline-outward left"> <span aria-hidden="true" class="fa fa-weixin"></span> </div>
-            
-            <div class="right">
-                <h5>Measure satisfaction over time</h5>
-            	<p>
-            		When measuring customer satisfaction through surveys or similar research, it's 
-            		important that you
-            		measure these factors over a significant period of time. You can't just do one survey, 
-            		see that your
-            		customer satisfaction rate is above 75% and decide that you’re doing a great job.
-            	</p>
-            </div>
-		
-        </div><!-- end section -->
-    	
-        <div class="box">
-        
-            <div class="ciref outline-outward left"> <span aria-hidden="true" class="fa fa-adjust"></span> </div>
-            
-            <div class="right">
-                <h5>Avoid long wait during calls</h5>
-            	<p>
-					The long holds and seemingly endless transfers almost always lead to a negative experience.
-            	</p>
-            </div>
-		
-        </div><!-- end section -->
-        
-        <div class="box last">
-			<br>    
-            <div class="ciref outline-outward left"> <span aria-hidden="true" class="fa fa-money"></span> </div>
-            
-            <div class="right">
-                <h5>Give the customers the best value possible</h5>
-            	<p>
-            		All of your customers are important, but if you have a certain customers who have been 
-            		with your
-            		business for a very long time, it's very important to pay extra attention to them. 
-            		Simple things like
-            		remembering their names, other personal details can make them feel extra-appreciated 
-            		and thus
-            		more connected to your business.
-            	</p>
-            </div>
-		
-        </div><!-- end section -->
-        
-	</div><!-- end all sections -->
+			<span aria-hidden="true" class="icon-badge">
+			</span>
+			
+			<h5 class="light">
+				Empathetic customer service approach
+			</h5>
+			
+			<p>
+				<h6 class="gray" style="text-align:justify;">
+				Listen carefully. Be a good listener and try to repeat what the customer says to assure that you 
+				are listening and that you understand their concern. 
+			</p>
+		</div>
+	</div>
+	<!-- end section -->
 
+    
+    <div class="clearfix margin_top5"></div>
+    
+	<div class="one_third">
+		<div class="box">
+		
+			<span aria-hidden="true" class="icon-layers">
+			</span>
+			
+			<h5 class="light">
+				Understand that Every Customer is Different
+			</h5>
+			
+			<p>
+				<h6 class="gray" style="text-align:justify;">
+				Focus on serving the person, not the problem. Understanding helps build personal relationships, 
+				which leads to increased brand loyalty. Everyone feels like their situation is unique, and 
+				customer service has to treat each complaint that way. 
+			</p>
+		</div>
+	</div>
+	<!-- end section -->
+    
+	<div class="one_third">
+		<div class="box">
+		
+			<span aria-hidden="true" class="icon-social-youtube">
+			</span>
+			
+			<h5 class="light">
+				Watch Your Tone
+			</h5>
+			
+			<p>
+				<h6 class="gray" style="text-align:justify;">
+				When replying to an online message or through email, the tone is just as important as if you 
+				were having a face-to-face conversation with a customer. A good rule of thumb is to craft a 
+				written message, reread it and pay attention to tone and word twice. 
+			</p>
+		</div>
+	</div>
+	<!-- end section -->
+    
+	<div class="one_third last">
+		<div class="box">
+		
+			<span aria-hidden="true" class="icon-bulb">
+			</span>
+			
+			<h5 class="light">
+				Tons of Features
+			</h5>
+			
+			<p>
+				<h6 class="gray" style="text-align:justify;">
+				Whether selling a product or helping a customer solve a problem, being proactive and expeditious 
+				in your efforts is essential. This shows customers that you are on top of it and that you value 
+				and respect their time. 
+			</p>
+		</div>
+	</div>
+	<!-- end section -->
+    
+	<div class="clearfix margin_top5"></div>
+    
+	<div class="one_third">
+		<div class="box">
+		
+			<span aria-hidden="true" class="icon-like">
+			</span>
+			
+			<h5 class="light">
+				Measure satisfaction over time
+			</h5>
+			
+			<p>
+				<h6 class="gray" style="text-align:justify;">
+				Focus on serving the person, not the problem. Understanding helps build personal relationships, 
+				which leads to increased brand loyalty. Everyone feels like their situation is unique, and 
+				customer service has to treat each complaint that way. 
+			</p>
+		</div>
+	</div>
+	<!-- end section -->
+    
+	<div class="one_third">
+		<div class="box">
+		
+			<span aria-hidden="true" class="icon-clock">
+			</span>
+			
+			<h5 class="light">
+				Avoid long wait during calls
+			</h5>
+			
+			<p>
+				<h6 class="gray" style="text-align:justify;">
+				Be sure you're respecting your customer's time. Don't keep them waiting. By far the most exhausting thing that can happen during a phone conversation is waiting on hold. A customer certainly doesn't want to be on hold for long. The long holds and seemingly endless transfers almost always lead to a negative experience.
+			</p>
+		</div>
+	</div>
+	<!-- end section -->
+    
+	<div class="one_third last">
+		<div class="box">
+		
+			<span aria-hidden="true" class="fa fa-money">
+			</span>
+			
+			<h5 class="light">
+				Give the customers the best value possible
+			</h5>
+			
+			<p>
+				<h6 class="gray" style="text-align:justify;">
+				All of your customers are important, but if you have a certain customers who have been with your 
+				business for a very long time, it's very important to pay extra attention to them. Simple things 
+				like remembering their names, other personal details can make them feel extra-appreciated and 
+				thus more connected to your business. 
+			</p>
+		</div>
+	</div>
+	<!-- end section -->
 </div>
-</div>
-<!--- BENEFITS SECTION ends--->
+</div><!-- end features section 53 -->
     	
-    	<div class="blog_postcontent">
-    	
-    		<div class="image_frame">
-    			<img src="images/communication.jpg">
-    		</div>
-    	</div>
+    	<div class="clearfix"></div>
     	
     	<p>
     		One of the very best way to endear oneself to a customer is to surface a potential problem and
