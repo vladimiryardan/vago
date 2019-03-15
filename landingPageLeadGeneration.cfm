@@ -50,6 +50,15 @@
 	margin-left:25%;
 	}	
 	
+	.layer{
+	background-color: rgba(8,8,8, 0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+	}
+	
 	.monitor {
 		height:15%; 
 		width:8%;
@@ -57,12 +66,13 @@
 		
 	.page_title
 	{
-	background:url(cssminiStyleSheet/landingPage.jpg) no-repeat center top;
+	background: url(cssminiStyleSheet/landingPage.jpg) no-repeat center top;
 	width:100%; 
-    height:60vh;
+    height:90vh;
 	background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    position: relative;
 	}
 	
 	.primary {
@@ -79,6 +89,9 @@
 		width:5%;
 	}
 	
+	.quickquote {
+	background-color:rgb(120,120,120,0.4); padding-top:2%;
+	}
 	
 	@media only screen and (max-height: 600px)
 	{
@@ -123,10 +136,22 @@
 	}
 </style>
 
+
 <body>
 	
-	<div class="page_title">
-		<div class="titleBody one_half" style="margin-left:5%; ">
+
+	<div class="page_title" style="padding-top:0px;">
+		<div class="layer">
+		<p style="float:right; margin-top:1%; margin-right:10%; color:white;">
+			<span data-feather="phone-call"></span>&nbsp;
+			Contact Us: (442) 237-6035
+		</p>
+		<script>
+  			feather.replace()
+		</script>
+		<div class="titleBody one_half" style="margin-left:5%; padding-top:15%; color:white; ">
+			<div style="background-color:rgb(0,0,0,0.4); padding-top:2%;">
+				
 			<h1 class="titleCustom">
 			
 				Get Good Leads Straight to your Inbox
@@ -143,11 +168,11 @@
 				
 					<div class="row">
 						<div class="col-sm-12 col-md-12">
-							<input class="depth" type="text" name="businessName" required="required" placeholder="Business Name" />
+							<input class="depth" type="text" id="businessname" name="businessName"  placeholder="Business Name" />
 						</div>
 						
 						<div class="col-sm-12 col-md-12">
-							<input class="depth" type="text" required="required" placeholder="Phone Number" 
+							<input class="depth" type="text" name="phoneNumber" placeholder="Phone Number" 
 							onkeypress="return isNumberKey(event)" />
 						</div>
 						<script>
@@ -158,22 +183,48 @@
 							return true;
 							}
 						</script>
+						<script>
+							var bName = document.getElementById("businessname").required;
+						</script> 
 						<button type="submit" class="primary">
 							<strong>
 								<a href="landingPageRequestQuote.cfm" style="color:white;">
-									Request a Demo
+									Get a Quote
 								</a>
 							</strong>
 						</button>
 					</div>
 				</fieldset>
 			</form>
-			
+			</div>
 		</div>
-		<!---<div class="one_half last" style="float:right; margin-top:-20%;">
-			<img class="vagoLogo" src="imageLandingpage/vago.png" style="width:60%; height:37%; "/>
-		</div>--->
+		
+		<div class="one_half last" style="float:right; margin-top:-23%;">
+		
+			<h1>
+				Quick Quote
+			</h1>
+		<div class="input-group">
+		  <input type="text" id="Username" placeholder="Name"/>
+		  <br>
+		  <input type="text" id="Username" placeholder="Email"/>
+		  <br>
+		  <input type="text" id="Username" placeholder="Phone"/>
+		  <br>
+		  <textarea type="text" id="Username" placeholder="What do you need?"></textarea>
+		  <br>
+  		  <button type="submit">
+			<strong>
+				<a href="#" >
+					Send Now
+				</a>
+			</strong>
+		  </button>
+
+</div>
+		</div>
 		<!-- end page title -->
+		</div>
 	</div>
 	
 	<div class="page_title3" style="background-color:white;/>
@@ -316,18 +367,14 @@
 
 <footer>
 
-	<!---<!-- end links -->
+	<!-- end links -->
 	<div class="copyright_info" style="margin-top:-5px;">
 		<div class="container">
-		
 			<div class="one_half">
-			
-				Copyright 2019 
-				<a href="https://www.virtualassistantgo.com" target="_blank">
-					www.virtualassistantgo.com
-				</a>
-				All rights reserved. 
-			</div>--->
+				<p>
+					Call Us: (442) 237-6035
+				</p>
+			</div>
 			
 		<!---	<div class="one_half last">
 			
