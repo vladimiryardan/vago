@@ -41,7 +41,7 @@
         		with our <br><strong>LEAD GENERATION!</strong>
         	</p>
 			<a class="button splash2" href="#">
-				<span data-feather="phone"></span>&nbsp;(442) 237-6035
+				<span class="phone" data-feather="phone"></span>&nbsp;(442) 237-6035
 			</a>
 			<a class="button splash" href="https://minicss.org/docs">
 				Get started
