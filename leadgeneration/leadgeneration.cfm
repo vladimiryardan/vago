@@ -3,10 +3,9 @@
 <html lang="en">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<link href="./mini.css - Minimal, responsive, style-agnostic CSS framework_files/css" 
-		      rel="stylesheet">
-		<link rel="stylesheet" 
-		      href="./mini.css - Minimal, responsive, style-agnostic CSS framework_files/style.min.css">
+		<link href="./css/mini-default.min.css" rel="stylesheet">
+		<link href="./css/style.min.css" rel="stylesheet">
+		      
 		<title>
 			mini.css - Minimal, responsive, style-agnostic CSS framework
 		</title>
@@ -41,7 +40,7 @@
 				Virtual Assistant Go
 			</h1>
         	<p class="splash" style="font-size:19px;">
-        		Generate B2B leads of high-quality
+        		Generate leads of high-quality
         		<br>
         		with our <strong>LEAD GENERATION!</strong>
         	</p>
@@ -107,7 +106,7 @@
 			<div class="col-sm">			
 				
 				<h1 class="feature-header">
-					Generating Good Leads 
+					Your <strong>BEST SOLUTION</strong> for <strong>LEAD GENERATION</strong>
 				</h1>
 				
 				<br>
@@ -115,9 +114,22 @@
 				<p>
 					Virtual Assistant GO has been working with multiple COMPANIES that require virtual assistance for lead generation, 
 					and have also proven to turn those leads into potential clients!
+					<br>
+            		<br>
+					We have <strong>LEAD GENERATORS</strong> that have mastered how to work on this global platform, both successfully 
+            		and efficiently! Whether you are busy in an important business meeting, or even out traveling the
+            		world with your family, and without internet access, YOUR LEAD GENERATION IS WORKING!
+            		
 				</p>
 			</div>
-			<div class="col-sm">	
+			<div class="col-sm">
+					<h1 class="feature-header">
+					If you wish to start this hassle-free
+					<br>
+					online journey just 
+					<br>
+					fill in the form.
+				</h1>
             	<form method="get" action="landingPageRequestQuote.cfm" style="background-color:transparent; border-color:transparent;">
 				<fieldset style="background-color:transparent; border-color:transparent;">
 				
@@ -145,7 +157,7 @@
 							}
 						</script>
 						<script>
-							var bName = document.getElementById("businessname").required;
+							var bName = document.getElementById("businessName").required;
 						</script> 
 						<button type="submit" class="primary">
 							<strong>
@@ -166,23 +178,22 @@
   						feather.replace()
 					</script>
 				<h2 class="feature-header">
-					What you need to remember ! 
+					Rethink your strategy on TIME and VALUE.
 				</h2>
 				<br>
             	<p>
-            		Many factors contribute to the success or failure of such goals. Technology has truly 
-            		upgraded our standards in advertising, marketing and sales. It is for this reason that 
-            		many business are focused in data management. However, we need to consider that the 
-            		real essence of the operation lies in the connection between the potential client and 
-            		the representatives on the other end of the phone line. After all, what creates a 
-            		loyal customer is the trust that they give to the person they spoke with and the great 
-            		experience that came with it. 
+            		
+            		Our Virtual Assistant on <strong>LEAD GENERATION</strong> has exceptional communication and conversational skills. 
+            		They are experienced in both inbound and outbound calling for your business and marketing needs.
             		<br>
             		<br>
-            		Rethink your strategy on time and value. We have SOCIAL MEDIA MANAGERS that have
-            		mastered how to work on this global platform, both successfully and efficiently!
-            		Whether you are busy in an important business meeting, or even out traveling the world
-            		with your family, and without internet access, YOUR SOCIAL MEDIA MANAGER IS WORKING!
+            		<strong>YOUR LEAD GENERATOR</strong> is equipped with the best tools to perfectly execute and accomplish any given 
+            		task. All of our Virtual Assistants work in an office in the Philippines, where they are properly 
+            		managed to provide the best results! It's like you just hired a whole office itself!
+            		<br>
+            		<br>
+            		With a little provided product knowledge coming from you, your Virtual Assistant will definitely 
+            		help you INCREASE YOUR PRODUCTIVITY and turn those leads into INCOME.
             	</p>
 			</div>
 		</div>
@@ -208,10 +219,7 @@
 		<footer class="row">
 			<div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
             	<p style="text-align: justify;">
-            		If you wish to start this hassle-free online journey, just fill in the form.
-            		If you need to get in touch with a sales person right now, <br>
-            		call us at (442) 237-6035 
-            		(Intl).
+            		If you need to get in touch with a sales person right now, call us at (442) 237-6035 (Intl).
             	</p>
 				
 			</div>
