@@ -1875,10 +1875,9 @@ a.button.splash2:hover{
 }
 @media screen and (min-width: 1280px){
     a.button.splash2{
-        width:12vw;
+        width:15vw;
         right:0px;
     }
-}
 }
 
 #version-info{
@@ -2288,7 +2287,7 @@ a#feather-banner svg{
 	
 .phone {
 	
-		height:8%; 
-		width:8%;
+		height:6%; 
+		width:6%;
 		
 }
