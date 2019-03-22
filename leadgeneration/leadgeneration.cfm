@@ -172,6 +172,7 @@
 			</form>
 			</div>
 		</div>
+		<br>
 		<div class="row padded alt-back">
 			<div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
 				<span class="monitor" data-feather="map"></span>
