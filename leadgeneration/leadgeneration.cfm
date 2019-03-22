@@ -7,21 +7,21 @@
 		<link href="./css/style.min.css" rel="stylesheet">
 		      
 		<title>
-			mini.css - Minimal, responsive, style-agnostic CSS framework
+			Virtual Assistant Go | Virtual Assistant for Lead Generation, Appointment Setting, Customer Service
 		</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" 
-		      content="mini.css is a tiny CSS framework designed to build quick, modern and responsive websites.">
+		      content="Virtual Assistant for Lead Generation, Appointment Setting, Customer Service">
 		<meta name="keywords" 
-		      content="mini, mini.css, CSS, framework, minimal, responsive, style-agnostic, front-end, frontend, Sass, toolkit">
-		<meta name="author" content="Angelos Chalaris (chalarangelo)">
-		<meta property="og:title" content="mini.css - Minimal, responsive, style-agnostic CSS framework">
+		      content="Small business lead generation, lead generation, Appointment Setting, Customer Service, Inbound and Outbound Lead Generation Service">
+		<meta name="author" content="Virtual Assistant Go">
+		<meta property="og:title" content="Virtual Assistant for Lead Generation, Appointment Setting, Customer Service">
 		<meta property="og:description" 
-		      content="mini.css is a tiny CSS framework designed to build quick, modern and responsive websites.">
+		      content="Small business lead generation, lead generation, Appointment Setting, Customer Service, Inbound and Outbound Lead Generation Service">
 		<meta property="og:type" content="website">
 		<meta property="og:image" content="page_thumb.png">
-		<meta property="og:url" content="https://chalarangelo.github.io/mini.css/">
-		<link rel="icon" type="image/png" href="https://minicss.org/favicon.png">
+		<meta property="og:url" content="https://virtualassistantgo.com">
+		<link rel="icon" type="image/png" href="favicon.png">
 				<!---mini css feather icons --->
 	<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js">	</script>
 	</head>
@@ -101,7 +101,7 @@
 			</span>
 		</header>--->
 		<div class="row">
-			<div class="col-sm">			
+			<div class="col-sm" >			
 				
 				<h1 class="feature-header">
 					<b>Generate leads of high-quality with our 
