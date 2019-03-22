@@ -32,19 +32,17 @@
 			</div>
 			<div class="index-splash-image">
 			</div>
-			<p id="version-info">
-			<span data-feather="phone">
-				
-			</span>&nbsp;(442) 237-6035 </p>
+			
 			<h1 class="splash">
-				Virtual Assistant Go
+				Virtual Assistant GO
 			</h1>
         	<p class="splash" style="font-size:19px;">
         		Generate leads of high-quality
-        		<br>
-        		with our <strong>LEAD GENERATION!</strong>
+        		with our <br><strong>LEAD GENERATION!</strong>
         	</p>
-
+			<a class="button splash2" href="#">
+				<span data-feather="phone"></span>&nbsp;(442) 237-6035
+			</a>
 			<a class="button splash" href="https://minicss.org/docs">
 				Get started
 			</a>
@@ -106,32 +104,35 @@
 			<div class="col-sm">			
 				
 				<h1 class="feature-header">
-					Your <strong>BEST SOLUTION</strong> for <strong>LEAD GENERATION</strong>
+					<b>Generate leads of high-quality with our 
+					<br>
+					LEAD GENERATION!</b>
 				</h1>
 				
 				<br>
 				
 				<p>
-					Virtual Assistant GO has been working with multiple COMPANIES that require virtual assistance for lead generation, 
+					<strong>Virtual Assistant GO</strong> has been working with multiple <strong>COMPANIES</strong> 
+					that require virtual assistance for lead generation, 
 					and have also proven to turn those leads into potential clients!
 					<br>
             		<br>
 					We have <strong>LEAD GENERATORS</strong> that have mastered how to work on this global platform, both successfully 
             		and efficiently! Whether you are busy in an important business meeting, or even out traveling the
-            		world with your family, and without internet access, YOUR LEAD GENERATION IS WORKING!
+            		world with your family, and without internet access, <strong>YOUR LEAD GENERATION IS WORKING!</strong>
             		
 				</p>
 			</div>
-			<div class="col-sm">
-					<h1 class="feature-header">
-					If you wish to start this hassle-free
-					<br>
+			<div class="col-sm" style="background:rgba(49,131,215,0.95);">
+					<h1 class="feature-header"><b>
+					If you wish to start this hassle-free<br>
+					
 					online journey just 
-					<br>
-					fill in the form.
-				</h1>
+				
+					fill in the form
+				</b></h1>
             	<form method="get" action="landingPageRequestQuote.cfm" style="background-color:transparent; border-color:transparent;">
-				<fieldset style="background-color:transparent; border-color:transparent;">
+				<fieldset>
 				
 					<div class="row">
 						<div class="col-sm-12 col-md-12">
@@ -159,10 +160,10 @@
 						<script>
 							var bName = document.getElementById("businessName").required;
 						</script> 
-						<button type="submit" class="primary">
+						<button type="submit" class="inverse">
 							<strong>
-								<a href="landingPageRequestQuote.cfm" style="color:white;">
-									Get a Quote
+								<a href="landingPageRequestQuote.cfm" style="color:white";>
+									<span data-feather="send"></span>&nbsp;Get a Quote
 								</a>
 							</strong>
 						</button>
@@ -173,12 +174,13 @@
 		</div>
 		<div class="row padded alt-back">
 			<div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
-				<span class="trending-up" data-feather="user-check"></span>
+				<span class="monitor" data-feather="map"></span>
 					<script>
   						feather.replace()
 					</script>
 				<h2 class="feature-header">
-					Rethink your strategy on TIME and VALUE.
+					<b><i>"Our finely-tuned techniques on lead generation, and other marketing secrets 
+					could surely put your BRAND, or even YOURSELF, on the map!"</i></b>
 				</h2>
 				<br>
             	<p>
@@ -193,21 +195,38 @@
             		<br>
             		<br>
             		With a little provided product knowledge coming from you, your Virtual Assistant will definitely 
-            		help you INCREASE YOUR PRODUCTIVITY and turn those leads into INCOME.
+            		help you <strong>INCREASE YOUR PRODUCTIVITY</strong> and turn those leads into <strong>INCOME</strong>.
+            	</p>
+			</div>
+		</div>
+		
+		<div class="row padded alt-back2">
+			<div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
+				<span class="trending-up" data-feather="user-check"></span>
+					<script>
+  						feather.replace()
+					</script>
+				<h2 class="feature-header">
+					<b>It's like you just hired a whole office itself!</b>
+				</h2>
+				<br>
+            	<p>
+            		<strong>YOUR LEAD GENERATOR</strong> is equipped with the best tools to perfectly execute and accomplish any
+					given task. All of our Virtual Assistants work in an office in the Philippines, where they are properly
+					managed to provide the best results!
             	</p>
 			</div>
 		</div>
 		<div class="row padded primary-section">
 			<div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
-				<h2 class="feature-header">
-					Get started now!
-				</h2>
+				<h1 class="feature-header">
+					<b>Get started now!</b>
+				</h1>
 				<br>
-            	<p>
-            		Our finely-tuned techniques on content creation, and other marketing secrets could 
-            		surely put your BRAND, or even YOURSELF, on the map! YOUR SOCIAL MEDIA MANAGER knows 
-            		the GLOBAL PRIME TIME, and will only deliver content of the LATEST TRENDS!
-            	</p>
+            	<h3>
+            		<b><i>"With a little provided product knowledge coming from you, your Virtual Assistant will definitely 
+            		help you INCREASE YOUR PRODUCTIVITY and turn those leads into INCOME!"</i></b>
+            	</h3>
 				<p style="text-align:center;">
 					<a href="https://minicss.org/docs" class="button">
 						Get started
@@ -219,7 +238,7 @@
 		<footer class="row">
 			<div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
             	<p style="text-align: justify;">
-            		If you need to get in touch with a sales person right now, call us at (442) 237-6035 (Intl).
+            		If you need to get in touch with a sales person right now, call us at +1 (442) 237-6035
             	</p>
 				
 			</div>

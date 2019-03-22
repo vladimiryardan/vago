@@ -18,7 +18,7 @@ html{
     font-size:16px
 }
 a,b,del,em,i,ins,q,span,strong,u{
-    font-size:1em
+    font-size:1.1em
 }
 html,*{
     font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Helvetica, sans-serif;
@@ -26,7 +26,7 @@ html,*{
     -webkit-text-size-adjust:100%
 }
 *{
-    font-size:1rem
+    font-size:1.1rem
 }
 body{
     margin:0;
@@ -1769,7 +1769,7 @@ code:not(.doc),kbd:not(.doc),pre:not(.doc),samp:not(.doc){
     height:100vh
 }
 .index-splash-image{
-    background-image:url("./landingPage.jpg");
+    background-image:url("../images/lp_1920x900.jpg");
     background-position:center center;
     background-repeat:no-repeat;
     background-size:cover;
@@ -1829,26 +1829,66 @@ a.button.splash:hover{
     color:#f8f8f8;
     border-color:black;
 }
+
+@media only screen and (min-width: 480px){
+	a.button.splash{
+        width:20vw;
+        left:35vw
+    }
+}
+
 @media screen and (min-width: 768px){
     a.button.splash{
-        width:30vw;
+        width:20vw;
         left:35vw
     }
 }
 @media screen and (min-width: 1280px){
     a.button.splash{
-        width:25vw;
-        left:37.5vw
+        width:20vw;
+        left:38vw
     }
 }
-#version-info{
+
+a.button.splash2{
     position:absolute;
-    top:10%;
-    background:rgba(0,0,0,0.25);
+    top:0;
+    width:50vw;
+    right:0;
+    text-align:center;
+    font-size:1.25rem;
+    border-color:black;
+    background:#3183d7;
+    transition:all 0.3s;
+    color:white;
+}
+a.button.splash2:hover{
+    background:rgba(255,255,255,0.35);
+    color:black;
+    border-color:black;
+}
+@media screen and (min-width: 768px){
+    a.button.splash2{
+        width:30vw;
+        right:0;
+    }
+}
+@media screen and (min-width: 1280px){
+    a.button.splash2{
+        width:12vw;
+        right:0px;
+    }
+}
+}
+
+#version-info{
+   position:absolute;
+    top:0;
+    background:rgba(49,131,215,0.9);
     padding:2px 6px;
     border-radius:4px;
-    color:black;
-    left:45%;
+    color:white;
+    left:0;
     font-weight:500
 }
 .row.padded{
@@ -1887,10 +1927,10 @@ a.button.splash:hover{
     text-align:center
 }
 .primary-section a.button{
-    background:transparent;
+    background:rgba(255,255,255,0.50);
     border:1px solid #fff;
     border-radius:4px;
-    padding:4px 8px;
+    padding:10px 14px;
     color:#fff;
     font-size:1.25rem;
     display:inline-block;
@@ -2239,9 +2279,9 @@ a#feather-banner svg{
 		width:30%;
 		margin:50px auto 20px;
 	}
-.trending-up {
+.monitor {
 	display:block;
-		height:30%; 
+		height:25%; 
 		width:40%;
 		margin: 50px auto 20px;
 	} 
