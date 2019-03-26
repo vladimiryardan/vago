@@ -28,24 +28,28 @@
 	<body>
 		
 		<div class="index-splash">
+			
 			<div class="index-splash-image no-filter">
 			</div>
 			<div class="index-splash-image">
 			</div>
-			
+			<img class="vagoLogo" src="images/vagoLogo.png"></img>
 			<h1 class="splash">
+			
 				Virtual Assistant GO
 			</h1>
         	<p class="splash" style="font-size:19px;">
         		Generate leads of high-quality
         		with our <br><strong>LEAD GENERATION!</strong>
         	</p>
-			<a class="button splash2" href="#">
-				<span class="phone" data-feather="phone"></span>&nbsp;Call us: (442) 237-6035
-			</a>
+			
 			<a class="button splash" href="https://minicss.org/docs">
 				Get started
 			</a>
+			<a class="button splash2" href="#">
+				&nbsp;Call us: (442) 237-6035
+			</a>
+		
 		</div>
 		
 		<!---<header class="row sticky">
@@ -203,7 +207,7 @@
 		
 		<div class="row padded alt-back2">
 			<div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
-				<span class="trending-up" data-feather="user-check"></span>
+				<span class="trending-up" data-feather="users"></span>
 					<script>
   						feather.replace()
 					</script>
@@ -229,7 +233,7 @@
             		help you INCREASE YOUR PRODUCTIVITY and turn those leads into INCOME!"</i></b>
             	</h3>
 				<p style="text-align:center;">
-					<a href="https://minicss.org/docs" class="button">
+					<a href="#" class="button">
 						Get started
 					</a>
 				</p>
