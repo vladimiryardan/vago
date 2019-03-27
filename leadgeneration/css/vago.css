@@ -6,6 +6,19 @@
 	color: azure !important;
 	font-weight: 800;
 }
+
+@media screen and (min-width: 1000px) and (max-width: 3000px){
+	#lg{
+	display:none;
+}
+}
+
+@media screen and (min-width: 0px) and (max-width: 1000px) {
+	#valg{
+	display: none;
+}
+}
+
 .vago p.splash  {
 	color: azure !important;
 	font-weight: 300;
@@ -95,7 +108,7 @@
 	font-weight: 400;
 }
 .vago4 .details {
-	background-color: #808080 ;
+	background-color: #3183d7 ;
 	padding: 5px;
 	border-radius: 10px;
 	text-align:center;

@@ -623,7 +623,8 @@ label{
 .input-group.fluid{
     display:flex;
     align-items:center;
-    justify-content:center
+    justify-content:center;
+    padding: 2px 10px 2px 2px;
 }
 .input-group.fluid>input{
     max-width:100%;
@@ -1882,27 +1883,28 @@ a.button.splash2:hover{
     color:black;
     border-color:black;
 }
-@media only screen and (min-width: 480px){
+
+@media screen and (min-width: 0px) and (max-width: 780px){
 	a.button.splash2{
-        width:15vw;
-        right:0vw;
-         
-    }
-   
+        width:35vw;
+        right:0vw important!;         
+    } 
 }
 
-@media screen and (min-width: 768px){
-    a.button.splash2{
-        width:15vw;
-        right:0px;
-    }
+@media screen and (min-width: 780px) and (max-width: 1235px){
+	a.button.splash2{
+        width:20vw;
+        right:0vw important!;         
+    } 
 }
-@media screen and (min-width: 1280px){
-    a.button.splash2{
+
+@media screen and (min-width: 1235px) and (max-width: 3000px){
+	a.button.splash2{
         width:15vw;
-        right:0px;
-    }
+        right:0vw important!;         
+    }   
 }
+
 
 #version-info{
    position:absolute;

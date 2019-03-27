@@ -29,7 +29,8 @@
 <div class="index-splash vago">
 	  <div class="index-splash-image no-filter"> </div>
 	  <div class="index-splash-image"> </div>
-	  <h1 class="splash"> Virtual Assistant GO </h1>
+	  <h1 class="splash" id="lg"> Lead Generation </h1>
+	  <h1 class="splash" id="valg"> Virtual Assistant for Lead Generation</h1>
 	  <p class="splash" style="font-size:19px;"> Generate leads of high-quality
 	    with our <br>
 	    <strong>LEAD GENERATION!</strong> </p>
@@ -205,7 +206,7 @@
       <div class="col-lg-5">
         <div class="container vago4">
           <div class="details">
-            <p style="color:white;"> Claim your Free $500 Coupon <b>NOW!</b>
+            <p style="color:white;"> Claim your $500 credits Coupon <b>NOW!</b>
             <form method="get" style="background-color: transparent;">
               <fieldset>
               	<div class="input-group fluid">
