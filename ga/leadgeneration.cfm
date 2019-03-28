@@ -130,46 +130,43 @@
                 online journey just  fill in the form</span> 
             </div>
             <div class="divider2"></div>
-            <form method="get" action="successLG.cfm" style="background-color: transparent;">
-              <fieldset>
-                <div class="row">
-                  <div class="col-sm-12 col-md-6">
-                    <input type="text" name="firstname" id="firstName" placeholder="First Name">
-                  </div>
-                  <div class="col-sm-12 col-md-6">
-                    <input type="text" name="lastname" id="lastname" placeholder="Last Name">
-                  </div>
-                  <div class="col-sm-12 col-md-12">
-                    <input class="depth" type="text" id="businessName" name="businessname" placeholder="Business Name">
-                  </div>
-                  <div class="col-sm-12 col-md-12">
-                    <input class="depth" type="text" name="phonenumber" placeholder="Phone Number" onkeypress="return isNumberKey(event)">
-                  </div>
-                  <br><br>
-                  <script>
-							function isNumberKey(evt){
-							var charCode = (evt.which) ? evt.which : event.keyCode
-							if (charCode > 31 && (charCode < 48 || charCode > 57))
-							return false;
-							return true;
-							}
-						</script> 
-                  <script>
-							var bName = document.getElementById("businessName").required;
-						</script>
-                 <div class="col-sm-12 col-md-12">
-                  <button type="submit" class="inverse btn2">
-                  <strong> <a href="https://virtualassistantgo.com/ga/landingPageRequestQuote.cfm" style="color:white" ;="">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-send">
-                    <line x1="22" y1="2" x2="11" y2="13"></line>
-                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
-                  </svg>
-                  &nbsp;Contact Us </a> </strong>
-                  </button>
-					</div>
-                </div>
-              </fieldset>
-            </form>
+            
+           <cfoutput>
+           	 <form method="post" action="#cgi.script_name#" style="background-color: transparent;">
+	              <fieldset>
+	                <div class="row">
+	                  <div class="col-sm-12 col-md-6">
+	                    <input type="text" name="firstname" id="firstName" placeholder="First Name">
+	                  </div>
+	                  <div class="col-sm-12 col-md-6">
+	                    <input type="text" name="lastname" id="lastname" placeholder="Last Name">
+	                  </div>
+	                  <div class="col-sm-12 col-md-12">
+	                    <input class="depth" type="text" id="businessName" name="businessname" placeholder="Business Name">
+	                  </div>
+	                  <div class="col-sm-12 col-md-12">
+	                    <input class="depth" type="text" name="phonenumber" placeholder="Phone Number" onkeypress="return isNumberKey(event)">
+	                  </div>
+	                  <br><br>
+	                  
+	                  <input type="hidden" name="userip" value="#real_ipaddress#">
+	
+	                 <div class="col-sm-12 col-md-12">
+	                  <button type="submit" class="inverse btn2">
+	                  <strong> <a href="https://virtualassistantgo.com/ga/landingPageRequestQuote.cfm" style="color:white" ;="">
+	                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-send">
+	                    <line x1="22" y1="2" x2="11" y2="13"></line>
+	                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+	                  </svg>
+	                  &nbsp;Contact Us </a> </strong>
+	                  </button>
+						</div>
+	                </div>
+	              </fieldset>
+	            </form>
+           </cfoutput>
+            
+            
           </div>
         </div>
       </div>
@@ -247,18 +244,22 @@
 						<div class="container vago4">
 							<div class="details" id="details" style="background-color:rgb(24,24,24,.6)">
 								<p style="color:white;">
-									<form method="get" style="background-color: transparent;">
-										<fieldset>
-											<div class="input-group fluid" id="inputGroup">
-												<input type="email" action="" name="email" id="Email" placeholder="E-mail">
-												<button type="submit" class="inverse">
-													<strong>
-														<a href="#" style="color:white";>Send</a>
-													</strong>
-												</button>
-											</div>
-										</fieldset>
-									</form>
+									
+									<cfoutput>
+                                    	<form method="post" action="#cgi.script_name#" style="background-color: transparent;">
+											<fieldset>
+												<div class="input-group fluid" id="inputGroup">
+													<input type="email" action="" name="email" id="Email" placeholder="E-mail" required="required">
+													<button type="submit" class="inverse">
+														<strong>
+															<a href="##" style="color:white";>Send</a>
+														</strong>
+													</button>
+												</div>
+											</fieldset>
+											<input type="hidden" name="userip" value="#real_ipaddress#">
+										</form>
+                                    </cfoutput>
 								</p>
 							</div>
 						</div>
@@ -279,10 +280,7 @@
 					<polyline points="17 11 19 13 23 9">
 					</polyline>
 				</svg>
-				<script>
-					feather.replace()
-				</script>
-				
+			
 				<h2 class="feature-header"> <strong>IT'S LIKE YOU JUST HIRED A WHOLE OFFICE ITSELF!</strong> </h2>
     <br>
   	<p>
@@ -315,14 +313,23 @@
     								Get in touch with someone right now, Call Us at 
     								<a class="telNum" href="tel:+14422376035" style="color:#383838;">+1 (442) 237-6035</a> 
     							</strong>
-    							<script>
-    								feather.replace()
-    							</script>
     						</p>
     					</div>
     				</div>
     			</div>
     		</div>
     	</footer>
+
+<script>
+	feather.replace()
+	var bName = document.getElementById("businessName").required;
+	function isNumberKey(evt){
+	var charCode = (evt.which) ? evt.which : event.keyCode
+	if (charCode > 31 && (charCode < 48 || charCode > 57))
+	return false;
+	return true;
+	}
+</script> 
+							
 	</body>
 </html>
