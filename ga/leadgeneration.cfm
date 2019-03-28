@@ -283,112 +283,46 @@
 					feather.replace()
 				</script>
 				
-				<h2 class="feature-header">
-					<b>
-						It's like you just hired a whole office itself!
-					</b>
-				</h2>
-				<br>
-				<p>
-					<strong>
-						YOUR LEAD GENERATOR
-					</strong>
-					is equipped with the best tools to perfectly execute and accomplish any
-					given task. All of our Virtual Assistants work in an office in the Philippines, where they are 
-					properly
-					managed to provide the best results! 
-				</p>
-			</div>
-		</div>
+				<h2 class="feature-header"> <strong>IT'S LIKE YOU JUST HIRED A WHOLE OFFICE ITSELF!</strong> </h2>
+    <br>
+  	<p>
+  		Most virtual assistants are either home-based, or self-employed. But not us. Our virtual 
+  		assistants get to take advantage of our office' amenities and resources. We are working in a 
+  		very professional environment, equipped with top of the line technology and facilities. Imagine 
+  		yourself not just with a virtual assistant, but with a fully functioning, and tailor made 
+  		virtual office just for you! 
+  	</p>
+  </div>
+</div>
+<br><br>
 		<div class="row padded primary-section">
-			<div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
-				<h1 class="feature-header">
-					<b>
-						Get started now!
-					</b>
-				</h1>
-				<br>
-				<h3>
-					<b>
-						<i>
-							"With a little provided product knowledge coming from you, your Virtual Assistant will 
-							definitely
-							help you INCREASE YOUR PRODUCTIVITY and turn those leads into INCOME!"
-						</i>
-					</b>
-				</h3>
-				<p style="text-align:center;">
-					<a href="#landingRequest" class="button"> Get started </a>
-				</p>
-			</div>
-		</div>
-		<footer>
-			<div class="row">
-				<div class="col-sm-8 col-sm-offset-2">
-					<div class="row">
-						<div class="col-lg-7">
-							<div class="container vago2">
-								<p>
-									Get in touch with someone right now, call us at +1 (442) 237-6035 
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-5">
-							<div class="container vago4">
-								<div class="details">
-									<p style="color:white;">
-										Claim your $500 credits Coupon 
-										<b>
-											NOW!
-										</b>
-										
-										<cfoutput>
-											<form method="post" action="#cgi.script_name#" style="background-color: transparent;">
-												<fieldset>
-													<div class="input-group fluid">
-														<input type="email" action="" name="email" id="Email"
-														       placeholder="E-mail" required="required">
-														<input type="hidden" name="credit" value="1">
-														<input type="hidden" name="userip" value="#real_ipaddress#">
-														
-														<div class="col-sm-12 col-md-12">
-															<button type="submit" class="inverse btn2">
-																<strong>
-																	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24"
-																	     fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-																	     stroke-linejoin="round" class="feather feather-send">
-																		<line x1="22" y1="2" x2="11" y2="13">
-																		</line>
-																		<polygon points="22 2 15 22 11 13 2 9 22 2">
-																		</polygon>
-																	</svg>
-																	
-																	Send
-																</strong>
-															</button>
-														</div>
-													</div>
-												</fieldset>
-											</form>
-										</cfoutput>
-									</p>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</footer>
-		
-		<script>
-			var bName = document.getElementById("businessName").required;
-			feather.replace();
-			function isNumberKey(evt){
-			var charCode = (evt.which) ? evt.which : event.keyCode
-			if (charCode > 31 && (charCode < 48 || charCode > 57))
-			return false;
-			return true;
-			}
-		</script>
+  <div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
+    <h1 class="feature-header"> <strong>GET STARTED NOW!</strong> </h1>
+    <br>
+    <h3> <strong><i>"With a little provided product knowledge coming from you, your Virtual Assistant will definitely 
+      help you INCREASE YOUR PRODUCTIVITY and turn those leads into INCOME!"</i></strong> </h3>
+    <p style="text-align:center;"> <a href="#landingRequest" class="button"> Get Started </a> </p>
+  </div>
+</div>
+    	<footer>
+    		<div class="row">
+    			<div class="col-sm-8 col-sm-offset-2">
+    				<div class="row">
+    				
+    					<div class="container vago2">
+    						<p>
+    							<strong>
+    								Get in touch with someone right now, Call Us at 
+    								<a class="telNum" href="tel:+14422376035" style="color:#383838;">+1 (442) 237-6035</a> 
+    							</strong>
+    							<script>
+    								feather.replace()
+    							</script>
+    						</p>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    	</footer>
 	</body>
 </html>
