@@ -92,135 +92,91 @@
 	<body cz-shortcut-listen="true">
 	
 		<div class="index-splash vago">
-			<div class="index-splash-image no-filter">
-			</div>
-			<div class="index-splash-image">
-			</div>
-			<!---<h1 class="splash"> Virtual Asssistant for Lead Generation  </h1>--->
-			<h1 class="splash">
-				Lead Generation
-			</h1>
-			
-			<p class="splash" style="font-size:19px;">
-				Generate high-quality Leads with the help of 
-				<br>
-				<strong>
-					Virtual Assistant!
-				</strong>
-			</p>
-			
-			<a class="button splash2 num" href="#">
-			  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-phone phone">
-			    <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
-			  </svg>
-			  &nbsp;Call us: (442) 237-6035 </a>
-			<a class="button splash" href="#landingRequest"> 
-				Get started 
-			</a>
-		</div>
+	  <div class="index-splash-image no-filter"> </div>
+	  <div class="index-splash-image"> </div>
+	  <h1 class="splash" id="lg"> Lead Generation </h1>
+	  <h1 class="splash" id="valg"> Virtual Assistant for Lead Generation</h1>
+	  <p class="splash" style="font-size:19px;"> Generate leads of high-quality
+	    with our <br>
+	    <strong>LEAD GENERATION!</strong> </p>
+	  <a class="button splash2" href="tel:+4422376035">	  
+	    <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+	  <strong>Call us: (442) 237-6035</strong> </a> 
+	<a class="button splash" href="#landingRequest"> 
+		Get Started 
+	</a> 
+</div>
 		
 		<div class="row">
-			<div class="col-sm-8 col-sm-offset-2">
-				<div class="row">
-					<div class="col-lg-7">
-						<div class="container vago2">
-							<h1>
-								Generate leads of high-quality with our 
-								<br>
-								<strong>
-									LEAD GENERATION!
-								</strong>
-								<br>
-								<br>
-							</h1>
-							<p>
-								<strong>
-									Virtual Assistant GO
-								</strong>
-								has been working with multiple 
-								<strong>
-									COMPANIES
-								</strong>
-								that require virtual assistance for lead generation,
-								and have also proven to turn those leads into potential clients! 
-								<br>
-								<br>
-								We have 
-								<strong>
-									LEAD GENERATORS
-								</strong>
-								that have mastered how to work on this global platform, both successfully
-								and efficiently! Whether you are busy in an important business meeting, or even out 
-								traveling the
-								world with your family, and without internet access, 
-								<strong>
-									YOUR LEAD GENERATION IS WORKING!
-								</strong>
-							</p>
-						</div>
+  <div class="col-sm-8 col-sm-offset-2">
+    <div class="row">
+      <div class="col-lg-7">
+        <div class="container vago2">
+          <h1>Generate leads of high-quality with our <br>
+            <strong>LEAD GENERATION!</strong><br><br> </h1>
+          <p> <strong>Virtual Assistant GO</strong> has been working with multiple <strong>COMPANIES</strong> that require virtual assistance for lead generation, 
+            and have also proven to turn those leads into potential clients! <br>
+            <br>
+            We have <strong>LEAD GENERATORS</strong> that have mastered how to work on this global platform, both successfully 
+            and efficiently! Whether you are busy in an important business meeting, or even out traveling the
+            world with your family, and without internet access, <strong>YOUR LEAD GENERATION IS WORKING!</strong> </p>
+        </div>
+      </div>
+      <div class="col-lg-5" id="landingRequest">
+        <div class="container vago3">
+          <div class="details">
+            <div class="lead2">
+              <span class="lead" >To get started with this hassle-free 
+                online journey just  fill in the form</span> 
+            </div>
+            <div class="divider2"></div>
+            <form method="get" action="successLG.cfm" style="background-color: transparent;">
+              <fieldset>
+                <div class="row">
+                  <div class="col-sm-12 col-md-6">
+                    <input type="text" name="firstname" id="firstName" placeholder="First Name">
+                  </div>
+                  <div class="col-sm-12 col-md-6">
+                    <input type="text" name="lastname" id="lastname" placeholder="Last Name">
+                  </div>
+                  <div class="col-sm-12 col-md-12">
+                    <input class="depth" type="text" id="businessName" name="businessname" placeholder="Business Name">
+                  </div>
+                  <div class="col-sm-12 col-md-12">
+                    <input class="depth" type="text" name="phonenumber" placeholder="Phone Number" onkeypress="return isNumberKey(event)">
+                  </div>
+                  <br><br>
+                  <script>
+							function isNumberKey(evt){
+							var charCode = (evt.which) ? evt.which : event.keyCode
+							if (charCode > 31 && (charCode < 48 || charCode > 57))
+							return false;
+							return true;
+							}
+						</script> 
+                  <script>
+							var bName = document.getElementById("businessName").required;
+						</script>
+                 <div class="col-sm-12 col-md-12">
+                  <button type="submit" class="inverse btn2">
+                  <strong> <a href="https://virtualassistantgo.com/ga/landingPageRequestQuote.cfm" style="color:white" ;="">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-send">
+                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                  </svg>
+                  &nbsp;Contact Us </a> </strong>
+                  </button>
 					</div>
-					<div class="col-lg-5" id="landingRequest">
-						<div class="container vago3">
-							<div class="details">
-								<div class="lead2">
-									<span class="lead">
-										To get started with this hassle-free
-										online journey just fill in the form
-									</span>
-								</div>
-								<div class="divider2">
-								</div>
-								<cfoutput>
-								
-									<form method="post" action="#cgi.script_name#" style="background-color: transparent;">
-										<fieldset>
-											<div class="row">
-												<div class="col-sm-12 col-md-6">
-													<input type="text" name="firstname" id="firstName" placeholder="First Name">
-												</div>
-												<div class="col-sm-12 col-md-6">
-													<input type="text" name="lastname" id="lastname" placeholder="Last Name">
-												</div>
-												<div class="col-sm-12 col-md-12">
-													<input class="depth" type="text" id="leademl" name="leademl"
-													       placeholder="Email" required="required">
-												</div>
-												<div class="col-sm-12 col-md-12">
-													<input class="depth" type="text" name="phonenumber" placeholder="Phone Number"
-													       onkeypress="return isNumberKey(event)">
-												</div>
-												
-												<input type="hidden" name="userip" id="userip" value="#real_ipaddress#">
-												<input type="hidden" name="submitted" value="1">
-												
-												<br>
-												<br>
-												
-												<div class="col-sm-12 col-md-12">
-													<button type="submit" class="inverse btn2">
-														<strong>
-															<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24"
-															     fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-															     stroke-linejoin="round" class="feather feather-send">
-																<line x1="22" y1="2" x2="11" y2="13">
-																</line>
-																<polygon points="22 2 15 22 11 13 2 9 22 2">
-																</polygon>
-															</svg>
-															Contact Us 
-														</strong>
-													</button>
-												</div>
-											</div>
-										</fieldset>
-									</form>
-								</cfoutput>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+                </div>
+              </fieldset>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<br>
 		<div class="row padded alt-back vago4">
 			<div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
 				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24"
@@ -310,7 +266,7 @@
 				</div>
 			</div>
 		</div>
-		
+		<br>
 		<div class="row padded alt-back2">
 			<div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
 				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24"
