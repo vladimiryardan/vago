@@ -294,13 +294,10 @@
 									<form method="get" style="background-color: transparent;">
 										<fieldset>
 											<div class="input-group fluid" id="inputGroup">
-												<input type="email" action="" name="email" id="Email"
-												       placeholder="E-mail">
+												<input type="email" action="" name="email" id="Email" placeholder="E-mail">
 												<button type="submit" class="inverse">
 													<strong>
-														<a href="#" style="color:white";>
-        				                           Send 
-        				                       </a>
+														<a href="#" style="color:white";>Send</a>
 													</strong>
 												</button>
 											</div>
