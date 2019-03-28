@@ -119,7 +119,7 @@
             <br>
             We have <strong>LEAD GENERATORS</strong> that have mastered how to work on this global platform, both successfully 
             and efficiently! Whether you are busy in an important business meeting, or even out traveling the
-            world <strong>YOUR LEAD GENERATION IS WORKING!</strong> </p>
+            world, <strong>YOUR LEAD GENERATION IS WORKING!</strong> </p>
         </div>
       </div>
       <div class="col-lg-5" id="landingRequest">
