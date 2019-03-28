@@ -142,23 +142,25 @@
 	                    <input type="text" name="lastname" id="lastname" placeholder="Last Name">
 	                  </div>
 	                  <div class="col-sm-12 col-md-12">
-	                    <input class="depth" type="text" id="businessName" name="businessname" placeholder="Business Name">
+	                    <input class="depth" type="text" id="leademl" name="leademl" placeholder="Email">
 	                  </div>
 	                  <div class="col-sm-12 col-md-12">
 	                    <input class="depth" type="text" name="phonenumber" placeholder="Phone Number" onkeypress="return isNumberKey(event)">
 	                  </div>
 	                  <br><br>
 	                  
-	                  <input type="hidden" name="userip" value="#real_ipaddress#">
-	
+	                  	<input type="hidden" name="userip" value="#real_ipaddress#">
+						<input type="hidden" name="submitted" value="1">
+							
 	                 <div class="col-sm-12 col-md-12">
 	                  <button type="submit" class="inverse btn2">
-	                  <strong> <a href="https://virtualassistantgo.com/ga/landingPageRequestQuote.cfm" style="color:white" ;="">
+	                  <strong> 
+	                  	
 	                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-send">
 	                    <line x1="22" y1="2" x2="11" y2="13"></line>
 	                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
 	                  </svg>
-	                  &nbsp;Contact Us </a> </strong>
+	                  &nbsp;Contact Us </strong>
 	                  </button>
 						</div>
 	                </div>
@@ -249,14 +251,15 @@
                                     	<form method="post" action="#cgi.script_name#" style="background-color: transparent;">
 											<fieldset>
 												<div class="input-group fluid" id="inputGroup">
-													<input type="email" action="" name="email" id="Email" placeholder="E-mail" required="required">
+													<input type="email"  action="" name="email" id="Email" placeholder="E-mail" required="required">
 													<button type="submit" class="inverse">
 														<strong>
-															<a href="##" style="color:white";>Send</a>
+															Send
 														</strong>
 													</button>
 												</div>
 											</fieldset>
+											<input type="hidden" name="credit" value="1">
 											<input type="hidden" name="userip" value="#real_ipaddress#">
 										</form>
                                     </cfoutput>
