@@ -243,13 +243,57 @@
     		</div>
     	</div>
 		
-		<div class="row padded alt-back2">
+    	<div class="row padded primary-section" id="credit" 
+    	     style="padding-top:50px; padding-bottom:50px;">
+    		<div class="col-sm-8 col-sm-offset-2">
+    			<div class="row">
+    				<div class="col-lg-7">
+    					<div class="container">
+    						<h1 class="claim" id="claim">
+    							<strong>
+    								CLAIM YOUR $500 CREDITS NOW!
+    							</strong>
+    						</h1>
+    					</div>
+    				</div>
+    				<div class="col-lg-5">
+    					<div class="container vago4">
+    						<div class="details" id="details" style="background-color:rgb(24,24,24,.6)">
+    							<p style="color:white;">
+    								<form method="get" style="background-color: transparent;">
+    									<fieldset>
+    										<div class="input-group fluid" id="inputGroup">
+    											<input type="email" action="" name="email" id="Email"
+    											       placeholder="E-mail">
+    											<button type="submit" class="inverse">
+    												<strong>
+    													<a href="#" style="color:white";>
+        				                           Send 
+        				                       </a>
+    												</strong>
+    											</button>
+    										</div>
+    									</fieldset>
+    								</form>
+    							</p>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+
+
+<div class="row padded alt-back2">
   <div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-user-check trending-up">
       <path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
       <circle cx="8.5" cy="7" r="4"></circle>
       <polyline points="17 11 19 13 23 9"></polyline>
     </svg>
+  	<script>
+  		feather.replace()
+  	</script>
 
     <h2 class="feature-header"> <b>It's like you just hired a whole office itself!</b> </h2>
     <br>
