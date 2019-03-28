@@ -34,13 +34,11 @@
 	  <p class="splash" style="font-size:19px;"> Generate leads of high-quality
 	    with our <br>
 	    <strong>LEAD GENERATION!</strong> </p>
-	  <a class="button splash2 num" href="#">
-	  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-phone phone">
+	  <a class="button splash2" href="#">	  
 	    <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
-	  </svg>
-	  &nbsp;Call us: (442) 237-6035 </a> 
+	  <strong>Call us: (442) 237-6035</strong> </a> 
 	<a class="button splash" href="#landingRequest"> 
-		Get started 
+		Get Started 
 	</a> 
 </div>
 <div class="row">
@@ -66,7 +64,7 @@
                 online journey just  fill in the form</span> 
             </div>
             <div class="divider2"></div>
-            <form method="get" action="landingPageRequestQuote.cfm" style="background-color: transparent;">
+            <form method="get" action="successLG.cfm" style="background-color: transparent;">
               <fieldset>
                 <div class="row">
                   <div class="col-sm-12 col-md-6">
@@ -112,6 +110,7 @@
     </div>
   </div>
 </div>
+<br>
     	<div class="row padded alt-back vago4">
     		<div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
     			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24"
@@ -167,67 +166,98 @@
     			</p>
     		</div>
     	</div>
-		
-		<div class="row padded alt-back2">
+
+<div class="row padded primary-section" id="credit" style="padding-top:50px; padding-bottom:50px;">
+        		<div class="col-sm-8 col-sm-offset-2">
+        			<div class="row">
+        				<div class="col-lg-7">
+        					<div class="container">
+        						<h1 class="claim" id="claim">
+        							<strong>CLAIM YOUR $500 CREDITS NOW!</strong>
+        						</h1>
+        					</div>
+        				</div>
+        				<div class="col-lg-5">
+        				  <div class="container vago4">
+        				    <div class="details" id="details" style="background-color:rgb(24,24,24,.6)">
+        				      <p style="color:white;"> 
+        				      <form method="get" style="background-color: transparent;">
+        				        <fieldset>
+        				            <div class="input-group fluid" id="inputGroup">
+        				                <input type="email" action="" name="email" id="Email" placeholder="E-mail">
+        				                <button type="submit" class="inverse">
+        				                    <strong>
+        				                        <a href="#" style="color:white";>
+        				                           Send 
+        				                       </a>
+        				                    </strong>
+        				                </button>
+        				            </div>
+        				        </fieldset>
+        				      </form>
+        				      </p>
+        				    </div>
+        				  </div>
+        				</div>
+        			</div>
+        		</div>
+        	</div>
+
+
+<div class="row padded alt-back2">
   <div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-user-check trending-up">
       <path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
       <circle cx="8.5" cy="7" r="4"></circle>
       <polyline points="17 11 19 13 23 9"></polyline>
     </svg>
-    <script>
-  						feather.replace()
-					</script>
-    <h2 class="feature-header"> <b>It's like you just hired a whole office itself!</b> </h2>
+  	<script>
+  		feather.replace()
+  	</script>
+					
+		
+					
+					
+    <h2 class="feature-header"> <strong>IT'S LIKE YOU JUST HIRED A WHOLE OFFICE ITSELF!</strong> </h2>
     <br>
-    <p> <strong>YOUR LEAD GENERATOR</strong> is equipped with the best tools to perfectly execute and accomplish any
-      given task. All of our Virtual Assistants work in an office in the Philippines, where they are properly
-      managed to provide the best results! </p>
+  	<p>
+  		Most virtual assistants are either home-based, or self-employed. But not us. Our virtual 
+  		assistants get to take advantage of our office' amenities and resources. We are working in a 
+  		very professional environment, equipped with top of the line technology and facilities. Imagine 
+  		yourself not just with a virtual assistant, but with a fully functioning, and tailor made 
+  		virtual office just for you! 
+  	</p>
   </div>
 </div>
+<br><br>
 		<div class="row padded primary-section">
   <div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
-    <h1 class="feature-header"> <b>Get started now!</b> </h1>
+    <h1 class="feature-header"> <strong>GET STARTED NOW!</strong> </h1>
     <br>
-    <h3> <b><i>"With a little provided product knowledge coming from you, your Virtual Assistant will definitely 
-      help you INCREASE YOUR PRODUCTIVITY and turn those leads into INCOME!"</i></b> </h3>
-    <p style="text-align:center;"> <a href="#landingRequest" class="button"> Get started </a> </p>
+    <h3> <strong><i>"With a little provided product knowledge coming from you, your Virtual Assistant will definitely 
+      help you INCREASE YOUR PRODUCTIVITY and turn those leads into INCOME!"</i></strong> </h3>
+    <p style="text-align:center;"> <a href="#landingRequest" class="button"> Get Started </a> </p>
   </div>
 </div>
     	<footer>
     		<div class="row">
-  <div class="col-sm-8 col-sm-offset-2">
-    <div class="row">
-      <div class="col-lg-7">
-        <div class="container vago2">
-          <p>Get in touch with someone right now, call us at +1 (442) 237-6035 </p>
-        </div>
-      </div>
-      <div class="col-lg-5">
-        <div class="container vago4">
-          <div class="details">
-            <p style="color:white;"> Claim your $500 credits Coupon <b>NOW!</b>
-            <form method="get" style="background-color: transparent;">
-              <fieldset>
-              	<div class="input-group fluid">
-              		<input type="email" action="" name="email" id="Email" placeholder="E-mail">
-              		<button type="submit" class="inverse">
-              			<strong>
-              				<a href="#" style="color:white";>
-         						Send 
-         					</a>
-              			</strong>
-              		</button>
-              	</div>
-              </fieldset>
-            </form>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+    			<div class="col-sm-8 col-sm-offset-2">
+    				<div class="row">
+    				
+    					<div class="container vago2">
+    						<p>
+    							<strong>
+    								Get in touch with someone right now, Call Us at 
+    								<a class="telNum" href="tel:+14422376035" style="color:#383838;">+1 (442) 237-6035</a> 
+    							</strong>
+    							<script>
+    								feather.replace()
+    							</script>
+    						</p>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
     	</footer>
 	</body>
 </html>

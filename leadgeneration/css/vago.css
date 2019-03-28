@@ -19,6 +19,59 @@
 }
 }
 
+.claim{
+	margin-top:27px;
+	font-size:30px;
+}
+
+.claim h1{
+	font-size:24px;
+	width:100%;
+}
+
+@media screen and (min-width: 813px) and (max-width: 1000px){
+	#claim{
+	font-size:28px;
+	width:100%;
+}
+}
+
+@media screen and (min-width: 0px) and (max-width: 813px){
+	#claim{
+	font-size:26px;
+	width:100%;
+}
+}
+
+
+
+
+#credit{
+	margin-top:10px;	
+}
+
+@media screen and (min-width: 0px) and (max-width: 430px){
+	#credit{
+		margin-top:90px;
+	}
+}
+@media screen and (min-width: 1250px) and (max-width: 1360px){
+#inputGroup{
+	padding:0 0 0 5px;
+	}
+}
+
+@media screen and (min-width: 974px) and (max-width: 1280px){
+	#details{
+	margin-left:120px;
+	}
+}
+
+@media screen and (min-width: 900px) and (max-width: 3000px){
+.row.padded{
+    padding-bottom:0px
+}
+}
 .vago p.splash  {
 	color: azure !important;
 	font-weight: 300;
@@ -148,3 +201,4 @@
 .lead2 {
 	padding: 15px 20px;
 }
+
