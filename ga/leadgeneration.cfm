@@ -136,13 +136,13 @@
 	              <fieldset>
 	                <div class="row">
 	                  <div class="col-sm-12 col-md-6">
-	                    <input type="text" name="firstname" id="firstName" placeholder="First Name">
+	                    <input type="text" name="firstname" id="firstName" placeholder="First Name" class="depth" required="required">
 	                  </div>
 	                  <div class="col-sm-12 col-md-6">
 	                    <input type="text" name="lastname" id="lastname" placeholder="Last Name">
 	                  </div>
 	                  <div class="col-sm-12 col-md-12">
-	                    <input class="depth" type="text" id="leademl" name="leademl" placeholder="Email">
+	                    <input class="depth" type="email" id="leademl" name="leademl" placeholder="Email" required="required">
 	                  </div>
 	                  <div class="col-sm-12 col-md-12">
 	                    <input class="depth" type="text" name="phonenumber" placeholder="Phone Number" onkeypress="return isNumberKey(event)">
@@ -251,7 +251,7 @@
                                     	<form method="post" action="#cgi.script_name#" style="background-color: transparent;">
 											<fieldset>
 												<div class="input-group fluid" id="inputGroup">
-													<input type="email"  action="" name="email" id="Email" placeholder="E-mail" required="required">
+													<input type="email"  name="email" id="Email" placeholder="E-mail" class="depth" required="required">
 													<button type="submit" class="inverse">
 														<strong>
 															Send
