@@ -97,8 +97,8 @@
 	  <h1 class="splash" id="lg"> Lead Generation </h1>
 	  <h1 class="splash" id="valg"> Virtual Assistant for Lead Generation</h1>
 	  <p class="splash" style="font-size:19px;"> Generate leads of high-quality
-	    with our <br>
-	    <strong>LEAD GENERATION!</strong> </p>
+	    with A+ <br>
+	    <strong>Virtual Assistant</strong> </p>
 	  <a class="button splash2" href="tel:+4422376035">	  
 	    <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
 	  <strong>Call us: (442) 237-6035</strong> </a> 
@@ -119,7 +119,7 @@
             <br>
             We have <strong>LEAD GENERATORS</strong> that have mastered how to work on this global platform, both successfully 
             and efficiently! Whether you are busy in an important business meeting, or even out traveling the
-            world with your family, and without internet access, <strong>YOUR LEAD GENERATION IS WORKING!</strong> </p>
+            world <strong>YOUR LEAD GENERATION IS WORKING!</strong> </p>
         </div>
       </div>
       <div class="col-lg-5" id="landingRequest">
@@ -313,7 +313,7 @@
     					<div class="container vago2">
     						<p>
     							<strong>
-    								Get in touch with someone right now, Call Us at 
+    								Get in touch with someone right now, Call Us  
     								<a class="telNum" href="tel:+14422376035" style="color:#383838;">+1 (442) 237-6035</a> 
     							</strong>
     						</p>
