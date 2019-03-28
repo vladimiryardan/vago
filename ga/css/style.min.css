@@ -18,7 +18,7 @@ html{
     font-size:16px
 }
 a,b,del,em,i,ins,q,span,strong,u{
-    font-size:1em
+    font-size:1.1em
 }
 html,*{
     font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Helvetica, sans-serif;
@@ -26,7 +26,7 @@ html,*{
     -webkit-text-size-adjust:100%
 }
 *{
-    font-size:1rem
+    font-size:1.1rem
 }
 body{
     margin:0;
@@ -85,8 +85,11 @@ ol,ul{
     margin:var(--universal-margin);
     padding-left:calc(2 * var(--universal-margin))
 }
-b,strong{
+strong{
     font-weight:700
+}
+b{
+	font-weight:900
 }
 hr{
     box-sizing:content-box;
@@ -623,7 +626,8 @@ label{
 .input-group.fluid{
     display:flex;
     align-items:center;
-    justify-content:center
+    justify-content:center;
+    padding: 2px 10px 2px 2px;
 }
 .input-group.fluid>input{
     max-width:100%;
@@ -1766,7 +1770,7 @@ code:not(.doc),kbd:not(.doc),pre:not(.doc),samp:not(.doc){
 }
 .index-splash{
     width:100%;
-    height:100vh
+    height:70vh
 }
 .index-splash-image{
     background-image:url("../images/lp_1920x900.jpg");
@@ -1785,12 +1789,27 @@ h1.splash{
     margin:0;
     width:100%;
     text-align:center;
-    height:100%;
+    height:85%;
     line-height:60vh;
     font-size:3rem;
     font-weight:400;
     color:#3183d7;
 }
+
+@media only screen and (max-width: 480px){
+h1.splash{
+    position:absolute;
+    margin:0;
+    width:100%;
+    text-align:center;
+    height:100%;
+    line-height:60vh;
+    font-size:1.5rem;
+    font-weight:400;
+    color:#3183d7;
+}
+}
+
 h1.splash small{
     display:initial;
     font-size:0.5em;
@@ -1829,18 +1848,67 @@ a.button.splash:hover{
     color:#f8f8f8;
     border-color:black;
 }
+
+@media only screen and (min-width: 480px){
+	a.button.splash{
+        width:20vw;
+        left:35vw
+    }
+}
+
 @media screen and (min-width: 768px){
     a.button.splash{
-        width:30vw;
+        width:20vw;
         left:35vw
     }
 }
 @media screen and (min-width: 1280px){
     a.button.splash{
-        width:25vw;
-        left:37.5vw
+        width:20vw;
+        left:38vw
     }
 }
+
+a.button.splash2{
+    position:absolute;
+    top:0;
+    width:100%;
+    right:0;
+    text-align:center;
+    font-size:1.21rem;
+    border-color:black;
+    background:transparent;
+    transition:all 0.3s;
+    color:white;
+}
+a.button.splash2:hover{
+    background:rgba(255,255,255,0.35);
+    color:white;
+    border-color:black;
+}
+
+@media screen and (min-width: 0px) and (max-width: 780px){
+	a.button.splash2{
+        width:35vw;
+        right:0vw important!;         
+    } 
+}
+
+@media screen and (min-width: 780px) and (max-width: 1235px){
+	a.button.splash2{
+        width:20vw;
+        right:0vw important!;         
+    } 
+}
+
+@media screen and (min-width: 1235px) and (max-width: 3000px){
+	a.button.splash2{
+        width:15vw;
+        right:0vw important!;         
+    }   
+}
+
+
 #version-info{
    position:absolute;
     top:0;
@@ -1848,7 +1916,7 @@ a.button.splash:hover{
     padding:2px 6px;
     border-radius:4px;
     color:white;
-    right:0;
+    left:0;
     font-weight:500
 }
 .row.padded{
@@ -1867,6 +1935,13 @@ a.button.splash:hover{
 .feature-header{
     text-align:center;
     margin-left:0
+}
+@media screen and (max-width: 768px){
+	.feature-header{
+		 text-align:center;
+    	 margin-left:0;
+		 font-size: x-large;
+		}
 }
 .alt-back{
     background:#f3f3f3
@@ -1887,10 +1962,10 @@ a.button.splash:hover{
     text-align:center
 }
 .primary-section a.button{
-    background:transparent;
+    background:rgba(58,58,58,0.60);
     border:1px solid #fff;
-    border-radius:4px;
-    padding:4px 8px;
+    border-radius:14px;
+    padding:10px 14px;
     color:#fff;
     font-size:1.25rem;
     display:inline-block;
@@ -2239,9 +2314,29 @@ a#feather-banner svg{
 		width:30%;
 		margin:50px auto 20px;
 	}
-.trending-up {
+.monitor {
 	display:block;
-		height:30%; 
-		width:40%;
+		height:25%; 
+		width:36%;
 		margin: 50px auto 20px;
 	} 
+	
+.phone {
+	
+		height:6%; 
+		width:6%;
+		
+}
+
+.vagoLogo{
+		position:absolute; 
+		left:45%; 
+		top:50px;	
+}
+
+@media screen and (max-width: 1240px){
+.vagoLogo{
+	display:none;
+	
+}
+}
