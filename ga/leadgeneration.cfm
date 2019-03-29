@@ -85,9 +85,21 @@
 		<meta property="og:url" content="https://virtualassistantgo.com">
 		<link rel="icon" type="image/png" href="../images/favicon.png">
 		<!---mini css feather icons --->
-		<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js">
+		<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
 
+		<!-- Hotjar Tracking Code for virtualassistantgo.com -->
+		<script>
+		    (function(h,o,t,j,a,r){
+		        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+		        h._hjSettings={hjid:1261042,hjsv:6};
+		        a=o.getElementsByTagName('head')[0];
+		        r=o.createElement('script');r.async=1;
+		        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+		        a.appendChild(r);
+		    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 		</script>
+
+		
 	</head>
 	<body cz-shortcut-listen="true">
 	
