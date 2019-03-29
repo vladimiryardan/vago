@@ -298,7 +298,7 @@
 <br><br>
 		<div class="row padded primary-section">
   <div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
-    <h1 class="feature-header"> <strong>GET STARTED NOW!</strong> </h1>
+    <h1 class="feature-header" id="featureHeader"> <strong>GET STARTED NOW!</strong> </h1>
     <br>
     <h3> <strong><i>"With a little provided product knowledge coming from you, your Virtual Assistant will definitely 
       help you INCREASE YOUR PRODUCTIVITY and turn those leads into INCOME!"</i></strong> </h3>

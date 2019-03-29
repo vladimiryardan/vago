@@ -22,6 +22,7 @@
 .claim{
 	margin-top:27px;
 	font-size:30px;
+	text-shadow:2px 2px 8px #080808;
 }
 
 .claim h1{
@@ -72,6 +73,12 @@
     padding-bottom:0px
 }
 }
+
+#featureHeader{
+	 text-shadow: 2px 2px 4px #000000;
+}
+
+
 .vago p.splash  {
 	color: azure !important;
 	font-weight: 300;
@@ -202,7 +209,6 @@
 	padding: 15px 20px;
 }
 
-/* input required override */
-input:focus:required:invalid {border: 2px solid red;}
-input:required:valid { border: 2px solid black; }
-input.depth{border: inherit}/*override the default red border onload*/
+.successForm {
+	background-color: transparent;
+}
