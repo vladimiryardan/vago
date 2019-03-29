@@ -5,12 +5,32 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-gb" class="no-js"> <!--<![endif]-->--->
 
 <head>
-	<title>Virtual Assistant Go</title>
+
+		<title>
+			Virtual Assistant Go | Virtual Assistant for Lead Generation, B2B telemarketing company
+		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" 
+		      content="Experienced Virtual Assistant for Lead Generation, B2B telemarketing company, Customer Service,  Social Media, Lead Generation, B2B Lead generation service">
+		<meta name="keywords" 
+		      content="Virtual Assistant Lead Generation, Small business lead generation, B2B telemarketing company, Customer Service, Inbound and Outbound Lead Generation Service, B2B Lead Generation">
+		<meta name="author" content="Virtual Assistant Go">
+		
+		<meta property="og:title" 
+		      content="Virtual Assistant Go | Virtual Assistant for Lead Generation, B2B telemarketing company">
+		<meta property="og:description" 
+		      content="Experienced Virtual Assistant for Lead Generation, B2B telemarketing company, Customer Service,  Social Media, Lead Generation, B2B Lead generation service">
+		<meta property="og:type" content="website">
+		<meta property="og:image" content="page_thumb.png">
+		<meta property="og:url" content="https://virtualassistantgo.com">
+			
+
+
 	
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<meta name="keywords" content="Virtual Assistant" />
-	<meta name="description" content="Virtual Assistant" />
+	
+	
     <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
     
     <!-- Favicon --> 
