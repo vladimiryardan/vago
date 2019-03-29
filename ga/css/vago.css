@@ -212,3 +212,9 @@
 .successForm {
 	background-color: transparent;
 }
+
+
+/* input required override */
+input:focus:required:invalid {border: 2px solid red;}
+input:required:valid { border: 2px solid black; }
+input.depth{border: inherit}/*override the default red border onload*/
