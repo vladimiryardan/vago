@@ -23,6 +23,8 @@
 	margin-top:27px;
 	font-size:30px;
 	text-shadow:2px 2px 8px #080808;
+	transform: scale(1.00, 2.00);
+	padding-bottom: 25px;
 }
 
 .claim h1{
@@ -64,7 +66,13 @@
 
 @media screen and (min-width: 974px) and (max-width: 1280px){
 	#details{
-	margin-left:120px;
+	margin-left:70px;
+	}
+}
+
+@media screen and (min-width: 560px) and (max-width: 974px){
+	#details{
+	margin-left:70px;
 	}
 }
 
@@ -85,7 +93,7 @@
 	font-size: 20px !important;
 }
 .vago .index-splash-image {
-    background-image: url(../images/splash.jpg);
+    background-image: url(../images/splash3.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
