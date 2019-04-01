@@ -103,14 +103,15 @@
 	</head>
 	<body cz-shortcut-listen="true">
 	
-		<div class="index-splash vago">
+<div class="index-splash vago">
 	  <div class="index-splash-image no-filter"> </div>
 	  <div class="index-splash-image"> </div>
 	  <h1 class="splash" id="lg"> Lead Generation </h1>
 	  <h1 class="splash" id="valg"> Virtual Assistant for Lead Generation</h1>
 	  <p class="splash" style="font-size:19px;"> Generate leads of high-quality
 	    with A+ <br>
-	    <strong>Virtual Assistant</strong> </p>
+	    <strong>Virtual Assistant</strong> 
+	  </p>
 	  <a class="button splash2 num" href="tel:+4422376035" style="min-width: 300px">	  
 	     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-phone phone">
     <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
@@ -121,7 +122,7 @@
 	</a> 
 </div>
 		
-		<div class="row">
+<div class="row">
   <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
     <div class="row">
       <div class="col-lg-7">
@@ -307,18 +308,18 @@
   		yourself not just with a virtual assistant, but with a fully functioning, and tailor made 
   		virtual office just for you! 
   	</p>
-  </div>
-</div>
+		  </div>
+		</div>
 <br><br>
 		<div class="row padded primary-section">
-  <div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
-    <h1 class="feature-header" id="featureHeader"> <strong>GET STARTED NOW!</strong> </h1>
-    <br>
-    <h3> <strong><i>"With a little provided product knowledge coming from you, your Virtual Assistant will definitely 
-      help you INCREASE YOUR PRODUCTIVITY and turn those leads into INCOME!"</i></strong> </h3>
-    <p style="text-align:center;"> <a href="#landingRequest" class="button"> Get Started </a> </p>
-  </div>
-</div>
+		  <div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
+		    <h1 class="feature-header" id="featureHeader"> <strong>GET STARTED NOW!</strong> </h1>
+		    <br>
+		    <h3> <strong><i>"With a little provided product knowledge coming from you, your Virtual Assistant will definitely 
+		      help you INCREASE YOUR PRODUCTIVITY and turn those leads into INCOME!"</i></strong> </h3>
+		    <p style="text-align:center;"> <a href="#landingRequest" class="button"> Get Started </a> </p>
+		  </div>
+		</div>
     	<footer>
     		<div class="row">
     			<div class="col-sm-8 col-sm-offset-2">
