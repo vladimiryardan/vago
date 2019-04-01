@@ -170,7 +170,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<a href="LearnMore.cfm" class="page-scroll">WHY US</a>
 			</li>  
  	        <li class="yamm-fw">
-	        	<a href="whatWeDo.cfm">WHAT WE DO</a>
+	        	<a href="whatWeDo.cfm">SERVICES</a>
 			</li>
         	<li class="yamm-fw">
 		         <a href="blogList.cfm">BLOG</a> 
