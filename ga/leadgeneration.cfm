@@ -150,10 +150,10 @@
 	              <fieldset>
 	                <div class="row">
 	                  <div class="col-sm-12 col-md-6">
-	                    <input type="text" name="firstname" id="firstName" placeholder="First Name" class="depth" required="required" maxlength="20" onkeypress="return (event.charCode > 64 && event.charCode < 91) || (event.charCode > 96 && event.charCode < 123)">
+	                    <input type="text" name="firstname" id="firstName" placeholder="First Name" class="depth" required="required" maxlength="20">
 	                  </div>
 	                  <div class="col-sm-12 col-md-6">
-	                    <input type="text" name="lastname" id="lastname" placeholder="Last Name" maxlength="20" onkeypress="return (event.charCode > 64 && event.charCode < 91) || (event.charCode > 96 && event.charCode < 123)">
+	                    <input type="text" name="lastname" id="lastname" placeholder="Last Name" maxlength="20">
 	                  </div>
 	                  <div class="col-sm-12 col-md-12">
 	                    <input class="depth" type="email" id="leademl" name="leademl" placeholder="Email" required="required" maxlength="50"> 
