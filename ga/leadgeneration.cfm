@@ -33,7 +33,7 @@
 	</cfquery>
 
 	<!--- send mail --->
-	<cflocation url="successLG.cfm" addtoken="false">
+	<cflocation url="../registerSuccess.cfm" addtoken="false">
 </cfif>
 
 <!--- 500 credit handler --->
@@ -150,16 +150,16 @@
 	              <fieldset>
 	                <div class="row">
 	                  <div class="col-sm-12 col-md-6">
-	                    <input type="text" name="firstname" id="firstName" placeholder="First Name" class="depth" required="required">
+	                    <input type="text" name="firstname" id="firstName" placeholder="First Name" class="depth" required="required" maxlength="20" onkeypress="return (event.charCode > 64 && event.charCode < 91) || (event.charCode > 96 && event.charCode < 123)">
 	                  </div>
 	                  <div class="col-sm-12 col-md-6">
-	                    <input type="text" name="lastname" id="lastname" placeholder="Last Name">
+	                    <input type="text" name="lastname" id="lastname" placeholder="Last Name" maxlength="20" onkeypress="return (event.charCode > 64 && event.charCode < 91) || (event.charCode > 96 && event.charCode < 123)">
 	                  </div>
 	                  <div class="col-sm-12 col-md-12">
-	                    <input class="depth" type="email" id="leademl" name="leademl" placeholder="Email" required="required">
+	                    <input class="depth" type="email" id="leademl" name="leademl" placeholder="Email" required="required" maxlength="50"> 
 	                  </div>
 	                  <div class="col-sm-12 col-md-12">
-	                    <input class="depth" type="text" name="phonenumber" placeholder="Phone Number" onkeypress="return isNumberKey(event)">
+	                    <input class="depth" type="text" name="phonenumber" placeholder="Phone Number" onkeypress="return isNumberKey(event)" maxlength="20" >
 	                  </div>
 	                  <br><br>
 	                  
