@@ -85,7 +85,7 @@
 		<meta property="og:url" content="https://virtualassistantgo.com">
 		<link rel="icon" type="image/png" href="../images/favicon.png">
 		<!---mini css feather icons --->
-		<script src="./css/feather.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
 
 		<!-- Hotjar Tracking Code for virtualassistantgo.com -->
 		<script>
