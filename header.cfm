@@ -172,13 +172,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  	        <li class="yamm-fw">
 	        	<a href="whatWeDo.cfm">WHAT WE DO</a>
 			</li>
-        	    <li class="dropdown"><a href="blogList.cfm" data-toggle="dropdown" class="dropdown-toggle">BLOG</a>
-		            <ul class="dropdown-menu stwo multilevel" role="menu">
-		                <li><a href="blogList.cfm">BLOG</a></li>
-		                <li><a href="News.cfm">NEWS</a></li>
-		                
-		            </ul>
-        		</li>
+        	<li class="yamm-fw">
+		         <a href="blogList.cfm">BLOG</a> 
+        	</li>
         	<li>
         		<a href="FAQ.cfm" class="page-scroll">FAQ</a>
         	</li>
