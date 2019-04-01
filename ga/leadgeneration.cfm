@@ -56,7 +56,7 @@
 	</cfquery>
 
 	<!--- send mail --->
-	<cflocation url="successLG.cfm" addtoken="false">
+	<cflocation url="../registerSuccess.cfm" addtoken="false">
 </cfif>
 
 <!DOCTYPE html>
