@@ -83,6 +83,8 @@
 		<meta property="og:type" content="website">
 		<meta property="og:image" content="page_thumb.png">
 		<meta property="og:url" content="https://virtualassistantgo.com">
+		<meta property="robots" content="noindex, follow"/>
+			
 		<link rel="icon" type="image/png" href="../images/favicon.png">
 		<!---mini css feather icons --->
 		<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
