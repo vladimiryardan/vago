@@ -120,7 +120,7 @@
 					
 						</cfif>
 				<cflocation url="#cgi.script_NAME#?mode=finish" addtoken="false" >
-		</cfif>--->
+		</cfif>
 		
 
 
