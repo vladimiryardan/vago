@@ -47,15 +47,9 @@
 	<cftry>
     	<!--- send an email to the admin --->
 		<cfmail 
-				from="#application.mail#" 
+				from="#application.mail.user#" 
 				subject="#form.subject#" 
-				to="#application.mail#"
-			
-					port="587"
-					server="smtp.sendgrid.net"
-					username="#_vars.sendgrid.user#"
-					password="#_vars.sendgrid.key#"
-	
+				to="#application.mail.user#"
 				usetls="true" 
 				type="html">
 				
@@ -71,14 +65,14 @@
 	<!--- send a copy to the client --->
 	<cftry>
     	<cfmail 
-			from="#application.mail#" 
+			from="#application.mail.user#" 
 			subject="We got your message for VirtualAssistantGo.com" 
 			to="#form.email#"
-			port="587"
+<!---		port="587"
 			server="smtp.sendgrid.net"
 			username="#_vars.sendgrid.user#"
 			password="#_vars.sendgrid.key#"
-			usetls="true"
+			usetls="true"--->
 			type="html">
 			
 				We are checking your message. Thank you!<br>

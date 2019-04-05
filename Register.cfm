@@ -54,7 +54,13 @@
 <!---##########CSS ENDS########## --->
 
 
-
+<!---landingPageRequestQuote.cfm--->
+<cfif CGI.HTTP_X_Forwarded_For EQ "">
+	<!--- Checking proxy address --->
+	<cfset real_ipaddress = CGI.REMOTE_ADDR>
+<cfelse>
+	<cfset real_ipaddress = CGI.HTTP_X_Forwarded_For>
+</cfif>
 
 
 <cfif mode is "sendmail" >
@@ -79,13 +85,14 @@
 		<!--- insert name if not existing --->
 		<cfquery>
 			INSERT INTO users
-			( fullname, email, phone, company,username)
+			( fullname, email, phone, company,username,userip)
 			VALUES
 			(<cfqueryparam value="#form.fullname#" cfsqltype="cf_sql_varchar"/>
 			,<cfqueryparam value="#form.email#" cfsqltype="cf_sql_varchar"/>
 			,<cfqueryparam value="#form.phone#" cfsqltype="cf_sql_varchar"/>
 			,<cfqueryparam value="#form.company#" cfsqltype="cf_sql_varchar"/>
 			,<cfqueryparam value="#form.email#" cfsqltype="cf_sql_varchar"/>
+			,<cfqueryparam value="#real_ipaddress#" cfsqltype="cf_sql_varchar"/>
 			)
 		</cfquery>
 		
@@ -94,14 +101,10 @@
 		<cftry>
 				<!--- send to admin --->
 				<cfmail 
-					from="#application.mail#" 
+					from="#application.mail.user#" 
 					subject="New Registration from VirtualAssistantGo.com" 
 					to="#form.email#"
-					port="587"
-					server="smtp.sendgrid.net"
-					username="#_vars.sendgrid.user#"
-					password="#_vars.sendgrid.key#"
-					usetls="true"
+					bcc="vladimiryardan@gmail.com"					
 					type="html">
 					
 					New Registration<br>
