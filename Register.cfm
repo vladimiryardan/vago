@@ -104,7 +104,6 @@
 					from="#application.mail.user#" 
 					subject="New Registration from VirtualAssistantGo.com" 
 					to="#form.email#"
-					bcc="vladimiryardan@gmail.com"					
 					type="html">
 					
 					New Registration<br>

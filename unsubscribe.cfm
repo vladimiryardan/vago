@@ -110,7 +110,7 @@
 							<!--- insert name if not existing --->
 							<cfquery>
 								INSERT INTO unsubscribe 
-								(  email) 
+								(email) 
 								VALUES
 								(
 									<cfqueryparam value="#form.email#" cfsqltype="cf_sql_varchar" />
