@@ -101,7 +101,58 @@
 		    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 		</script>
 
+		<!---
+			for Conversion tracking 
+		<!-- Global site tag (gtag.js) - Google Ads: 1034368472 -->
+		--->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1034368472"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
 		
+		  gtag('config', 'AW-1034368472');
+		</script>
+
+		<!---
+		<!-- 
+		Event snippet for User enter email conversion page
+		In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. 
+		-->
+		--->
+		<script>
+		function gtag_report_conversion(url) {
+		  var callback = function () {
+		    if (typeof(url) != 'undefined') {
+		      window.location = url;
+		    }
+		  };
+		  gtag('event', 'conversion', {
+		      'send_to': 'AW-1034368472/kPlBCN2QkZgBENjrnO0D',
+		      'event_callback': callback
+		  });
+		  return false;
+		}
+		</script>
+
+
+	<!--- tiledesk --->
+	<script type="application/javascript">
+	  window.tiledeskSettings = 
+	    {
+	      projectid: "5cae363ff7d1960017a94c09",
+	      logoChat: "nologo",
+	      wellcomeTitle: "Virtual Assistant Go 👋 ",
+	    };
+	    (function(d, s, id) {
+	      var js, fjs = d.getElementsByTagName(s)[0];
+	      if (d.getElementById(id)) return;
+	      js = d.createElement(s); js.id = id; //js.async=!0;
+	      js.src = "https://widget.tiledesk.com/v2/tiledesk.js";
+	      fjs.parentNode.insertBefore(js, fjs);
+	    }(document, 'script', 'tiledesk-jssdk'));
+	</script>
+				
 	</head>
 	<body cz-shortcut-listen="true">
 	
@@ -149,7 +200,7 @@
             <div class="divider2"></div>
             
            <cfoutput>
-           	 <form method="post" action="#cgi.script_name#" style="background-color: transparent;">
+           	 <form method="post" action="#cgi.script_name#" style="background-color: transparent;" onsubmit="gtag_report_conversion()">
 	              <fieldset>
 	                <div class="row">
 	                  <div class="col-sm-12 col-md-6">
@@ -265,7 +316,7 @@
 								<p style="color:white;">
 									
 									<cfoutput>
-                                    	<form method="post" action="#cgi.script_name#" style="background-color: transparent;">
+                                    	<form method="post" action="#cgi.script_name#" style="background-color: transparent;" onsubmit="gtag_report_conversion()">
 											<fieldset>
 												<div class="input-group fluid" id="inputGroup">
 													<input type="email"  name="email" id="Email" placeholder="E-mail" class="depth" required="required">
