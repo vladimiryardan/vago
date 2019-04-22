@@ -93,6 +93,13 @@
 	text-transform: capitalize;
 }
 
+.bInformation{
+	font-size:24px;
+	font-weight:300;
+	line-height: 30px;
+	
+}
+
 .salesForceFooter {
 	background-color:#081e29;
 }
@@ -150,7 +157,7 @@
 	font-weight: 800;
 }
 .vago2 strong {
-	font-weight: 600;
+	font-weight: 500;
 }
 .vago3 h1{
 	color:#FFFFFF;

@@ -103,39 +103,38 @@
 									How can we help you today? 
 								</b>
 							</h1>
-							<h3>
+							<h3 class="bInformation">
 								Fill in the form and we will get back to you 
 								<br>
 								in two working days
 							</h3>
-							<p>
+							<h2 class="fWeight">
 								<strong>
 									SALES ENQUIRIES 
 								</strong>
-							</p>
+							</h2>
                         	<p>
                         	If you are considering one of our products, fill in the form. If you need 
-                        	to get in touch with a sales person right now, call us at 800-1301-448 
-                        	(Singapore, 800-967-655 (Hong Kong), or +65 6302 5700 (International). 
-                        	<br>
-                        	<br>
-                        	<p>
+                        	to get in touch with a sales person right now, call us at +1 (442) 237-6035 
+                        	</p>
+                        	
+                        	<h2 class="fWeight">
 								<strong>
 									SUPPORT ENQUIRIES 
 								</strong>
-							</p>
+							</h2>
                         	<p>
                         		If you are a concerned customer, and would need immediate help, please 
                         		visit our Support Portal to find Frequently Asked Questions and Solutions 
                         		fast!
                         	</p>
-							<br>
+						
 							
-							<p>
+							<h2 class="fWeight">
 								<strong>
 									OTHER ENQUIRIES 
 								</strong>
-							</p>
+							</h2>
 							<ul>
 								<li>
 									If you're looking for opportunities to have a partnership with Salesforce.com, go right ahead and fill up the form available, and we'll get back to you as soon as possible.
