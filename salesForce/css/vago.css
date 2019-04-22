@@ -1,0 +1,245 @@
+@charset "utf-8";
+/* CSS Document */
+
+.vago {}
+.vago h1.splash  {
+	color: azure !important;
+	font-weight: 800;
+}
+
+@media screen and (min-width: 1000px) and (max-width: 3000px){
+	#lg{
+	display:none;
+}
+}
+
+@media screen and (min-width: 0px) and (max-width: 1000px) {
+	#valg{
+	display: none;
+}
+}
+
+.claim{
+	margin-top:27px;
+	font-size:30px;
+	text-shadow:2px 2px 8px #080808;
+	
+}
+
+.claim h1{
+	font-size:24px;
+	width:100%;
+}
+
+@media screen and (min-width: 813px) and (max-width: 1000px){
+	#claim{
+	font-size:28px;
+	width:100%;
+}
+}
+
+@media screen and (min-width: 0px) and (max-width: 813px){
+	#claim{
+	font-size:26px;
+	width:100%;
+}
+}
+
+
+
+
+#credit{
+	margin-top:10px;	
+}
+
+@media screen and (min-width: 0px) and (max-width: 430px){
+	#credit{
+		margin-top:90px;
+	}
+}
+@media screen and (min-width: 1250px) and (max-width: 1360px){
+#inputGroup{
+	padding:0 0 0 5px;
+	}
+}
+
+@media screen and (min-width: 974px) and (max-width: 1280px){
+	#details{
+	margin-left:70px;
+	}
+}
+
+@media screen and (min-width: 560px) and (max-width: 974px){
+	#details{
+	margin-left:70px;
+	}
+}
+
+@media screen and (min-width: 900px) and (max-width: 3000px){
+.row.padded{
+    padding-bottom:0px
+}
+}
+
+#featureHeader{
+	 text-shadow: 2px 2px 4px #000000;
+}
+
+#firstName {
+	text-transform: capitalize;
+}
+
+#lastname {
+	text-transform: capitalize;
+}
+
+.salesForceFooter {
+	background-color:#081e29;
+}
+
+.tArea {
+	width:100%;
+	border-radius:3px;
+}
+.vago p.splash  {
+	color: azure !important;
+	font-weight: 300;
+	font-size: 20px !important;
+}
+.vago .index-splash-image {
+    background-image: url(../images/salesForce.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+	filter: blur(2px);
+}
+
+.new_h {
+	height: 80vh !important;
+}
+.vago .num {
+	background-color: transparent !important;
+	cursor: pointer;
+	border: none;
+}
+.vago .num a {
+	color: #FFFFFF;
+}
+.vago .num a:hover {
+	color: #FFFFFF;
+	cursor: pointer;
+}
+.vago .num:hover {
+	background-color: transparent !important;
+	color: #FFFFFF !important;
+}
+.vago .button {
+	background-color: #3183d7 ;
+	border: none !important;
+	color: #FFFFFF;
+	border-radius: 15px;
+	padding: 12px;
+}
+.vago2 h1{
+	color:#3A3C41;
+	font-weight: 300;
+	line-height: 30px;
+}
+.vago2 h1 strong {
+	font-weight: 800;
+}
+.vago2 strong {
+	font-weight: 600;
+}
+.vago3 h1{
+	color:#FFFFFF;
+	font-weight: 200;
+	line-height: 30px;
+}
+.vago3 strong {
+	font-weight: 400;
+}
+.vago3 .details {
+	background-color: #00a1e0 ;
+	padding: 30px;
+}
+.vago3 .lead {
+	color: #FFFFFF;
+	font-weight: 500;
+	font-size: 18px;
+}
+.vago3 form {
+	padding: 0px !important;
+	border:none;
+	margin: 0px !important;
+}
+.vago3 fieldset {
+	 margin: 0px; padding: 0px; border: none;
+}
+.vago3 input {
+	width: 100%;
+}
+.vago4 h1{
+	color:#FFFFFF;
+	font-weight: 200;
+	line-height: 30px;
+}
+.vago4 strong {
+	font-weight: 400;
+}
+.vago4 .details {
+	background-color: #3183d7 ;
+	padding: 5px;
+	border-radius: 10px;
+	text-align:center;
+}
+.vago4 .lead {
+	color: #FFFFFF;
+	font-weight: 600;
+	font-size: 18px;
+}
+.vago4 form {
+	padding: 0px !important;
+	border:none;
+	margin: 0px !important;
+}
+.vago4 fieldset {
+	 margin: 0px; padding: 0px; border: none;
+}
+.vago4 input {
+	width: 100%;
+}
+.btn2{
+	width:100%;
+ 	margin-left:3px;
+}
+.vago .btn2 {
+	margin: 0px !important;
+	width: 100% !important;
+	font-size: 16px;
+}
+.vago4 h1{
+	color:#3A3C41;
+	font-weight: 400;
+	line-height: 24px;
+	font-size: 30px;
+}
+.divider2 {
+	border-top: 1px solid rgba(255,255,255,0.3);
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.lead2 {
+	padding: 15px 20px;
+}
+
+.successForm {
+	background-color: transparent;
+}
+
+
+/* input required override */
+input:focus:required:invalid {border: 2px solid red;}
+input:required:valid { border: 2px solid black; }
+input.depth{border: inherit}/*override the default red border onload*/
