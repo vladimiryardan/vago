@@ -86,8 +86,6 @@
 		<meta property="robots" content="noindex, follow"/>
 			
 		<link rel="icon" type="image/png" href="../images/favicon.png">
-		<!---mini css feather icons --->
-		<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
 				
 	</head>
 	<body cz-shortcut-listen="true">
@@ -99,6 +97,7 @@
 						<div class="container vago2">
 						
 							<h1>
+								<img src="images/vago2.png" >
 								<b>
 									How can we help you today? 
 								</b>
@@ -108,21 +107,21 @@
 								<br>
 								in two working days
 							</h3>
-							<h2 class="fWeight">
+							<h3 class="fWeight">
 								<strong>
 									SALES ENQUIRIES 
 								</strong>
-							</h2>
+							</h3>
                         	<p>
                         	If you are considering one of our products, fill in the form. If you need 
                         	to get in touch with a sales person right now, call us at +1 (442) 237-6035 
                         	</p>
                         	
-                        	<h2 class="fWeight">
+                        	<h3 class="fWeight">
 								<strong>
 									SUPPORT ENQUIRIES 
 								</strong>
-							</h2>
+							</h3>
                         	<p>
                         		If you are a concerned customer, and would need immediate help, please 
                         		visit our Support Portal to find Frequently Asked Questions and Solutions 
@@ -130,16 +129,16 @@
                         	</p>
 						
 							
-							<h2 class="fWeight">
+							<h3 class="fWeight">
 								<strong>
 									OTHER ENQUIRIES 
 								</strong>
-							</h2>
+							</h3>
 							<ul>
-								<li>
+								<li class="enquiries">
 									If you're looking for opportunities to have a partnership with Salesforce.com, go right ahead and fill up the form available, and we'll get back to you as soon as possible.
 								</li>
-								<li>
+								<li class="enquiries">
 									If you're interested in having an exciting career at Salesforce.com, please click here and apply to start a wonderful and fruitful career with Salesforce.com.
 								</li>
 								<li>
@@ -154,8 +153,9 @@
 						<div class="container vago3">
 							<div class="details">
 								<div class="lead2">
+									<h3 style="color:white;"><i>Say hello!</i><h3>
 									<span class="lead">
-										<b>Say hello!</b> <br>
+										
 										Fill in the form with your basic information, along with your comments or questions, and we will get back to you as soon as possible.
 									</span>
 								</div>
@@ -182,13 +182,14 @@
 												</div>
 												<div class="col-sm-12 col-md-12">
 													<input class="depth" type="text" name="phonenumber" placeholder="Phone"
-													       onkeypress="return isNumberKey(event)" maxlength="20">
+													       onkeydown="return ( event.ctrlKey || event.altKey 
+										                    || (47<event.keyCode && event.keyCode<58 && event.shiftKey==false) 
+										                    || (95<event.keyCode && event.keyCode<106)
+										                    || (event.keyCode==8) || (event.keyCode==9) 
+										                    || (event.keyCode>34 && event.keyCode<40) 
+										                    || (event.keyCode==46) )" maxlength="20">
 												</div>
-												<div class="col-sm-12 col-md">
-													<textarea class="tArea" type="text" name="comments" placeholder="Questions / Comments"
-													          maxlength="500">
-													</textarea>
-												</div>
+												
 												<br>
 												<br>
 												
@@ -213,16 +214,74 @@
 				</div>
 			</div>
 		</div>
-			<footer>
+		<h1 style="text-align:center;">
+			LET OUR CUSTOMERS DO THE TALKING
+		</h1>
+		<br>
+    	<div class="container">
+    	
+    		<div class="row cCard">
+    			<div class="col-sm col-md-last col-lg-normal comments">
+    				<svg class="feather feather-message-square sc-dnqmqq jxshSx trending-up" 
+                	     xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24"
+                	     fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                	     stroke-linejoin="round" aria-hidden="true" data-reactid="801">
+                		<path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z">
+                		</path>
+                	</svg>
+                		<p style="text-align:center;">Alen Salamun</p>
+                	<p class="tComment" id="tComment">
+                		<i>"Simple, they take security serious. Meaning serious SOC with appropriate detection
+                		mechanisms to detect even user side attacks as phishing very quickly!"</i>
+                	</p>
+    			</div>
+	    			<div class="col-sm col-sm-first col-md-last comments2">
+	    				<svg class="feather feather-message-square sc-dnqmqq jxshSx trending-up" 
+                	     xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24"
+                	     fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                	     stroke-linejoin="round" aria-hidden="true" data-reactid="801">
+                		<path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z">
+                		</path>
+                	</svg>
+	                		<p style="text-align:center;">Leonard Haynes </p>
+	                	<p class="tComment" id="tComment">
+	                		<i>"It's very simple. Ease of access and ease of use. They are continually building and 
+	                		engage customers directly on social media every time there's any kind of bump"</i>
+	                	</p>
+	    			</div>
+    			<div class="col-sm col-md-first col-lg-normal comments3">
+                	<svg class="feather feather-message-square sc-dnqmqq jxshSx trending-up" 
+                	     xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24"
+                	     fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                	     stroke-linejoin="round" aria-hidden="true" data-reactid="801">
+                		<path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z">
+                		</path>
+                	</svg>
+                	    		
+                	
+                	<p style="text-align:center;">Jennifer White</p>
+                	<p class="tComment" id="tComment">
+                		<i>"I used to take up so much time doing my daily cold calling. Now all I have to do is just
+                		show myself at the client's door. I cant believe I just tried having a Virtual Assistant now!"</i>
+                	</p>
+    			</div>
+    		</div>
+    	</div>
+	<br>
+		<footer class="salesForceFooter">
     		<div class="row">
     			<div class="col-sm-8 col-sm-offset-2">
     				<div class="row">
     				
     					<div class="container vago2">
-    						<p>
+    						
+    						<p class="fText">
+    							
     							<strong>
     								Get in touch with someone right now, Call Us  
-    								<a class="telNum" href="tel:+14422376035" style="color:#383838;">+1 (442) 237-6035</a> 
+    								<a class="telNum" href="tel:+14422376035" style="color:white;">
+    									
+    									+1 (442) 237-6035</a> 
     							</strong>
     						</p>
     					</div>

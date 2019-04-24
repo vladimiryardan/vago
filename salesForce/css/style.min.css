@@ -1575,8 +1575,8 @@ progress.tertiary{
 }
 span[class^='icon-']{
     display:inline-block;
-    height:1em;
-    width:1em;
+    height:5em;
+    width:5em;
     vertical-align:-0.125em;
     background-size:contain;
     margin:0 calc(var(--universal-margin) / 4)
@@ -2338,17 +2338,16 @@ a#feather-banner svg{
 	
 .trending-up {
 		display:block;
-		height:35%; 
-		width:30%;
+		height:15%; 
+		width:15%;
 		margin:50px auto 20px;
 	}
 .monitor {
 	display:block;
-		height:25%; 
-		width:36%;
+		height:15%; 
+		width:15%;
 		margin: 50px auto 20px;
 	} 
-	
 
 .phone {
 	
