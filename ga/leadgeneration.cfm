@@ -90,6 +90,9 @@
 		<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
 
 		<!-- Hotjar Tracking Code for virtualassistantgo.com -->
+		<cfif cgi.REMOTE_HOST contains "localhost"  or real_ipaddress is "122.54.160.193" >
+		
+		<cfelse>
 		<script>
 		    (function(h,o,t,j,a,r){
 		        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -100,11 +103,14 @@
 		        a.appendChild(r);
 		    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 		</script>
-
+		</cfif>
 		<!---
 			for Conversion tracking 
 		<!-- Global site tag (gtag.js) - Google Ads: 1034368472 -->
 		--->
+		<cfif cgi.REMOTE_HOST contains "localhost" or real_ipaddress is "122.54.160.193" >
+		
+		<cfelse>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1034368472"></script>
 		<script>
 		  window.dataLayer = window.dataLayer || [];
@@ -113,13 +119,16 @@
 		
 		  gtag('config', 'AW-1034368472');
 		</script>
-
+		</cfif>
 		<!---
 		<!-- 
 		Event snippet for User enter email conversion page
 		In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. 
 		-->
 		--->
+		<cfif cgi.REMOTE_HOST contains "localhost"  or real_ipaddress is "122.54.160.193" >
+		
+		<cfelse>
 		<script>
 		function gtag_report_conversion(url) {
 		  var callback = function () {
@@ -134,9 +143,12 @@
 		  return false;
 		}
 		</script>
-
+	</cfif>
 
 	<!--- tiledesk --->
+	<cfif cgi.REMOTE_HOST contains "localhost"  or real_ipaddress is "122.54.160.193" >
+		
+	<cfelse>
 	<script type="application/javascript">
 	  window.tiledeskSettings = 
 	    {
@@ -152,7 +164,7 @@
 	      fjs.parentNode.insertBefore(js, fjs);
 	    }(document, 'script', 'tiledesk-jssdk'));
 	</script>
-				
+</cfif>				
 	</head>
 	<body cz-shortcut-listen="true">
 	
@@ -390,17 +402,19 @@
     			</div>
     		</div>
     	</footer>
-
-<script>
-	feather.replace()
-	var bName = document.getElementById("businessName").required;
-	function isNumberKey(evt){
-	var charCode = (evt.which) ? evt.which : event.keyCode
-	if (charCode > 31 && (charCode < 48 || charCode > 57))
-	return false;
-	return true;
-	}
-</script> 
-							
+		<cfif cgi.REMOTE_HOST contains "localhost"  or real_ipaddress is "122.54.160.193" >
+		
+		<cfelse>
+	<script>
+		feather.replace()
+		var bName = document.getElementById("businessName").required;
+		function isNumberKey(evt){
+		var charCode = (evt.which) ? evt.which : event.keyCode
+		if (charCode > 31 && (charCode < 48 || charCode > 57))
+		return false;
+		return true;
+		}
+	</script> 
+</cfif>							
 	</body>
 </html>
