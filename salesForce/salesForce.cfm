@@ -229,7 +229,7 @@
                 		<path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z">
                 		</path>
                 	</svg>
-                		<p style="text-align:center;">Alen Salamun</p>
+                		<p class="cName">Alen Salamun</p>
                 	<p class="tComment" id="tComment">
                 		<i>"Simple, they take security serious. Meaning serious SOC with appropriate detection
                 		mechanisms to detect even user side attacks as phishing very quickly!"</i>
@@ -243,7 +243,7 @@
                 		<path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z">
                 		</path>
                 	</svg>
-	                		<p style="text-align:center;">Leonard Haynes </p>
+	                		<p class="cName">Leonard Haynes </p>
 	                	<p class="tComment" id="tComment">
 	                		<i>"It's very simple. Ease of access and ease of use. They are continually building and 
 	                		engage customers directly on social media every time there's any kind of bump"</i>
@@ -259,7 +259,7 @@
                 	</svg>
                 	    		
                 	
-                	<p style="text-align:center;">Jennifer White</p>
+                	<p class="cName">Jennifer White</p>
                 	<p class="tComment" id="tComment">
                 		<i>"I used to take up so much time doing my daily cold calling. Now all I have to do is just
                 		show myself at the client's door. I cant believe I just tried having a Virtual Assistant now!"</i>
